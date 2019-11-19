@@ -1,0 +1,2233 @@
+A	A	A	A	A	A	AN
+	Aa Aa Aa	Aa	Aa		Aa	a a a a a a a a  aN
+A	Aa: A	Aa	Aa Aa		Aa	a a a aN
+A a A	Aa a a'a a a a a a a (a a (A a A)A )	Aa	Aa Aa		Aa	a a aN
+A	Aa: A	Aa	Aa Aa		Aa	a a aN
+A	Aa Aa a (A a a, a A)	Aa	Aa Aa		Aa/Aa	a a 0N
+A	Aa: A	Aa	Aa Aa		Aa	a aN
+A	Aa: A	Aa	Aa Aa		Aa	a a a a a aN
+A	Aa Aa a (A a a, a A)	Aa	Aa Aa		Aa/Aa	a 0N
++A	Aa ('Aa' a A a a)	Aa	Aa Aa		Aa	a a a 0 0 a() aN
++A	Aa a A a a-a	Aa	Aa Aa		Aa/Aa	a a a aN
+A+A	Aa A a A	Aa	Aa Aa		Aa	a a a aN
+-A	Aa: 0-A	Aa	Aa Aa		Aa	a a a a a a a a  aN
+A-A	Aa A a A	Aa	Aa Aa		Aa	a a a a a N
+A	Aa ('Aa' a A a a)	Aa	Aa Aa		Aa	a a() a() aN
+A	Aa A a A	Aa	Aa Aa		Aa	a a a    aN
+A	Aa A	Aa	Aa Aa		Aa	a a a a AaN
+A	Aa a a a A, a a 0	Aa	Aa Aa		Aa/Aa	a a aN
+A	Aa Aa Aa a A a A	Aa	Aa Aa		Aa	a() a() a a() a a() a a Aa a a a aN
+A	Aa A	Aa	Aa Aa		Aa/Aa	a a a a Aa a a a a AaN
+A	Aa Aa Aa a A a A	Aa	Aa Aa		Aa	a a a() a a() a a a aN
+A	Aa A	Aa	Aa Aa		Aa/Aa	a a a a a a AaN
+A	Aa a a a	Aa	Aa Aa		Aa	a a a a a() a()N
+A	Aa a A a A	Aa	Aa Aa		Aa	a a a a() aN
+A	Aa a a a	Aa	Aa Aa		Aa	a a a() a()N
+A	Aa a A a A	Aa	Aa Aa		Aa	a a a a()N
+A	Aa a a a A	Aa	Aa Aa		Aa	a a aN
+Aa	Aa a	Aa	Aa Aa		Aa	a a a a-a a a a-aN
+A	Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a aN
+A	Aa a a a A	Aa	Aa Aa		Aa	a a a a a a a [0] a a aN
+Aa	Aa a	Aa	Aa Aa		Aa	a a a a-a a a-a aN
+A	Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a a aN
+A	Aa: 0A	Aa	Aa Aa		Aa	a a a a a aN
+A	Aa A a A	Aa	Aa Aa		Aa	a a  a aN
+|A	Aa (a a)	Aa	Aa Aa		Aa	a a a a a a a a 0 0|N
+A|A	Aa a a A a A	Aa	Aa Aa		Aa	a a a a a a a a a() a % a() aN
+!A	Aa (Aa a a A+0)	Aa	Aa Aa		Aa	a a a a a a() a() N
+A!A	Aa a a a a A a A (a Aa a)	Aa	Aa Aa		Aa	a a a a a a a a a aN
+A!A	Aa a a a A, a a 0	Aa	Aa Aa		Aa/Aa	a a aN
+?A	Aa a a a A	Aa	Aa Aa		Aa	a a a a a aN
+?A	Aa a a a (0,0) a A=0 a A a A=0	Aa	Aa Aa		Aa	a a a a a aN
+Aa?Aa	Aa: Aa a a a Aa (a a)	Aa	Aa Aa		Aa Aa	a a a a a a a aN
+A<A	Aa Aa	Aa	Aa Aa		Aa	a a a  a aN
+A<A	Aa a Aa	Aa	Aa Aa		Aa/Aa	a  AaN
+A	Aa Aa Aa Aa Aa	Aa	Aa Aa		Aa	a a  a a a aN
+A	Aa a	Aa	Aa Aa		Aa/Aa	a a a a a a a   AaN
+A=A	Aa Aa	Aa	Aa Aa		Aa	a ===N
+A=A	Aa aA	Aa	Aa Aa		Aa/Aa	a a a a a a a a    Aa a a Aa aN
+A	Aa Aa Aa Aa Aa	Aa	Aa Aa		Aa	a a a  a a a aN
+A	Aa a Aa	Aa	Aa Aa		Aa/Aa	a a   a a Aa aN
+A>A	Aa Aa	Aa	Aa Aa		Aa	a a a  a aN
+A>A	Aa a	Aa	Aa Aa		Aa/Aa	a a  a a AaN
+A	Aa Aa Aa	Aa	Aa Aa		Aa	a a a != <> /=N
+A	Aa A	Aa	Aa Aa		Aa/Aa	a a a a    AaN
+A	Aa: Aa a a a a A (a a a)	Aa	Aa Aa		Aa Aa	aN
+A	Aa: 0 a A a a a A, a 0	Aa	Aa Aa		Aa	a a a? === a aN
+Aa	Aa a a a a Aa	Aa	Aa Aa		Aa Aa	a a aN
+A	Aa: Aa a a a a a	Aa	Aa Aa		Aa Aa	a a a a() a a() a a a a a aN
+A	Aa Aa: ~A	Aa	Aa Aa		Aa	a a a a a aN
+A	Aa: Aa a-a (a a a)	Aa	Aa Aa		Aa	a a a aN
+Aa	Aa a a a a a	Aa	Aa Aa		Aa	a a a a aN
+AaAa	Aa Aa a a a Aa	Aa	Aa Aa		Aa	a a a aN
+AaA	Aa Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a a a a a a a a a aN
+A	Aa: Aa a (a a a)	Aa	Aa Aa		Aa	a a a a a a a aN
+AaAa	Aa Aa a a a a a a Aa	Aa	Aa Aa		Aa	a a-a a aN
+AaAa	Aa Aa a a a Aa	Aa	Aa Aa		Aa	a a a a aN
+AaA	Aa Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a a a a a a a a 0a a aN
+A	Aa: Aa a a a a A	Aa	Aa Aa		Aa Aa	a a   a aN
+AaA	Aa A a a a Aa	Aa	Aa Aa		Aa	a a a a a   a a() a a a aN
+*A	a a a a a A	Aa	Aa Aa		Aa	a a a a a a() 0.0 a a a^-0 a a^-0 aN
+A*A	A a a a a A	Aa	Aa Aa		Aa	a a a a a() ** aN
+A	Aa a a A	Aa	Aa Aa		Aa	a a a a a()N
+A	Aa-A a a A	Aa	Aa Aa		Aa	a a a a a a() a()N
+A	a a A	Aa	Aa Aa		Aa/Aa	a 0.0   a a aN
+A	Aa a	Aa	Aa Aa		Aa	a a a a a a a a a a aN
+~A	Aa a (A): 0=A	Aa	Aa Aa		Aa/Aa	a a a a a  a aN
+Aa~A	Aa: (~AaA)/Aa	Aa	Aa Aa		Aa	a a a a a a  a a a aN
+A aA	Aa: a a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a aN
+A aA	Aa Aa Aa Aa	Aa	Aa Aa	Aa Aa	Aa	~ a a a a  a aN
+aA	Aa: a a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a aN
+A a A	Aa: Aa a a a a a a A, a a, A a a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a aN
+Aa A	Aa: a a A a A, a a, AaA	Aa	Aa Aa	Aa Aa	Aa	a a a a a a aN
+a A	Aa: a a a a a a a A, a a, a a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a aN
+A aA	Aa: a a a a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a aN
+aA	Aa: a a a a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a aN
+Aa a/A	Aa: a a a a a A a a a Aa a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a a a a-a a a a a aN
+Aa/A	Aa a a a a A	Aa	Aa Aa		Aa	a a a a a a a a a a-a aN
+Aa/A	Aa a a A a a a Aa	Aa	Aa Aa		Aa	a a a a a a a aN
+a/A	Aa: a a a a a A a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a a a a-a a aN
+Aa aA	Aa Aa: a a a a a A a a a Aa a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a/[0] a a a a a 0a a-a a a a a aN
+AaA	Aa a a a a A	Aa	Aa Aa		Aa	a a a a a a Aa/[0] a 0a a a a a a-a aN
+AaA	Aa a a a A a a a Aa	Aa	Aa Aa		Aa	a a a a a a a a a-a Aa/[0] a 0a a a aN
+aA	Aa Aa: a a a a a A a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a a/[0] a a a a a 0a a-a a aN
+A	Aa A	Aa	Aa Aa		Aa/Aa	a'a a'a a a a Aa N
+A	Aa A	Aa	Aa Aa		Aa/Aa	a a a a a Aa N
+,A	Aa: Aa a a a	Aa	Aa Aa		Aa	a a a() a a a aN
+A,A	Aa: Aa a a a	Aa	Aa Aa		Aa	a a a a a a-a a aN
+Aa,Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+Aa,Aa	Aa a a a a a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+A	Aa: Aa a 0-a a	Aa	Aa Aa		Aa	a a a aN
+A	Aa a a a 0 a A a a a a a a	Aa	Aa Aa		Aa	Aa a a a a a aN
+Aa	Aa a Aa a a a-a a	Aa	Aa Aa		Aa	0-a a aN
+A	Aa Aa: Aa a a a	Aa	Aa Aa		Aa	a a a a a a a A,[0]A a a-a a a aN
+AaAa	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+AaAa	Aa a a a a a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+A	Aa a a A	Aa	Aa Aa		Aa	a a a a a A[0] A[0] a a 0aN
+AaA	Aa a A a a a a Aa	Aa	Aa Aa		Aa	a a aN
+A	Aa: Aa a A	Aa	Aa Aa		Aa	a a a a aN
+AaA	Aa a a A a a Aa (a a a)	Aa	Aa Aa		Aa	a a a a a a-a a a-a a a aN
+A	Aa: A a a a, a a a A	Aa	Aa Aa		Aa	a a a a a aN
+AaA	Aa A a a Aa (a a a)	Aa	Aa Aa		Aa	a a a a a a aN
+A	Aa a a A a a	Aa	Aa Aa		Aa	a a a a a a .a a a aN
+AaA	Aa A a a Aa	Aa	Aa Aa		Aa	a a a aN
+Aa	Aa a a a a a a a Aa	Aa	Aa Aa		Aa Aa	a a a a a a a   a a 0 0... a aN
+A	Aa a: Aa a a A a a a A	Aa	Aa Aa		Aa Aa	a a a   a a a a 0a a a aN
+AaA	Aa a a A a a a Aa	Aa	Aa Aa		Aa Aa	a a a a a aN
+A	Aa: Aa a a a a A	Aa	Aa Aa		Aa	a a a    a() a aN
+A	Aa a a a A, 0 a a a A, a 0	Aa	Aa Aa		Aa	a a a a a a    a a aN
+A	Aa a a 0a a A	Aa	Aa Aa		Aa Aa	a a a a a a aN
+Aa	Aa a a a a a Aa	Aa	Aa Aa		Aa	a a a a aN
+A	Aa a a a A a a a a-a A	Aa	Aa Aa		Aa Aa	a a a a a a a a a a a aN
+A	Aa: Aa a a a A	Aa	Aa Aa		Aa	a a a a a a a aN
+AaAa	Aa: Aa,Aa~Aa	Aa	Aa Aa		Aa	a a aN
+AaAa	Aa: (AaAa)/Aa	Aa	Aa Aa		Aa	a a aN
+a A	Aa: a a a A a a A a a A a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a a aN
+A	Aa: Aa a a A a	Aa	Aa Aa		Aa Aa	a a a a aN
+Aa	Aa a	Aa	Aa Aa		Aa Aa	a a a aN
+A	Aa a a a A	Aa	Aa Aa		Aa Aa	a a a a a a-a aN
+A	Aa: Aa a a A a	Aa	Aa Aa		Aa Aa	a a a a aN
+A	Aa a a a A	Aa	Aa Aa		Aa Aa	a a a a a a-a aN
+Aa\A	Aa a a a A	Aa	Aa Aa		Aa	a a aN
+a\A	Aa: a a a a A a a a a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a a-a a aN
+AaA	Aa a a a A	Aa	Aa Aa		Aa	a a Aa\[0] a a aN
+aA	Aa Aa: a a a a A a a a a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a\[0] a a a a a 0a a-a a aN
+A	Aa: Aa a a a a A	Aa	Aa Aa		Aa	a a a ^A   a a a aN
+Aa	Aa a	Aa	Aa Aa		Aa	a a aN
+AaA	Aa a a a A	Aa	Aa Aa		Aa	a a a a aN
+A aA	Aa: a a a a A a a a A a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a aN
+aA	Aa: a a a a a a A a a a A a	Aa	Aa Aa	Aa Aa	Aa	a a a 0aN
+A	Aa a a a a a a a a a a A a A	Aa	Aa Aa		Aa	a a a a a a-a a-a a a a-a a-a a a-a a a a a a-0 a0N
+A a.a A	Aa Aa: a / a a a a a A a a a a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a a a aN
+A	Aa: Aa A a a a A	Aa	Aa Aa		Aa	a a a a a a a a-a a aN
+AaA	Aa a a a a A a a Aa	Aa	Aa Aa		Aa	N
+A	Aa a A a a a A	Aa	Aa Aa		Aa	a a a a a a a a a a aN
+Aa	Aa a a Aa (a Aa)	Aa	Aa Aa		Aa	a a a aN
+Aa	Aa a-a a Aa (a-a Aa)	Aa	Aa Aa		Aa	a a a a aN
+AaAa	Aa a a a a a Aa a a Aa	Aa	Aa Aa		Aa	a a aN
+AaAa	Aa Aa a a Aa	Aa	Aa Aa		Aa	a a aN
+Aa	Aa: Aa a a Aa	Aa	Aa Aa		Aa Aa	a a a a a a a() a a a aN
+Aa	Aa Aa a a A	Aa	Aa Aa		Aa Aa	a a a a a a a() a a a aN
+A	Aa: Aa a a A	Aa	Aa Aa		Aa Aa	a a a a a a aN
+AaA	Aa A a (a, a) a Aa	Aa	Aa Aa		Aa Aa	a a a a a a a aN
+A a&A	Aa: a a A a A a a a a	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+a&A	Aa: a a a a a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a aN
+AaA	A-a: Aa a a-a a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a aN
+a aA	Aa Aa (a/a a)	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a aN
+aA	Aa	Aa	Aa Aa		Aa	a a a a a a a a aN
+	Aa Aa	Aa	Aa Aa Aa, Aa Aa		Aa	a a a a aN
+	Aa (a a a a a)	Aa	Aa Aa		Aa	a aN
+0	Aa: Aa a a a a a	Aa	Aa Aa		Aa	a :AaN
+Aa	Aa a a a a a a Aa (a a a Aa a a)	Aa	Aa Aa		Aa	a a a 0aN
+	Aa/Aa Aa Aa	Aa	Aa		Aa	a a  N
+	Aa/Aa Aa Aa	Aa	Aa		Aa	a a   aN
+A aA,A	Aa a a a a a (A,A) a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a aN
+A.a A	Aa Aa: a a a a a A a a a a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+aA	Aa a a a a	Aa	Aa Aa		Aa	a a aN
+	Aa Aa	Aa	Aa Aa Aa, Aa Aa	Aa Aa;Aa Aa	Aa	a a a a aN
+Aa Aa 	A-a a a A a	Aa	Aa Aa		Aa	a a aN
+	Aa Aa Aa	Aa	Aa, Aa Aa, Aa Aa		Aa	a aN
+	Aa Aa Aa	Aa	Aa, Aa Aa, Aa Aa		Aa	a aN
+[a]A	Aa a a a A	Aa	Aa Aa		Aa	a a aN
+A[a]A	Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a aN
+[a]A	Aa: Aa a-a (a a a)	Aa	Aa Aa		Aa	a a aN
+Aa[a]A	Aa Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a a a a a aN
+[a]A	Aa: Aa a (a a a a a a)	Aa	Aa Aa		Aa	a a a a a aN
+Aa[a]A	Aa Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a a a a a a a 0a a aN
+Aa/[a]A	Aa a a a	Aa	Aa Aa		Aa	a a a a a a aN
+a/[a]A	Aa: a a a a a A a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a aN
+,[a]A	Aa a Aa: a a a a a a a	Aa	Aa Aa		Aa	a a a a aN
+,[a]A	Aa a Aa: a a	Aa	Aa Aa		Aa	a a a a a aN
+A,[a]A	Aa: Aa a a a	Aa	Aa Aa		Aa	a a a aN
+[a]A	Aa: Aa a a a a	Aa	Aa Aa		Aa	a a a a a a aN
+Aa[a]A	Aa a a A a a Aa (a a a)	Aa	Aa Aa		Aa	a a a a a a-a a a-a a a aN
+Aa[a]A	Aa A a a Aa (a a a)	Aa	Aa Aa		Aa	a a a a a a aN
+Aa[a]A	Aa A a a Aa a a a	Aa	Aa Aa		Aa	a a a a aN
+Aa\[a]A	Aa a a a A	Aa	Aa Aa		Aa	a a aN
+a\[a]A	Aa: a a a a A a a a a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a a-a a aN
+a aA	Aa Aa (a/a a)	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a aN
+(aA)A	Aa: a a A a A, a a, A a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a a aN
+A(aAa)A	Aa: a a a a a a-Aa a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a-a a a aN
+(aAa)A	Aa: a a a a a a-Aa a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a-a a a aN
+A@{A}A	Aa a a A a a a a a a A	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+A(a@A)A	Aa: a Aa a a a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a aN
+A(a@a)A	Aa: a Aa a a a a a Aa a (a A) a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a a a-0 a0N
+(A@A)A	Aa: a a a A a a a A a A	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+(A@a)A	Aa a a a A a a a a a Aa a (a A) a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a-0 a0N
+(Aa@Aa)Aa	Aa a Aa a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a aN
+(a@A)A	Aa: a a a a a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a aN
+(a@a)A	Aa: a a (a Aa) a a a a a Aa a (a A) a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a-0 a0N
+A(aAa)A	Aa: a Aa a A Aa a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a aN
+A(aAa)A	Aa: Aa a A Aa a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a aN
+A(a)A	Aa: a Aa a A a a A a a A a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a a aN
+A(a)A	Aa: a Aa a A a a A a A a A a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+(aAa)A	Aa: a a a A Aa a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a aN
+(aAa)A	Aa: a a (a a) a a A a a a (a a) Aa	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a a a aN
+A(Aa)A	A-a: Aa a a-a a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a aN
+A(aAa)A	Aa: a a a Aa a A a A	Aa	Aa Aa	Aa Aa	Aa	a a a a aN
+(aAa)A	Aa: a a a Aa a A	Aa	Aa Aa	Aa Aa	Aa	a a a a aN
+(a0 a0)A	Aa a	Aa	Aa Aa		Aa	a a a a a a a a a a a a a aN
+(a0 a0)a0 a0	Aa a a	Aa	Aa Aa		Aa	a a a a a a a a a a a a a a a a a a aN
+A@(A)A	Aa a a a a a A a a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a aN
+A	Aa a a	Aa	Aa		Aa Aa	a a .a a a aN
+A	Aa a a A a A	Aa	Aa		Aa Aa	a a a a a-a AN
+A	Aa a a a	Aa	Aa	Aa	Aa Aa	a a a # a a a a a a a )a a aN
+A	Aa a a 0 a 0	Aa	Aa		Aa Aa	0 a a 0-0 0N
+A	Aa a a a a a a a a a	Aa	Aa	Aa Aa	Aa	aN
+A	Aa a a a .A a	Aa	Aa	Aa Aa	Aa	N
+A a	Aa a a	Aa	Aa	Aa Aa	Aa Aa	a a a a )aN
+A	Aa a A a	Aa	Aa	Aa	Aa Aa	a a a )aN
+A	Aa a	Aa	Aa	Aa	Aa Aa	a a a aN
+Aa	Aa a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a )a )aN
+A a	Aa a a (a-a a a a a) a a a a	Aa	Aa	Aa	Aa Aa	a a a aN
+A 0	Aa a Aa Aa Aa a a Aa/Aa	Aa	Aa		Aa Aa	A a a a a a aN
+Aa_a	Aa a a	Aa	Aa	Aa Aa	Aa	a aN
+A a_a	Aa a a a .A Aa(a)	Aa	Aa	Aa	Aa Aa	a a.a aN
+Aa	Aa a a a a a	Aa	Aa	Aa	Aa Aa	a a )a aN
+aA	Aa a a a a a a a A	Aa	Aa	Aa Aa	Aa Aa	a a aN
+aA a	Aa a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+a_aA	Aa a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a aN
+aA a	Aa a a a	Aa	Aa	Aa Aa	Aa Aa	aN
+aA a	Aa a a a/a a a a	Aa	Aa	Aa	Aa Aa	a a a aN
+aA	Aa a (a)	Aa	Aa	Aa	Aa Aa	aN
+a_aA a	Aa Aa Aa a	Aa	Aa	Aa	Aa Aa	a a a a )a.a a.aN
+a_aA a	Aa A a a	Aa	Aa	Aa	Aa Aa	a a a a a a a a )a a a a a a a a a a a aN
+a_aA a	Aa a a a a/a	Aa	Aa	Aa	Aa Aa	a aN
+aA	Aa a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a )a aN
+aA	Aa a a a a a a a A	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+aA a	Aa a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+aA a	Aa a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a aN
+aA	Aa a a a a a a a	Aa	Aa	Aa	Aa Aa	a )a a aN
+aA a	Aa a a a (a a a a a)	Aa	Aa	Aa	Aa Aa	a aN
+aA	Aa a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a aN
+aA	Aa a (a a a a a a a)	Aa	Aa	Aa	Aa Aa	a a aN
+a_aA a_a	Aa a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a  a aN
+aA a	Aa 0 a a a, a 0	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+aA a	Aa a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+aA	Aa a, a, a, a a (a)	Aa	Aa	Aa	Aa Aa	a a a a a a a aN
+aA a	Aa a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+aA a	Aa A a a A a	Aa	Aa	Aa Aa	Aa Aa	a a a a a a aN
+aA	0 a a a a a, a 0	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+aA	Aa a a a a a a	Aa	Aa	Aa	Aa Aa	a aN
+aA a	Aa a a a a a a a a a a a	Aa	Aa	Aa	Aa Aa	a )aN
+aA a	Aa a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+a0 A a	Aa A a a A a	Aa	Aa	Aa Aa	Aa Aa	a A0A a a a a aN
+a0 A a	Aa A a a A a	Aa	Aa	Aa Aa	Aa Aa	a A0A a a a a aN
+a A a	Aa a a a a a a 'a'	Aa	Aa	Aa Aa	Aa Aa	a aN
+aA	Aa a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+aA a	Aa a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+aA	Aa a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a aN
+aA	Aa a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a a )a a aN
+aA a	Aa a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a aN
+aA a	Aa a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a aN
+aA	Aa a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a aN
+aA a	Aa a a a a a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a a a aN
+aA	Aa a a a a	Aa	Aa	Aa Aa	Aa Aa	N
+aA	Aa a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+aA a	Aa a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+a_aA	Aa (a) a	Aa	Aa	Aa	Aa Aa	aN
+A{a}	Aa/a a a (a) a a a a	Aa	Aa	Aa	Aa Aa	a a a a aN
+a_aA a {a}	Aa a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+a a{a} A a	Aa a a: a Aa a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a a a a a a a a-0 a0N
+aA a a a {a}	Aa a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+a{a} A a	Aa a (a a) a a	Aa	Aa	Aa Aa	Aa	a a aN
+a A a {a}	Aa a a a a a (a a)	Aa	Aa	Aa Aa	Aa Aa	a a aN
+a{a_a} A a	Aa a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+aA a {a}	Aa a a a a	Aa	Aa	Aa Aa	Aa Aa	.aN
+a{a_a} A a	Aa a a a a(a), a a	Aa	Aa	Aa	Aa Aa	a aN
+a{a_a} A 0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a{a_a} A 0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )a )aN
+aA a {a}	Aa a a a'a a (a/a a a a)	Aa	Aa	Aa Aa	Aa Aa	a aN
+aA a a {a}	Aa a a, a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+aA a a {a}	Aa a a a a(a) a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a a aN
+aA a {a}	Aa a, a-a a, a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a 0aN
+a {a} A a_a	Aa A a a A a	Aa	Aa	Aa Aa	Aa Aa	a a a a a a aN
+a A a {a}	Aa a a a a a a-a a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+a A a {a}	Aa a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+a{a} A a	Aa a a a, a a a a (a a a a=0)	Aa	Aa	Aa Aa	Aa Aa	a aN
+a{a_a} A a	Aa a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a a  aN
+a{a} A a	Aa a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a a a a a aN
+a{a} A a	Aa a a/a Aa a a	Aa	Aa	Aa Aa	Aa Aa	a-0 a0 a-0 a0 a-0 a0 a-0 a0 a-0 a0 a0 a() a() a() a() a a-0 a-0 a a a AaAaAaAa AaAaAaN
+a{a_a} A a	A a a/a A a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+{0}A 0	Aa a-a a a	Aa	Aa	Aa Aa	Aa	aN
+{a}A a	Aa a a a a a a (0 a a a a a a a a, a 0)	Aa	Aa	Aa	Aa Aa	a a a a )a a a a aN
+{a}a A a	Aa a/a a 'a' a 'a'	Aa	Aa	Aa Aa	Aa Aa	a a aN
+{a}a A a	Aa a/a a 'a' a 'a'	Aa	Aa	Aa Aa	Aa Aa	aN
+{a}A a	Aa a a a a a	Aa	Aa	Aa	Aa Aa	a a aN
+{a}a A a a	Aa a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+{a}A a	Aa a a a a(a)	Aa	Aa	Aa Aa	Aa	a aN
+{a}A a	Aa a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a a a aN
+{a}A a	Aa a a a a	Aa	Aa	Aa Aa	Aa Aa	aN
+{a}A a	Aa a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+{a}a A a	Aa a (a 0 a a a)	Aa	Aa	Aa Aa	Aa Aa	a aN
+{a}a A a	Aa a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+{a}a A a	Aa a a a a a a	Aa	Aa	Aa Aa	Aa Aa	aN
+a|a{a} A a	Aa A a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a aN
+a{a/a} A a	Aa a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+a{a}0 A a/a	Aa a a a 0 a a/a	Aa	Aa	Aa Aa	Aa Aa	a a a a aN
+A(0,0)	Aa a a a a a a 0 a 0	Aa	Aa		Aa Aa	a a a a a a a a aN
+A(0,0)	0: 0=0, a a0 a; 0: 0=a0	Aa	Aa		Aa	a a a a aN
+A(0,0)	Aa a a a a a-a a	Aa	Aa		Aa	0-a a A0-0 0-a a a aN
+a{a_a} A 0.0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a{a_a} A 0.0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a{a_a} A 0.0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a{a_a} A 0.0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a{a_a} A 0.0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a{a_a} A 0.0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a(A0)a	Aa 0 a a (a ? a * a) a, a 0	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+a(A0)a	Aa A a a A a a (a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a aN
+a(A0)a	Aa A a a A a a (a a a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a aN
+a{a} A a	Aa a a a a a a a	Aa	Aa	Aa Aa	Aa	a a a a aN
+A(0)	Aa a a a A A0 (a 0=a a 0=a)	Aa	Aa		Aa	a a a A A*A A A+Aa A0 A0  a a a A a a a a 0aN
+A(0)	Aa a a a a a a a a a	Aa	Aa		Aa Aa	a a a aN
+a{a_a} A 0.0 0.0	Aa a, a a	Aa	Aa	Aa	Aa Aa	a )aN
+a{a} A a {a}	Aa Aa a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+a{a} (a_a A a) a	Aa a a a a_a a a (a a a a a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+a{a} (a_a A a) a	Aa a a A a_a a a (a a a a a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a aN
+{a}a A a {a}	Aa (a a a 0) a a a Aa a	Aa	Aa	Aa Aa	Aa Aa	a a a N
+{a}A a a {a}	Aa a a a a (a>0) a a (a<0)	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a a a a a a aN
+{a}a A a a {a}	Aa a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+{a}{a} A a	Aa a (a a 0, a 'a a a')	Aa	Aa	Aa Aa	Aa Aa	a a a )a a aN
+{a}{a} A a	Aa a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+{a_a}a A a a {a}	Aa a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	aN
+{a}{a} A a	Aa a a a a a a Aa	Aa	Aa	Aa Aa	Aa	N
+{a}{a} A a	Aa/a a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a aN
+{a}{a} A a	Aa/a a a a a a a a a	Aa	Aa	Aa	Aa Aa	aN
+{a}{a} A a	Aa a a a a (a) a a a	Aa	Aa	Aa	Aa Aa	a a a a a a )aN
+{a}{a} A a_a	Aa a a a A a	Aa	Aa	Aa	Aa Aa	.a .a .a .a a++ a a aN
+{a_a}{a} A a	Aa a a a, a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a a )aN
+{a}{a} A a	Aa a a a (a a a a a a a a 'a://')	Aa	Aa	Aa Aa	Aa Aa	a a a a a a aN
+{a}{a} A a	Aa a a (a a a a=0) a a a 0 a a a a a a, a 0	Aa	Aa	Aa Aa	Aa Aa	a a )aN
+{a}{a} A a	Aa a a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a aN
+{a}{a} A a	Aa a a a a a a a a	Aa	Aa	Aa	Aa Aa	a a a a a a a aN
+{a}A a {a}	Aa a a a (a a a a a a {a})	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a a aN
+{a}a A a {a_a}	Aa a a a a a a	Aa	Aa	Aa Aa	Aa Aa	N
+{a}a A a {a}	Aa a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+{a}a A a {0}	Aa a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+{a}a A a {a}	Aa a-a a	Aa	Aa	Aa Aa	Aa Aa	a a a a a aN
+{a}a A a {a}	Aa a-a a	Aa	Aa	Aa Aa	Aa Aa	aN
+{a}a A a {a}	Aa-a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+{a}a A a {a}	Aa a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+{a}a_a A a {a}	Aa a a a a a	Aa	Aa	Aa Aa	Aa Aa	a aN
+{a}{a} A a	Aa a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a aN
+(0A)A	Aa A a a a A a	Aa	Aa	Aa Aa	Aa Aa	a A0A a a a a a a a a a aN
+A(0A0*0)	Aa a a a a a a A0	Aa	Aa		Aa	a a a A0 0-a a aN
+A(0A0*0)	Aa a a a a a a A0	Aa	Aa		Aa	a a a A0-0 0-a a aN
+{a}A a/a/a/a	Aa a a a a a a a a, a, a a a a (a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a aN
+{a}{0|0} A a	Aa a a a (a 0 a a) a	Aa	Aa	Aa	Aa Aa	a a a a a a aN
+{a}{a} A a/a	Aa a a a a a	Aa	Aa	Aa	Aa Aa	a a aN
+a0(A'A')a	Aa A a a A a	Aa	Aa	Aa Aa	Aa Aa	a A0A a a a a a aN
+a0(A'A')a	Aa A a a A a	Aa	Aa	Aa Aa	Aa Aa	a A0A a a a a a aN
+a {a}(A0)a_a	Aa A a a A a a (a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a aN
+a {a}(A0)a_a	Aa A a a A a a (a a a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a aN
+a{a} (a_a A a0) a	Aa a a a a-a a_a a a (a a a a a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a-a a aN
+a{a} (a_a A a0) a	Aa a a a-a A a_a a a (a a a a a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a a-a a a aN
+{a}a(A0)a	Aa a/a a 'a' (a ? a * a) a 'a'	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+{a}a(A0)a	Aa a/a a 'a' (a ? a * a) a 'a'	Aa	Aa	Aa Aa	Aa Aa	a aN
+{a_a}{a} A a	Aa a a a a a a a a a a	Aa	Aa	Aa Aa	Aa	a a aN
+{a/a}{a} A a/a	Aa (a a) a a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a a )a a aN
+a{a}0(A0)a/a	Aa a a a 0 a a/a (a ? a * a)	Aa	Aa	Aa Aa	Aa Aa	a a a a a aN
+{a}{a} A a a {a}	Aa a a a a	Aa	Aa	Aa Aa	Aa	a aN
+{a}{a} A a {a}	Aa a-a a a a a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+{a}{a}(A0)a	Aa a (a ? a * a, a a 0, a 'a a a')	Aa	Aa	Aa Aa	Aa Aa	a a a )a a a aN
+{0''}{a} A a	Aa (a a) a a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a a a a a a a )a a aN
+{a}{a} A a/{a}	Aa a a; a a A a	Aa	Aa	Aa Aa	Aa	a aN
+a{a}{a} A a {a} {a}	Aa a a a a (a a)	Aa	Aa	Aa Aa	Aa Aa	a a a() a a a a a a a a a aN
+{a}a {a} A a {a} {a}	Aa a a a a a 0:a, 0:a, 0:a (a a a a)	Aa	Aa	Aa Aa	Aa Aa	a a a aN
+{a}{a} A a {a_a} {a} 	Aa a a a a a-a a a a a a	Aa	Aa	Aa Aa	Aa	a a aN
+0A	Aa a a (a)	Aa	Aa Aa		Aa	a a a a a aN
++A	Aa: 0A	Aa	Aa Aa		Aa	aN
+A	Aa	Aa	Aa Aa		Aa	 ^0N
+?Aa	Aa Aa a a Aa	Aa	Aa Aa		Aa Aa	a a aN
+=A	Aa, a a a a	Aa	Aa Aa		Aa/Aa	0a a aN
+A	Aa, a a a a	Aa	Aa Aa		Aa/Aa	a a 0a a aN
+A a A	Aa a a (a a a)	Aa	Aa Aa		Aa Aa	a a a aN
+0+A	Aa	Aa	Aa Aa		Aa	a aN
+0A	Aa a a a, a, a a a A	Aa	Aa Aa		Aa	a a a a a 0a a aN
+0A	Aa a a a A	Aa	Aa Aa		Aa	a aN
+0A	Aa: 0A	Aa	Aa Aa		Aa	aN
+0A	Aa a A a a-a (a a a)	Aa	Aa Aa		Aa	a a aN
+0A	Aa a A a a-a (a a a)	Aa	Aa Aa		Aa	a a aN
+0A	Aa a a (a)	Aa	Aa Aa		Aa	a a a a a a aN
+0|A	Aa a a a	Aa	Aa Aa		Aa	aN
+0|A	Aa a a a a a A	Aa	Aa Aa		Aa Aa	aN
+0|A	Aa a A (a A a?)	Aa	Aa Aa		Aa	aN
+0<A	Aa a?	Aa	Aa Aa		Aa	aN
+0A	Aa-a?	Aa	Aa Aa		Aa	a a?N
+0=A	Aa?	Aa	Aa Aa		Aa	aN
+0A	Aa-a?	Aa	Aa Aa		Aa	a a?N
+0>A	Aa a?	Aa	Aa Aa		Aa	aN
+0A	Aa-a?	Aa	Aa Aa		Aa	a a?N
+0A	Aa: Aa a a a	Aa	Aa Aa		Aa	a a a a a 0a a a a aN
+0A	Aa: Aa a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+A	Aa a a A a a a	Aa	Aa Aa		Aa	0a a aN
+0*A	Aa-a	Aa	Aa Aa		Aa	a a^0 aN
+0A	Aa	Aa	Aa Aa		Aa	a() a-0 a0() 0-aN
+0A	a  a: (0-A*0)*.0	Aa	Aa Aa		Aa/Aa	a a a()N
+0A	Aa a a a a a (a0)	Aa	Aa Aa		Aa/Aa	Aa aN
+0A	Aa A	Aa	Aa Aa		Aa/Aa	a() aN
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a() a a aN
+0A	Aa a a A	Aa	Aa Aa		Aa/Aa	a()N
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a a() a N
+0A	Aa A	Aa	Aa Aa		Aa/Aa	a() aN
+0A	Aa A	Aa	Aa Aa		Aa/Aa	a() aN
+0A	a  a: (0+A*0)*.0	Aa	Aa Aa		Aa/Aa	a a a()N
+0A	Aa a a a a a a	Aa	Aa Aa		Aa/Aa	Aa aN
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a() aN
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a() aN
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a() aN
+0A	a  a: (-0+A*0)*.0	Aa	Aa Aa		Aa/Aa	a a a()N
+0A	Aa a a A	Aa	Aa Aa		Aa/Aa	a()N
+0A	Aa A	Aa	Aa Aa		Aa/Aa	a a() a() a a() a^-0()N
+0A	+A	Aa	Aa Aa		Aa/Aa	aN
+0A	A0A0	Aa	Aa Aa		Aa/Aa	a a aN
+0A	*A0A0	Aa	Aa Aa		Aa/Aa	a a a()N
+0A	Aa A	Aa	Aa Aa		Aa/Aa	a a() a() a a() a^-0()N
+0A	Aa A	Aa	Aa Aa		Aa/Aa	a a() a() a a() a^-0()N
+0A	a  a: (A+0)((A-0)A+0)*.0	Aa	Aa Aa		Aa/Aa	a a a()N
+0A	Aa a (0) a a a a	Aa	Aa Aa		Aa/Aa	Aa aN
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a a a() a() a a() a a() a^-0()N
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a a a() a() a a() a a() a^-0()N
+0A	Aa a A	Aa	Aa Aa		Aa/Aa	a a a() a() a a() a a() a^-0()N
+0A	a  -a: -(-0+A*0)*.0	Aa	Aa Aa		Aa/Aa	a a a()N
+0A	A	Aa	Aa Aa		Aa/Aa	aN
+/A	Aa: Aa a a-a a a a a a A	Aa	Aa Aa	Aa	Aa	a a a a a a aN
+/A	Aa: Aa a a-a a a a a a A	Aa	Aa Aa	Aa	Aa	a a a a a a a 0aN
++/A	Aa a A (a-a)	Aa	Aa Aa		Aa	a a a a   a() a aN
+Aa+/A	Aa a a Aa a a a A	Aa	Aa Aa		Aa	a a aN
+-/A	Aa-a a a: ((A[0]-A[0])+A[0])-A[0]+	Aa	Aa Aa		Aa	a a a aN
+/A	Aa a A (a-a)	Aa	Aa Aa		Aa	a a a   a aN
+/Aa	Aa a a a a Aa	Aa	Aa Aa		Aa	a aN
+/Aa	Aa a a a a Aa	Aa	Aa Aa		Aa	a a aN
+/A	Aa a a? (a-a)	Aa	Aa Aa		Aa/Aa	a? a a  a a a a?N
+/Aa	Aa a a?	Aa	Aa Aa		Aa/Aa	a  a a-0 a0 aN
+/A	Aa a A	Aa	Aa Aa		Aa	aN
+/A	Aa a A	Aa	Aa Aa		Aa	aN
+/A	Aa a a A	Aa	Aa Aa		Aa	N
+/A	Aa Aa	Aa	Aa Aa		Aa/Aa	N
+0/A	Aa a a 0 (a a a a-a a)	Aa	Aa Aa		Aa	a a 0-a 0a a0 a a a a-a-aN
+A	Aa: Aa a a-a a a a a a A	Aa	Aa Aa	Aa	Aa	a a a a a a a 0aN
+A	Aa: Aa a a-a a a a a a A	Aa	Aa Aa	Aa	Aa	a a a a a a a 0aN
++A	Aa a A (a-a)	Aa	Aa Aa		Aa	a a a a   a aN
+-A	Aa-a a a: ((A[0]-A[0])+A[0])-A[0]+	Aa	Aa Aa		Aa	a a a aN
+A	Aa a A (a-a)	Aa	Aa Aa		Aa	a a a   a aN
+0A	Aa a a a a	Aa	Aa Aa		Aa	a 0aN
+0,A	Aa a a a 0a	Aa	Aa Aa		Aa	a a aN
+,A	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a a a a a aN
+A,A	Aa a a	Aa	Aa Aa		Aa	a a a aN
+,/Aa	Aa: Aa a a a a a Aa (a a a a a 0) a a a a a	Aa	Aa Aa	Aa	Aa	a a a a a a a a a aN
+Aa,/Aa	Aa a a a a Aa (Aa a a a)	Aa	Aa Aa		Aa	a-a a a-a a a-a a a-a a aN
+0A	Aa a a a 0a	Aa	Aa Aa		Aa	a a aN
+/Aa	Aa: Aa a a a a a Aa (a a a a a 0) a a a a a	Aa	Aa Aa	Aa	Aa	a a a a a a a a a a a a 0aN
+0A	Aa: Aa a a a A	Aa	Aa Aa		Aa	A[0;] A[0;] A[0] A[0] a a a 0a a aN
+0A	Aa Aa	Aa	Aa Aa		Aa/Aa	a aN
+0A	Aa	Aa	Aa Aa		Aa/Aa	a a a N
+A aA	Aa: a Aa a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a() a a a-aN
+aA	Aa: a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a() a a a-aN
++\A	Aa a	Aa	Aa Aa		Aa	aN
+\A	Aa a a a a a	Aa	Aa Aa		Aa/Aa	0 a a 0aN
+\A	Aa a a (a a a a a a a)	Aa	Aa Aa		Aa/Aa	a 0a a a 0a a aN
+\A	Aa a a a a a	Aa	Aa Aa		Aa/Aa	0 a a 0aN
+\A	Aa a (a-a)	Aa	Aa Aa		Aa	a a a a aN
+\A	Aa a (a-a)	Aa	Aa Aa		Aa	a a a a aN
+<\A	Aa a a a a a	Aa	Aa Aa		Aa/Aa	0a a a a 0aN
+\A	Aa a a a a a	Aa	Aa Aa		Aa/Aa	0 a a 0aN
+\A	Aa a a (a a a a a a a)	Aa	Aa Aa		Aa/Aa	a 0a a a 0aN
+\A	Aa a Aa a a a	Aa	Aa Aa		Aa/Aa	a-0 a0N
+\A	Aa: Aa a a a a	Aa	Aa Aa		Aa	0a a a aN
+A	Aa a (a-a)	Aa	Aa Aa		Aa	a a a a aN
+A	Aa a (a-a)	Aa	Aa Aa		Aa	a a a a aN
+0 0Aa	Aa a a a	Aa	Aa Aa		Aa	aN
+Aa	Aa a a a	Aa	Aa Aa		Aa/Aa	0a a a a aN
+0A	Aa a a a a a	Aa	Aa Aa		Aa	a aN
+0Aa	Aa  a A A A a a A a	Aa	Aa Aa		Aa	aN
+0Aa	Aa a a a a Aa	Aa	Aa Aa		Aa/Aa	aN
+0 0A	Aa a a a a a a	Aa	Aa Aa		Aa	a a a aN
+0 0 0Aa	Aa a A a a a	Aa	Aa Aa		Aa	a a aN
+aA	Aa-a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a-aN
+a,A	Aa: 'a' a a a a a a A a a a a a	Aa	Aa Aa	Aa	Aa	a a a a a a a a a aN
+aA	Aa: 'a' a a a a a a A a a a a a	Aa	Aa Aa	Aa	Aa	a a a a a a a a a a 0aN
+{0}A	Aa: 0 a a A	Aa	Aa Aa	Aa	Aa/Aa	a a a a a aN
++-A	Aa a a (a a)	Aa	Aa Aa		Aa	N
+-+A	Aa a A a a-a	Aa	Aa Aa		Aa/Aa	aN
+Aa	Aa 0	Aa	Aa Aa		Aa	a a a a-a aN
+A	Aa: a A A a a a 0	Aa	Aa Aa		Aa	N
+Aa/Aa	Aa a Aa a, a a a Aa	Aa	Aa Aa		Aa	a aN
+A	Aa a a a (a-a) a A[0;0;0]	Aa	Aa Aa		Aa	a a-a a a a-a A a a 0aN
+AaAa	Aa a a: Aa a a Aa	Aa	Aa Aa		Aa	aN
+Aa	Aa a a a a Aa	Aa	Aa Aa		Aa Aa	a a aN
+,Aa	Aa a a a a a Aa (a a Aa)	Aa	Aa Aa		Aa Aa	a a a aN
+Aa	Aa a a a a a Aa a a a a A	Aa	Aa Aa		Aa Aa	a a a a 0aN
+AaAa	Aa Aa a a 0Aa?	Aa	Aa Aa		Aa	a? a? aN
+Aa	Aa a a a Aa a a a a A (a a Aa)	Aa	Aa Aa		Aa/Aa	a 0a a a a a a-0 a0N
+A a0A	Aa: a Aa a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a() a a a-aN
+a0A	Aa: a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a() a a a-aN
+A	Aa a a a a A	Aa	Aa Aa		Aa Aa	a aN
+[0]Aa	Aa a a a a	Aa	Aa Aa		Aa	a a-a a a a aN
++Aa	Aa Aa	Aa	Aa Aa		Aa	a-a a A A^A A A^ A A^A A A^N
+Aa	Aa 0 a	Aa	Aa Aa		Aa	a a a -0 0 a-a aN
+Aa	Aa 0 a-a	Aa	Aa Aa		Aa	a a a -0 0 a-a a aN
+Aa	Aa a a a a a a a a	Aa	Aa Aa		Aa	a a a 0a aN
+Aa	Aa a Aa a a a-a a	Aa	Aa Aa		Aa	0-a a aN
+A+.A	Aa/Aa/Aa/Aa Aa a A a A (0A  0A)	Aa	Aa Aa		Aa	a a a    a aN
+A-.A	Aa Aa Aa a A a A (0A  0A)	Aa	Aa Aa		Aa	N
+Aa.Aa	Aa a a a a	Aa	Aa Aa		Aa/Aa	a a-0 a0N
+Aa.Aa	Aa a Aa a a Aa	Aa	Aa Aa		Aa	a a aN
+Aa.+Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a aN
+Aa.Aa	Aa a Aa a a Aa	Aa	Aa Aa		Aa	a aN
+Aa-.Aa	Aa a a a a AaAa	Aa	Aa Aa		Aa	aN
+Aa+.=Aa	Aa a a (a a) a a a	Aa	Aa Aa		Aa	a a aN
+A.=Aa	Aa a Aa a a a a A	Aa	Aa Aa		Aa	aN
+Aa.=Aa	Aa a a Aa a a a a Aa	Aa	Aa Aa		Aa	a a a a-0 a0N
+Aa.*A	Aa a a a Aa a a A	Aa	Aa Aa		Aa	a-aN
+Aa.+Aa	Aa Aa a Aa a a Aa a	Aa	Aa Aa		Aa	a a a aN
+Aa.Aa	Aa Aa aAa a a Aa a	Aa	Aa Aa		Aa	a a a aN
+A,.A	Aa a a A a A	Aa	Aa Aa		Aa	aN
+A.,A	Aa a: a a a A a A	Aa	Aa Aa		Aa	N
+AaAa	Aa a Aa-a a a a Aa	Aa	Aa Aa		Aa	N
+Aa	Aa a a a a a a (a)	Aa	Aa Aa		Aa Aa	a aN
+{0}A	Aa: 0 a a a a a A	Aa	Aa Aa	Aa	Aa/Aa	a a a a a a 0a a a a a aN
+A(a0)A	Aa a a a	Aa	Aa	Aa Aa	Aa Aa	aN
+Aa(a0 0)Aa	Aa a a a Aa a a a a Aa	Aa	Aa Aa		Aa Aa	a a a a a a-a a a a a aN
+Aa(a0)Aa	Aa a a a Aa a a a a Aa	Aa	Aa Aa		Aa Aa	a a a a a a-a a a a aN
+Aa(@0)A	Aa a a a a A a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a a 0a a aN
+A(a0)A	Aa: a A a a A  A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a(a,a) a(a,a) a(a,a) a aN
+(a0)A	Aa: a A a a A  a A	Aa	Aa Aa	Aa Aa	Aa Aa	a(a) a(a) a(a) a aN
+AaAa	Aa a Aa a a a a Aa	Aa	Aa Aa		Aa	a a aN
+|A	Aa a a a	Aa	Aa Aa		Aa	aN
+?A	Aa Aa a a A	Aa	Aa Aa		Aa Aa	a a a a aN
+AaAa	Aa a a Aa a a a (a ,) a Aa	Aa	Aa Aa		Aa	a a a a-a a aN
+A*A	A'a Aa a A	Aa	Aa Aa		Aa	a    N
+A*~A	Aa a a a a A a a a a A	Aa	Aa Aa		Aa	0 a aN
+A a A	Aa-Aa: a a a (a A) a (a A), a a (a A) a (a A)	Aa	Aa Aa		Aa	a a (aA)a(aA) (aA)aAN
++/A	Aa a a a A	Aa	Aa Aa		Aa	a aN
+A@Aa	Aa Aa a A a a Aa (Aa'a a a 0a a A)	Aa	Aa Aa		Aa	a a a a a a a-0 a0N
+/,A	Aa a a?	Aa	Aa Aa		Aa/Aa	a a a  N
+/,A	Aa a a?	Aa	Aa Aa		Aa/Aa	a a  N
+A	Aa: Aa a a a a a a a a a A	Aa	Aa Aa	Aa	Aa Aa	a a a a a a a 0aN
+0Aa	Aa a a a a a Aa a a a	Aa	Aa Aa		Aa	a a aN
+A	Aa a a a	Aa	Aa Aa		Aa	aN
+A	Aa a a A a a A	Aa	Aa Aa		Aa	a a aN
+AaAa	Aa a a a a a a AaAaA	Aa	Aa Aa		Aa	a aN
+A	Aa a a A a A	Aa	Aa Aa		Aa Aa	a a a aN
+Aa	Aa a Aa a a a a a a A	Aa	Aa Aa		Aa Aa	a a a a a aN
++\A	Aa a a a a A	Aa	Aa Aa		Aa	a aN
++\Aa	Aa Aa a a	Aa	Aa Aa		Aa	aA0 aA0 0aN
+-\Aa	Aa a (0,-0,0,-0, ) a a Aa	Aa	Aa Aa		Aa	aA0 aA0N
+0Aa	Aa a a a a a	Aa	Aa Aa		Aa	a a aN
+A	Aa a a a a a a a	Aa	Aa Aa		Aa	a a a a a a aN
++.Aa	Aa a a a Aa	Aa	Aa Aa		Aa	a a a(a^0) Aa aN
+Aa+.Aa	Aa a a a Aa a a Aa	Aa	Aa Aa		Aa	N
+Aa.A	Aa a a A a a a a Aa?	Aa	Aa Aa		Aa	a a a aN
+Aa,[0.0]Aa	Aa-a a a a a (a a)	Aa	Aa Aa		Aa	a aN
+AaAa	Aa a a a Aa a a a a a(a) Aa	Aa	Aa Aa		Aa	a a a aN
+Aa Aa 	A-a a a A a	Aa	Aa Aa		Aa	a a a aN
+A(0+-)A	Aa a a	Aa	Aa Aa		Aa	a a a-a aN
+A(-)A	Aa a a (0:A a a, 0:A=A, 0:A a a)	Aa	Aa Aa		Aa	a a() <=> >-<N
+A(0-)A	Aa A	Aa	Aa Aa		Aa	a a a a a a Aa N
+Aa(0)Aa	Aa Aa a a a 0AaAa	Aa	Aa Aa		Aa	a a a 0N
+A(0+|)A	Aa a a A a a a A	Aa	Aa Aa		Aa	N
+A(|-)A	Aa a a A a A	Aa	Aa Aa		Aa	a aN
+(0||)A	Aa a a a a A	Aa	Aa Aa		Aa	aN
+A(0=)A	Aa A a A a-a?	Aa	Aa Aa		Aa	a? a a aN
+A(0=|)A	Aa A a A?	Aa	Aa Aa		Aa	a a a a N
+A(0|)A	Aa A a a A?	Aa	Aa Aa		Aa	a a a  aN
+(0)A	Aa A a Aa Aa?	Aa	Aa Aa		Aa Aa	a a? a? a?N
+(0=)A	Aa A a Aa Aa?	Aa	Aa Aa		Aa Aa	a a?N
+(0>)A	Aa A a Aa-Aa Aa?	Aa	Aa Aa		Aa Aa	a a? a? a? a?N
+Aa(?)Aa	Aa Aa a a a Aa a a	Aa	Aa Aa		Aa	a a aN
+()A	Aa A a Aa?	Aa	Aa Aa		Aa Aa	aN
+()A	Aa (a a a) a A	Aa	Aa Aa		Aa Aa	a a a  aN
+(0)A	Aa a a a	Aa	Aa Aa		Aa Aa	a a a aN
+(0)A	Aa a a a	Aa	Aa Aa		Aa Aa	a a a aN
+(0+)A	Aa a a a	Aa	Aa Aa		Aa	N
+A()A	Aa a a a a A a a A (a a)	Aa	Aa Aa		Aa/Aa	a aN
+(0)A	Aa a a a a A	Aa	Aa Aa		Aa/Aa	a aN
+A(0)A	Aa a a a a a A a a A	Aa	Aa Aa		Aa/Aa	aN
+(0)A	Aa	Aa	Aa Aa		Aa/Aa	a a() a() a() a() aN
+(0)A	Aa	Aa	Aa Aa		Aa/Aa	a a() a() aN
+(0)A	Aa	Aa	Aa Aa		Aa/Aa	a a() a() a() a() a() a() a() a() a() a() a() aN
+(0)A	Aa a a	Aa	Aa Aa		Aa/Aa	a a() a^-0() a() a() a^-0() a() a() a() a() a() aN
+(0)A	Aa a a	Aa	Aa Aa		Aa/Aa	a a() a^-0() a() a() a() aN
+(0)A	Aa a a	Aa	Aa Aa		Aa/Aa	a a() a() a^-0() a() a() a^-0() a() a() a^-0() a() a() a^-0() a() a() a() a() a() a() a() a() a() aN
+(-0)A	Aa	Aa	Aa Aa		Aa	a aN
+(0-)A	Aa a (A)	Aa	Aa Aa		Aa	a a a a a a  a aN
+(0)A	Aa a a a A	Aa	Aa Aa		Aa	a aN
+(0)A	Aa: A0	Aa	Aa Aa		Aa	aN
+(0)Aa	Aa a a a a a (a a)	Aa	Aa Aa		Aa	a a 0a a a a aN
+(0)Aa	Aa a a a a a (a a)	Aa	Aa Aa		Aa	a a a a aN
+(*0)A	Aa	Aa	Aa Aa		Aa	 ^0N
+(,0)A	Aa a a a 0a	Aa	Aa Aa		Aa	a a aN
+Aa(,0)Aa	Aa-a a a a a (a a)	Aa	Aa Aa		Aa	a aN
+Aa(,0)Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a a aN
+Aa(,0)Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a a aN
+(,0)A	Aa a a a a a a	Aa	Aa Aa		Aa	a AaAa a a a aN
+(0)A	Aa a a a 0a	Aa	Aa Aa		Aa	a a aN
+Aa()Aa	Aa a a a Aa a a a Aa (a A0, a Aa:0)	Aa	Aa Aa		Aa	a a aN
+Aa()Aa	A-a (a 0) a a	Aa	Aa Aa		Aa	a a a-a aN
+Aa()Aa	Aa a a a a (a A=0)	Aa	Aa Aa		Aa	Aa aN
+()Aa	Aa a a a a Aa	Aa	Aa Aa		Aa	a a aN
+(0 0)A	A a a	Aa	Aa Aa		Aa	aN
+(0 0)A	A a a	Aa	Aa Aa		Aa	aN
+(0 0)A	Aa a a a a-a a a a a a a a	Aa	Aa Aa		Aa Aa	a a a() a() a a a a a aN
+(0 0)A	Aa a a a a-a a a a a a a a	Aa	Aa Aa		Aa Aa	a a() a() a a a a aN
+Aa(0)A	Aa a a a A a a a Aa (a A0, a Aa:0)	Aa	Aa Aa		Aa	a aN
+(0)A	Aa: Aa a a	Aa	Aa Aa		Aa	A[-0;] A[-0;] A[-0] A[-0] A[0;] A[0;] A[0] A[0] a a a aN
+(0+)Aa	Aa Aa a	Aa	Aa Aa		Aa	a a a 0aN
+()A	Aa a Aa Aa a A	Aa	Aa Aa		Aa Aa	a a a a aN
+()A	Aa a a a A	Aa	Aa Aa		Aa Aa	N
+(0)A	Aa a a 0 a A	Aa	Aa Aa		Aa Aa	a a a a a a 0aN
+A(0)A	Aa a a a A a a a a A (A[a;]A[a;])	Aa	Aa Aa		Aa Aa	a a a a a a a-a a a a a aN
+Aa(,)Aa	Aa a a a a Aa a Aa	Aa	Aa Aa		Aa Aa	a a a aN
+(0)A	Aa A a Aa Aa?	Aa	Aa Aa		Aa	a a? a? a?N
+A(~)A	Aa a a A a a a a A	Aa	Aa Aa		Aa	a a a a'a a a  a a a a-0 a0N
+()A	Aa, a a a a	Aa	Aa Aa		Aa/Aa	a a 0a a aN
+A(0)A	Aa a a A a a a a a A (A  A)	Aa	Aa Aa		Aa	a a a a a a a aN
+A(0=)A	Aa A a a a [ 0A , 0A )	Aa	Aa Aa		Aa	a A< A< a a a a?N
+A(0)A	Aa A a a a [ 0A , 0A )	Aa	Aa Aa		Aa	a >A >A a a a a?N
+()A	Aa a a	Aa	Aa Aa		Aa/Aa	+/, +, a a a a a 0a a aN
+()A	Aa a a a a a A	Aa	Aa Aa		Aa Aa	0aN
+A()A	Aa a a a a a a A a A	Aa	Aa Aa		Aa Aa	a a a a a a a aN
+()A	Aa a Aa	Aa	Aa Aa		Aa	a a a a a a a a aN
+A()A	Aa a a A a a a A	Aa	Aa Aa		Aa Aa	a a a aN
+()A	Aa a a (a, a a)	Aa	Aa Aa		Aa Aa	a aN
+()A	Aa a Aa	Aa	Aa Aa		Aa	a a a a a a a a a aN
+A()A	Aa a a A a a a A	Aa	Aa Aa		Aa Aa	a a a aN
+()A	Aa a a (a, a a)	Aa	Aa Aa		Aa Aa	a aN
+(0)A	Aa a a a A	Aa	Aa Aa		Aa	a ^A   a-a a-a a aN
+A()A	Aa A a a A	Aa	Aa Aa		Aa/Aa	a aN
+A(0)A	Aa A a Aa a A?	Aa	Aa Aa		Aa	a a? a? a? a? a? a-a a-a a a a-a a a-a a-a a a-a a a-a aN
+A()A	Aa a a a a A a A	Aa	Aa Aa		Aa Aa	a a-a a-a a a a-a a-a a a-a a a a-a a a a a a aN
+(0A0)Aa	Aa a a 0A a a Aa	Aa	Aa Aa		Aa	N
+(0)A	Aa a a a A	Aa	Aa Aa		Aa Aa	aN
+A(0)A	A a Aa A	Aa	Aa Aa		Aa	a a aN
+()Aa	Aa a a a a Aa (a a A)	Aa	Aa Aa		Aa	aN
+Aa()A	Aa A a Aa a a	Aa	Aa Aa		Aa	aN
+()Aa	Aa a a-a a a Aa a a a (a a a a-a)	Aa	Aa Aa		Aa	0-a a aN
+()Aa	Aa a A a	Aa	Aa Aa		Aa	aN
+Aa-A	Aa a a a a a A	Aa	Aa Aa		Aa	a a a a a a aN
+Aa-Aa	Aa Aa a a a a a a Aa	Aa	Aa Aa		Aa	a a-a a aN
+A	Aa a a a A a a a A	Aa	Aa Aa		Aa	a a a a aN
+,A	Aa a a a a a a	Aa	Aa Aa		Aa	a AaAa a a a a 0aN
+A	Aa a a A a A	Aa	Aa Aa		Aa	a a  a aN
+A	Aa a a A a a a A, a a a a	Aa	Aa Aa		Aa Aa	a a a a a a a a aN
+A	Aa a a a A	Aa	Aa Aa		Aa Aa	aN
+AaA	Aa a a A a a a a Aa	Aa	Aa Aa		Aa	a a a aN
++\0Aa	Aa Aa a a a	Aa	Aa Aa		Aa	a a aA0 aA0 0aN
+Aa	Aa a-a	Aa	Aa Aa		Aa	a a a aN
+AaAa	Aa a Aa a, a a a Aa	Aa	Aa Aa		Aa	a aN
+Aa+.=,A	Aa a a a a Aa a a A	Aa	Aa Aa		Aa	a aN
+(|)A	Aa a a a	Aa	Aa Aa		Aa	aN
+(=+)A	Aa A a?	Aa	Aa Aa		Aa	aN
+(=)A	Aa A a?	Aa	Aa Aa		Aa	a a a?N
+(+)A	Aa A a?	Aa	Aa Aa		Aa	aN
+()Aa	Aa Aa a a?	Aa	Aa Aa		Aa	aN
+A(0+)A	Aa a a A a a A	Aa	Aa Aa		Aa	a a a a aN
+(0)A	Aa Aa	Aa	Aa Aa		Aa/Aa	N
+(0)Aa	Aa a a a a a Aa a a	Aa	Aa Aa		Aa/Aa	0a a a aN
+(*)A	Aa a a a A a a a	Aa	Aa Aa		Aa	aN
+(0)A	A Aa a Aa	Aa	Aa Aa		Aa/Aa	N
+(!-0)A	Aa a a A	Aa	Aa Aa		Aa	a() N
+(0)A	Aa	Aa	Aa Aa		Aa/Aa	a() a() aN
+(0)A	Aa	Aa	Aa Aa		Aa/Aa	a() aN
+(0)A	Aa	Aa	Aa Aa		Aa/Aa	a() a() a() a() a() aN
+(0)A	Aa a	Aa	Aa Aa		Aa/Aa	a() a() aN
+(0)A	Aa a	Aa	Aa Aa		Aa/Aa	a() aN
+(0)A	Aa a	Aa	Aa Aa		Aa/Aa	a() a() a() a() a() aN
+(*0)A	Aa a a a a A	Aa	Aa Aa		Aa/Aa	aN
+(~0|)A	A a Aa	Aa	Aa Aa		Aa	N
+~' 'A	Aa a a a a	Aa	Aa Aa		Aa	a a a aN
+(0-/)A	Aa: (A[0]-A[0])(A[0]-A[0])(A[0]-A[0])	Aa	Aa Aa		Aa	a a aN
+(0/)A	Aa a a a a a a a a a: (A[0]A[0])(A[0]A[0])(A[0]A[0])	Aa	Aa Aa		Aa	a aN
+(+/|)A	Aa a a a A	Aa	Aa Aa		Aa	a aN
+(/|)A	Aa a-a a a a A	Aa	Aa Aa		Aa	a a a a a a aN
+(/|)A	Aa a-a a a a A	Aa	Aa Aa		Aa	a a a a a aN
+(0=/)Aa	Aa, a a a a	Aa	Aa Aa		Aa/Aa	0a a aN
+(0/)Aa	Aa, a a a a	Aa	Aa Aa		Aa/Aa	a a 0a a aN
+Aa(+/)Aa	Aa a	Aa	Aa Aa		Aa	aN
+(/)A	Aa a a a a a a a	Aa	Aa Aa		Aa Aa	a , a a a a a a a  , , a aN
+(|)A	Aa a-a a a a A	Aa	Aa Aa		Aa	a a a a a a a a a-a aN
+(|)A	Aa a-a a a a A	Aa	Aa Aa		Aa	a a a a a a a a a-a aN
+(0)Aa	Aa a a a a a (a a)	Aa	Aa Aa		Aa	a a 0a a a a aN
+(0)Aa	Aa a a a a a (a a)	Aa	Aa Aa		Aa	a a a a aN
+Aa@(Aa=)A	Aa a a Aa a A a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a aN
+Aa(+,-)Aa	AaAa	Aa	Aa Aa		Aa	aN
+Aa(-,+)Aa	AaAa	Aa	Aa Aa		Aa	aN
+(+/,)A	Aa a a a a a	Aa	Aa Aa		Aa	a +, a a a aN
+(+/,)A	Aa a a	Aa	Aa Aa		Aa/Aa	a a a a 0a a aN
+Aa(,,0)Aa	Aa Aa a a a a Aa	Aa	Aa Aa		Aa	a aN
+Aa(,,0)Aa	Aa a-a a Aa a Aa a	Aa	Aa Aa		Aa	a a a a a a a a a a a a()N
+Aa(,,0 0)Aa	Aa Aa a a a a Aa	Aa	Aa Aa		Aa	a a aN
+(0)A	Aa a (a a a a, a a a)	Aa	Aa Aa		Aa Aa	a a 0a a a a a a a aN
+(,/)Aa	Aa a a a a	Aa	Aa Aa		Aa	a a a a a-a aN
+()A	Aa a a a a	Aa	Aa Aa		Aa	a a a a a-a aN
+(0)A	Aa: 'a' 0 A  ' ' 0 A ( a A0)	Aa	Aa Aa		Aa Aa	a  a 0a a a a a a aN
+Aa()Aa	Aa Aa a a a Aa (a a a a a)	Aa	Aa Aa		Aa	a a a a a a aN
+()A	Aa A a Aa Aa?	Aa	Aa Aa		Aa Aa	a a?N
+()A	Aa A a Aa Aa?	Aa	Aa Aa		Aa Aa	a a?N
+(0+)Aa	Aa Aa a a	Aa	Aa Aa		Aa	a 0aN
+(0+0)Aa	Aa Aa a a	Aa	Aa Aa		Aa	a 0aN
+(0)A	Aa a a a a A	Aa	Aa Aa		Aa Aa	a a aN
+A(/)A	Aa a a a a A a a a a a A	Aa	Aa Aa		Aa Aa	a a a a a a a a a aN
+A(/)A	Aa a a a a A a a a a a A	Aa	Aa Aa		Aa Aa	a a a 0a a a a a a a aN
+(~0)A	Aa	Aa	Aa Aa		Aa/Aa	a a a a a N
+(~0)A	Aa Aa	Aa	Aa Aa		Aa/Aa	a aN
+(+/)A	Aa a a a a A	Aa	Aa Aa		Aa	a + a aN
+Aa(/)Aa	Aa Aa a Aa a a a a a?	Aa	Aa Aa		Aa	a a? a? a aN
+Aa(/)Aa	Aa Aa a Aa a Aa?	Aa	Aa Aa		Aa	a a? a N
+A(0)A	Aa a a a a A a a a a A	Aa	Aa Aa		Aa Aa	a a a a 0a a a aN
+()A	Aa a a a a A a?	Aa	Aa Aa		Aa	a a a a a a a a-0 a0N
+Aa()Aa	Aa a Aa a a Aa	Aa	Aa Aa		Aa	a a a aN
+Aa(,~)Aa	Aa a Aa (a a a a Aa) a a a a Aa	Aa	Aa Aa		Aa	a a aN
+Aa(~)Aa	Aa Aa Aa	Aa	Aa Aa		Aa	N
+(/)A	Aa a a a a a A	Aa	Aa Aa		Aa Aa	a a a a a a a a aN
+(/)A	Aa a a a a a A	Aa	Aa Aa		Aa Aa	a a a a a a a a aN
+A(\=)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a a a a a aN
+A(\)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a a a a a aN
+(+\0)A	Aa a a a a a a	Aa	Aa Aa		Aa	a a a aN
+(\0)A	Aa a a a Aa a	Aa	Aa Aa		Aa/Aa	a-0 a0N
+()Aa	Aa Aa a?	Aa	Aa Aa		Aa Aa	aN
+(+)Aa	Aa Aa a Aa a?	Aa	Aa Aa		Aa	a Aa? a-a? a? A A A AN
+(-)Aa	Aa Aa a-a?	Aa	Aa Aa		Aa Aa	a a a a-aN
+(0/)Aa	Aa a a Aa a a a a a a a a a	Aa	Aa Aa		Aa	a a a aN
+Aa(/)Aa	Aa a a Aa a a A	Aa	Aa Aa		Aa	a a a a a-0 a0N
+Aa(0)Aa	Aa a a a Aa a a Aa	Aa	Aa Aa		Aa	a a a a a 0aN
+Aa(+.)Aa	Aa a a a AaAa	Aa	Aa Aa		Aa	aN
+(*0.0)A	Aa Aa	Aa	Aa Aa		Aa	a a  ^0.0 ^.0N
+(0)Aa	Aa'a Aa: a a a a/a a a a	Aa	Aa Aa		Aa	a a a  a aN
+()Aa	Aa a a a	Aa	Aa Aa		Aa/Aa	0a a a a a aN
+(~)Aa	Aa a a a	Aa	Aa Aa		Aa/Aa	0a a a a aN
+(0)Aa	Aa a a a a Aa	Aa	Aa Aa		Aa Aa	a aN
+(0)A	Aa a A	Aa	Aa Aa		Aa	a0 a a-0N
+(0)A	Aa a a A	Aa	Aa Aa		Aa	a a0 a-0 aN
+()Aa	Aa Aa a Aa a?	Aa	Aa Aa		Aa	a Aa?N
+()A	Aa A a a a a?	Aa	Aa Aa		Aa Aa	aN
+(0 0 0)Aa	Aa a a a Aa (a a a a)	Aa	Aa Aa		Aa	a a a-a aN
+(0)A	Aa a a A a?	Aa	Aa Aa		Aa	a-a? a? a? a? a? a? a?N
+(0=0|A)A	Aa A a?	Aa	Aa Aa		Aa Aa	aN
+(0|A0)A	Aa a a A a a a?	Aa	Aa Aa		Aa Aa	aN
+{}A	Aa a a a	Aa	Aa Aa		Aa	a a a aN
++/Aa	Aa a: 0+0+0+0+0+0+Aa	Aa	Aa Aa		Aa	a aN
+Aa,/A	Aa a-Aa a a a a a A	Aa	Aa Aa		Aa Aa	N
+.+Aa	Aa Aa a Aa a a Aa	Aa	Aa Aa		Aa	a a a a aN
+.Aa	Aa Aa a Aa a a Aa	Aa	Aa Aa		Aa	a a a a aN
+.Aa	Aa a a 0Aa	Aa	Aa Aa		Aa	aN
+.<Aa	Aa a a a a: Aa a Aa	Aa	Aa Aa		Aa/Aa	a A a a-a a aN
+.Aa	Aa a a a a: Aa a Aa	Aa	Aa Aa		Aa/Aa	a A a a-a aN
+.Aa	Aa a a a a: Aa a Aa	Aa	Aa Aa		Aa/Aa	a A a a-a aN
+.>Aa	Aa a a a a: Aa a Aa	Aa	Aa Aa		Aa/Aa	a A a a-a a aN
+A(0-)A	Aa a a	Aa	Aa Aa		Aa	a a a  AaN
+A(0-)A	Aa a	Aa	Aa Aa		Aa	a a a a  a a AaN
+A(0*)A	Aa a a a a	Aa	Aa Aa		Aa	a aN
+A(+0)A	Aa a a A a a a A a a a	Aa	Aa Aa		Aa	a a() a() a aN
+A(0)A	Aa a A a a A a a a	Aa	Aa Aa		Aa Aa	a a a a a aN
+(0+0|0+)A	Aa a a a a a a a a	Aa	Aa Aa		Aa Aa	aN
+(0=)A	Aa A a a?	Aa	Aa Aa		Aa Aa	a a0N
+(0)A	A Aa a Aa	Aa	Aa Aa		Aa/Aa	N
+(0*0)A	Aa a a a a A	Aa	Aa Aa		Aa/Aa	a aN
+(*0)A	Aa Aa	Aa	Aa Aa		Aa	a a   ^0.0 ^.0 ^(0/0)N
+(-/)A	Aa a a a a a a 0	Aa	Aa Aa		Aa	a a a a a aN
+Aa(+/)A	A-a a a	Aa	Aa Aa		Aa	a a aN
+(=/)A	Aa a a a a a A	Aa	Aa Aa		Aa/Aa	a a a a a a a a aN
+(/0)A	Aa a a a a a	Aa	Aa Aa		Aa Aa	a aN
+(/0)A	Aa a a a a A (a a a)	Aa	Aa Aa		Aa Aa	aN
+(0/)Aa	Aa a a a a, a, a Aa	Aa	Aa Aa		Aa	a aN
+(+)A	Aa a a A	Aa	Aa Aa		Aa	a a() A() a() a()N
+A a@(0)A	Aa a A a a a a (a a a a A)	Aa	Aa Aa Aa, Aa Aa	Aa Aa	Aa Aa	a a , a a a aN
+Aa@(0)A	Aa a A a Aa	Aa	Aa Aa	Aa Aa	Aa	N
+(0,)Aa	Aa a a a Aa a a a a	Aa	Aa Aa		Aa	aN
+(0,0/)Aa	Aa a a a a a a (a-a Aa)	Aa	Aa Aa		Aa	a a a a a aN
+(0,0/)Aa	Aa a a a a a (a-a Aa)	Aa	Aa Aa		Aa	a a a a a a a 0a a aN
+(/,0)A	Aa a, a a a (a a a A)	Aa	Aa Aa		Aa	a aN
+(0</0,)A	Aa a a a a a a a	Aa	Aa Aa		Aa/Aa	a a a 0a a a-0 a0N
+(0>/,0)A	Aa a a a a a a a	Aa	Aa Aa		Aa/Aa	a 0a a a a a-0 a0N
+Aa(0,,)Aa	Aa a a a Aa a a	Aa	Aa Aa		Aa	a a a a a aN
+Aa(,,0 0)Aa	Aa Aa a a a a Aa	Aa	Aa Aa		Aa	a a aN
+(0>/0)A	Aa a a a a a	Aa	Aa Aa		Aa/Aa	a a 0a a aN
+()A	Aa a a a a a	Aa	Aa Aa		Aa Aa	a a() a a() a a a aN
+(,)A	Aa a a a A	Aa	Aa Aa		Aa	a aN
+Aa()A	Aa a a A	Aa	Aa Aa		Aa	a aN
+()A	Aa a a a A	Aa	Aa Aa		Aa Aa	a aN
+(,)A	Aa Aa Aa A	Aa	Aa Aa		Aa Aa	aN
+Aa(/)Aa	Aa Aa a Aa a Aa?	Aa	Aa Aa		Aa	a a? a N
+A()A	Aa a a a a a a a (a)	Aa	Aa Aa		Aa Aa	a a aN
+A(~)Aa	Aa a a a Aa a a a a A	Aa	Aa Aa		Aa/Aa	a 0a a a a a a-0 a0N
+A()A	Aa a a a a a A a A	Aa	Aa Aa		Aa Aa	a a a a a a a 0a a a a a aN
+A()A	Aa a A a a a a a a a a a A	Aa	Aa Aa		Aa Aa	a a a a a a a 0aN
+(0<)A	Aa a a a a?	Aa	Aa Aa		Aa	a a? a? a? a aN
+(0)A	Aa a a a a?	Aa	Aa Aa		Aa	a a? a? a? a aN
+()Aa	Aa a a Aa	Aa	Aa Aa		Aa	a aN
+(\)A	Aa a a: Aa a a a a a a (a a a a)	Aa	Aa Aa		Aa/Aa	0a a a aN
+(~\)A	Aa a a a a	Aa	Aa Aa		Aa/Aa	0a a aN
+(,,\)Aa	Aa a a a	Aa	Aa Aa		Aa	a aN
+(0)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a a aN
+()A	Aa () a a a 0 a A a a a a a	Aa	Aa Aa		Aa	Aa a a a a a aN
+A()A	Aa a a a A a A	Aa	Aa Aa		Aa Aa	a a-a a-a a a a-a a-a a a-a a a-a a a-a a 0aN
+(0.0+)A	Aa a a a (a a)	Aa	Aa Aa		Aa	a a a a a a a a()N
+(0 0.)A	A a a	Aa	Aa Aa		Aa	a a aN
+(0 0.)A	A a a	Aa	Aa Aa		Aa	a a aN
+(0+0.0)A	Aa a Aa	Aa	Aa Aa		Aa Aa	Aa Aa a0a() a() aN
+(0 0.)A	Aa a a a a a (a a a a a-a a)	Aa	Aa Aa		Aa Aa	a a a() a() a a a a a a aN
+(0 0.)A	Aa a a a a a (a a a a a-a a)	Aa	Aa Aa		Aa Aa	a a() a() a a a a aN
+Aa(0 0 0 0.+)Aa	Aa a a a a a (a a)	Aa	Aa Aa		Aa	aN
+Aa(0 0 0 0.+)Aa	Aa a	Aa	Aa Aa		Aa	N
+Aa(0 0 0 0.)Aa	Aa a	Aa	Aa Aa		Aa	N
+Aa(0 0 0 0.)Aa	Aa a a	Aa	Aa Aa		Aa	aN
+(0)A	Aa a	Aa	Aa Aa		Aa	a a A() A() aN
+(0=)Aa	Aa a a a	Aa	Aa Aa		Aa/Aa	0a a a a a aN
+Aa(+0)A	Aa-Aa a a	Aa	Aa Aa		Aa	aN
+(0)A	Aa Aa	Aa	Aa Aa		Aa	a a a aN
+(0 0|A)A	Aa A a?	Aa	Aa Aa		Aa Aa	aN
+0(A0)A	Aa a a a a a a a	Aa	Aa Aa		Aa Aa	a aN
+Aa{+/}Aa	Aa Aa a a Aa (Aa  Aa)	Aa	Aa Aa		Aa	a a aN
+(~' ')Aa	Aa a a a	Aa	Aa Aa		Aa	a a a aN
+Aa{}Aa	Aa-a a a a a (a a a)	Aa	Aa Aa		Aa	a aN
+Aa.{}Aa	Aa a a a a Aa a Aa	Aa	Aa Aa		Aa	a a a aN
+A(0-0-)A	Aa a a	Aa	Aa Aa		Aa	a a a a   a a Aa aN
+A(0-0-)A	Aa a	Aa	Aa Aa		Aa	a a a a a a a a a   AaN
+A(0+0A0)A	0-a a (A:a, A:a)	Aa	Aa Aa		Aa	a0() a0() a0() a0() a0() a0()N
+Aa(0)Aa	Aa Aa: a Aa a Aa a a a a, a a a	Aa	Aa Aa		Aa/Aa	0a 0a a AaAa a a a aN
+Aa(0)Aa	Aa a a Aa a a a Aa	Aa	Aa Aa		Aa/Aa	a a a a a aN
+(|)A	Aa a a	Aa	Aa Aa		Aa	0 a a a a a() a() a aN
+A(!!)A	Aa a a a (A,A) a	Aa	Aa Aa		Aa	aN
+A(|)A	Aa a a a a A a A a a	Aa	Aa Aa		Aa	a a 0N
+Aa()Aa	Aa a Aa a a Aa (a a a)	Aa	Aa Aa		Aa	a aN
+Aa()Aa	Aa a Aa Aa a	Aa	Aa Aa		Aa	a a a a aN
+(0*0)A	Aa a a a a A	Aa	Aa Aa		Aa/Aa	a aN
+(0=?0)Aa	Aa Aa a a a Aa	Aa	Aa Aa		Aa/Aa	a0 a a-0N
+(0+0)A	Aa a	Aa	Aa Aa		Aa	a()N
+(0=/)A	Aa A a Aa?	Aa	Aa Aa		Aa Aa	a a? a? a?N
+(+0)A	Aa a a a a a a a a a	Aa	Aa Aa		Aa	a a() a() a a a a aN
+(0)A	Aa a a a a a a a a a	Aa	Aa Aa		Aa Aa	a a a a a a a a aN
+(/0=)Aa	Aa a a a	Aa	Aa Aa		Aa	N
+Aa(@0)A	Aa a a a a A a Aa	Aa	Aa Aa		Aa	a a a a a a aN
+(>0,)Aa	Aa a a a a a	Aa	Aa Aa		Aa/Aa	a a a a a 0aN
+Aa(0,)Aa	Aa Aa a a a Aa	Aa	Aa Aa		Aa	a a a aN
+Aa(,)Aa	Aa a Aa-a a a a a a Aa	Aa	Aa Aa		Aa	aN
+(0,0/)Aa	Aa a a a a a a (a-a Aa)	Aa	Aa Aa		Aa	a a a a a aN
+(0,0/)Aa	Aa a a a a a (a-a Aa)	Aa	Aa Aa		Aa	a a a a a a a a a 0a a aN
+(~/,)A	Aa a a?	Aa	Aa Aa		Aa/Aa	a a N
+Aa(0+)Aa	Aa a a a a a a Aa	Aa	Aa Aa		Aa	Aa aN
+(?)Aa	Aa  a a a a	Aa	Aa Aa		Aa	a a a aN
+(0)A	Aa (a a a a, a a a)	Aa	Aa Aa		Aa Aa	a a 0a a a a aN
+(?)A	Aa a a a a	Aa	Aa Aa		Aa	a a aN
+A(+0)A	Aa a a a a a Aa a Aa	Aa	Aa Aa		Aa Aa	0aN
+A()A	Aa a a a a A a A, a a	Aa	Aa Aa		Aa Aa	a a a a a a a a aN
+(!0,)Aa	Aa a a a	Aa	Aa Aa		Aa	N
+(,)Aa	Aa a a a a a	Aa	Aa Aa		Aa Aa	a aN
+Aa(0,)Aa	Aa a Aa a a Aa	Aa	Aa Aa		Aa	a a aN
+A(0=+0)A	Aa A a a a ( 0A , 0A )	Aa	Aa Aa		Aa	a <A< <A< a a a a?N
+(0=)Aa	Aa a Aa	Aa	Aa Aa		Aa	a(a) (a) (a)N
+A(0+0)A	Aa A a a a ( 0A , 0A )	Aa	Aa Aa		Aa	a A A a a a a?N
+(=)A	Aa a a a a?	Aa	Aa Aa		Aa	a a? a? a? a aN
+(>)A	Aa a a a a?	Aa	Aa Aa		Aa	a a? a? a? a aN
+(0)Aa	Aa a a Aa	Aa	Aa Aa		Aa	a aN
+()A	Aa a a a a a a a	Aa	Aa Aa		Aa	a a a a 0aN
+()A	Aa Aa	Aa	Aa Aa		Aa	a() a a a a aN
+()A	Aa A Aa-a?	Aa	Aa Aa		Aa	a a? a? a? a a aN
+()Aa	Aa Aa a a?	Aa	Aa Aa		Aa Aa	aN
+()A	Aa Aa	Aa	Aa Aa		Aa	a() a a a a aN
+(0)A	Aa a a a A	Aa	Aa Aa		Aa	a a a a a aN
+()A	Aa A Aa-a?	Aa	Aa Aa		Aa	a a? a? a a a? aN
+A(\=)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+A(\)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+(+\0,)Aa	Aa a a a a a Aa	Aa	Aa Aa		Aa Aa	a-a a-a aN
+(0*)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a-a aN
+(0*)A	Aa-a a a a a	Aa	Aa Aa		Aa	a a a a-aN
+A()A	Aa a a A a A	Aa	Aa Aa		Aa Aa	a a a a-a a a-a a aN
+(0.0+)A	Aa a Aa	Aa	Aa Aa		Aa Aa	Aa Aa a0a() a() aN
+(.=,)A	Aa a a a A a?	Aa	Aa Aa		Aa	a a a? a a aN
+Aa(0+)A	Aa a a a a A a a Aa	Aa	Aa Aa		Aa	N
+(0+0+)Aa	Aa a a Aa a a a a a a a	Aa	Aa Aa		Aa Aa	N
+0(+0)A	Aa a	Aa	Aa Aa		Aa	a a a a a() a() a() a() a() a() a 0a a aN
+(|0|0+\)Aa	A a a a a a a a Aa	Aa	Aa Aa		Aa	AaAaAaAa a a 0aN
+(0)Aa	Aa a a a Aa a a a Aa	Aa	Aa Aa		Aa	a a a a a a aN
+Aa(0*)A	Aa a a A a a a a Aa (A:0 0 0)	Aa	Aa Aa		Aa Aa	aN
+(+)Aa	Aa Aa a Aa a?	Aa	Aa Aa		Aa	a Aa?N
+(0)A	Aa a a A a?	Aa	Aa Aa		Aa	a-a? a? a? a?N
+(0=A 0)A	Aa A Aa?	Aa	Aa Aa		Aa Aa	a a a-0 a0N
+(0+A)Aa	Aa a a a a a	Aa	Aa Aa		Aa Aa	a() a a() a a aN
+{0<A,}Aa	Aa Aa a?	Aa	Aa Aa		Aa	a? a? a a a aN
+{0=A,}Aa	Aa Aa a?	Aa	Aa Aa		Aa	a? a? a a a a'a a aN
+{0A,}Aa	Aa Aa a a A a?	Aa	Aa Aa		Aa	a a a a a? a? a? a? a a?N
+(' '0)A	Aa a a a a a a a A	Aa	Aa Aa		Aa Aa	0a a a-a a a aN
+({})Aa	Aa a /Aa a	Aa	Aa Aa		Aa	a a a aN
+A	Aa A a a a a a A	Aa	Aa Aa		Aa	a a a aN
+(+0|)A	Aa a a a a (a a)	Aa	Aa Aa		Aa	a a a a aN
+A(+0=)A	Aa a a A a a a a A	Aa	Aa Aa		Aa	a a a a a 0a a a a a aN
+(0)Aa	Aa a-a a-a a Aa a a a	Aa	Aa Aa		Aa	aN
+A(0)A	Aa a a a a A a a A	Aa	Aa Aa		Aa/Aa	aN
+A(*0+)A	Aa a a a a a a A a A a	Aa	Aa Aa		Aa	N
+Aa(0+~)A	Aa a A a a-a a Aa	Aa	Aa Aa		Aa/Aa	a aN
+A(|)A	Aa: Aa a a a A a A	Aa	Aa Aa		Aa	aN
+(*)A	Aa a	Aa	Aa Aa		Aa	a A() A() aN
+(0 0+/)A	Aa-a a a a	Aa	Aa Aa		Aa	% a aN
+(0+)A	Aa-a a a a	Aa	Aa Aa		Aa	% a aN
+A a@(0-)A	Aa a a (a a a a A) a a a a A	Aa	Aa Aa Aa, Aa Aa	Aa Aa	Aa Aa	a a aN
+(,0,0)Aa	Aa-a a a a Aa	Aa	Aa Aa		Aa	a aN
+(,0,0)Aa	Aa a a a Aa	Aa	Aa Aa		Aa	a aN
+(,0)A	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+A()A	Aa () a a a a a a	Aa	Aa Aa		Aa	a a a a a a-a a-a a a a aN
+(+/0=)Aa	Aa'a a a	Aa	Aa Aa		Aa	a(a) (a) (a)N
+(=)A	Aa a a a a a a a a a A	Aa	Aa Aa		Aa	a a 0aN
+A(~)A	Aa a a A a a a a A	Aa	Aa Aa		Aa	a a 0a a aN
+Aa(/,)Aa	Aa a a a	Aa	Aa Aa		Aa	aN
+(0-/,0)Aa	Aa a a a a	Aa	Aa Aa		Aa Aa	a a a aN
+(0-/,0)Aa	Aa a a Aa a a a a	Aa	Aa Aa		Aa/Aa	aN
+(0-/0,)Aa	Aa a a a a	Aa	Aa Aa		Aa Aa	a a aN
+A(~)A	Aa a a a a A a a A	Aa	Aa Aa		Aa Aa	a a 0aN
+A(0=0 0+0)A	Aa A a a a [ 0A , 0A ]	Aa	Aa Aa		Aa	a A A a a a a?N
+A(0=0 0+0)A	Aa A a a a ( 0A , 0A ]	Aa	Aa Aa		Aa	a <A <A a a a a?N
+A(0 0+0)A	Aa A a a a [ 0A , 0A ]	Aa	Aa Aa		Aa	a >A> >A> a a a a?N
+A(0 0+0)A	Aa A a a a ( 0A , 0A ]	Aa	Aa Aa		Aa	a A> A> a a a a?N
+()Aa	Aa-a-a a Aa	Aa	Aa Aa		Aa	a_0(a) a(a) a0 (a) a(a) (a) (a) aA0 aA0N
+Aa()A	Aa a a (0,0,0) a a a	Aa	Aa Aa		Aa	a a a aN
+(+\+\)Aa	Aa Aa a a	Aa	Aa Aa		Aa	0aN
+(=)A	Aa a a A a a a?	Aa	Aa Aa		Aa	a a a a aN
+(=)A	Aa a a A a a a?	Aa	Aa Aa		Aa	a a a a aN
+Aa(0 0)Aa	Aa a Aa a a Aa	Aa	Aa Aa		Aa	a aN
+Aa(,0)Aa	Aa a Aa a a Aa	Aa	Aa Aa		Aa	a a a a a a a-a a a a aN
+(Aa0 0)Aa	Aa'a Aa a Aa: a a a Aa a 0 a 0-a-0 a	Aa	Aa Aa		Aa	a a a a-aN
+(.!0,)Aa	Aa a a Aa	Aa	Aa Aa		Aa	a'a a aN
+Aa(.)Aa	Aa Aa (a a a a?)	Aa	Aa Aa		Aa	a a?N
+Aa(.)Aa	Aa Aa a a Aa?	Aa	Aa Aa		Aa Aa	aN
+(+/0)A	Aa a (0 a a)	Aa	Aa Aa		Aa	aN
+Aa(+0)A	Aa-Aa a a	Aa	Aa Aa		Aa	aN
+Aa(+.0)Aa	Aa a a a a Aa a a Aa	Aa	Aa Aa		Aa	N
+Aa(0,)Aa	Aa a a a a a a A a Aa a A a Aa	Aa	Aa Aa		Aa	a a a a=a+a a=a+aN
+{.##}A	Aa a a a a a a A	Aa	Aa Aa		Aa	a a a aN
+(0(|-))Aa	A a a a Aa a a	Aa	Aa Aa		Aa	a aN
+(/' '=)A	Aa a a a	Aa	Aa Aa		Aa/Aa	a a a a a a aN
+((,)0)Aa	Aa a a (a,a)	Aa	Aa Aa		Aa	a a a aN
+(0,{0})Aa	Aa-a a a a a a Aa	Aa	Aa Aa		Aa	a aN
+(0,{0})Aa	Aa a a a a a Aa	Aa	Aa Aa		Aa	a aN
+(\' ')A	Aa a a	Aa	Aa Aa		Aa/Aa	a a a a a aN
+Aa{0-/[]}A	Aa a a a a A a a Aa	Aa	Aa Aa		Aa	a a a a aN
+(/'  ')A	Aa A a a a a? (a a)	Aa	Aa Aa		Aa	a a a? a a aN
+(+.' ')A	Aa a a a a a A	Aa	Aa Aa		Aa	aN
+(' '=)Aa	Aa a a a	Aa	Aa Aa		Aa	a a a aN
+(' '=)Aa	Aa a a a	Aa	Aa Aa		Aa	a a aN
+((0A)0)A	Aa a a a a a a (a a)	Aa	Aa Aa		Aa Aa	a a a a() a a a() a aN
+Aa({})A	A'a Aa a Aa Aa a a Aa	Aa	Aa Aa		Aa	a a a a aN
+Aa(+!+)Aa	Aa a	Aa	Aa Aa		Aa	A(a,a) (a,a) A() () a() N
+Aa(+0)A	Aa A a a-a a a Aa	Aa	Aa Aa		Aa	aN
+(0+0|+0=)A	Aa a a a a a A	Aa	Aa Aa		Aa	a a aN
+Aa(0-)Aa	Aa a a Aa a a a Aa	Aa	Aa Aa		Aa/Aa	a a a aN
+A(+|-)A	Aa a a A a A a a 0 a A	Aa	Aa Aa		Aa	a a a 0a aN
+A(+|)A	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a aN
+(+/|0-/)Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a a aN
+(/-/),A	Aa a A	Aa	Aa Aa		Aa	a a aN
+Aa(0+)Aa	Aa a a a a a a a a Aa	Aa	Aa Aa		Aa	Aa a aN
+(?)A	Aa a a	Aa	Aa Aa		Aa	a a a a a a aN
+(0+)Aa	Aa a a a a a a a (a a-a)	Aa	Aa Aa		Aa	aN
+A(|0+)A	Aa a a A a a a A, 0 a a a	Aa	Aa Aa		Aa Aa	a a a a a 0a a a a a a a aN
+(,0,-)Aa	Aa a -Aa a Aa	Aa	Aa Aa		Aa	a a a a a aN
+(,/)Aa	Aa a a a a a (Aa a a a)	Aa	Aa Aa		Aa	a-a a a-a a-a a a a-a a aN
+Aa(~)Aa	Aa a Aa a a a a a a Aa	Aa	Aa Aa		Aa	a a a a a a a a a a0a a a a a a aN
+(/)Aa	Aa a a a a Aa a a a	Aa	Aa Aa		Aa/Aa	a a aN
+(+/)Aa	Aa a a a a Aa	Aa	Aa Aa		Aa	a (a)N
+A()A	Aa A a a A	Aa	Aa Aa		Aa	aN
+()A	Aa A Aa Aa?	Aa	Aa Aa		Aa	a a? a? a a aN
+()A	Aa A Aa Aa?	Aa	Aa Aa		Aa	a a? a? a a aN
+A()A	Aa a a a A a A	Aa	Aa Aa		Aa Aa	a a a a 0aN
+(0+.0)Aa	Aa a a a a Aa	Aa	Aa Aa		Aa	a a aN
+(0.0+|)A	Aa a a a a (a a 0)	Aa	Aa Aa		Aa	a a a a()N
+(0.0+|)A	Aa a a a a (a a a 0)	Aa	Aa Aa		Aa	a a a a()N
+(/.=)Aa	Aa a a a a	Aa	Aa Aa		Aa	a a a a a a-0 a0N
+(0=0+.=|)Aa	Aa Aa a a?	Aa	Aa Aa		Aa	a a a aN
+(.+0+)Aa	Aa a a a Aa	Aa	Aa Aa		Aa	a a a aN
+(0 0 0.-/)Aa	Aa a a a Aa a a a	Aa	Aa Aa		Aa	0aN
+(0.=0 0 0.|)A	Aa A (A) a a a?	Aa	Aa Aa		Aa	a a 0a0 0a0aN
+Aa(+.0)Aa	Aa a a a a Aa a a Aa	Aa	Aa Aa		Aa	N
+Aa(,0+0+)Aa	Aa a Aa'a a a a a a a a a a Aa	Aa	Aa Aa		Aa Aa	a a a aN
+Aa Aa(,0/)A	Aa A a Aa a a a a a Aa	Aa	Aa Aa		Aa	aN
+(+/0 0A0)Aa	Aa a a a a a Aa	Aa	Aa Aa		Aa Aa	aN
+(A)Aa	Aa a a Aa a a a	Aa	Aa Aa		Aa	N
+A((0-)0-)A	Aa A	Aa	Aa Aa		Aa	a a a a'a a'a a a a Aa N
+((,))Aa	Aa a a	Aa	Aa Aa		Aa	a a-a a a aN
+((,))Aa	Aa a a	Aa	Aa Aa		Aa	a a-a a a a a aN
+Aa((+\))Aa	Aa a a a a a Aa a a a Aa	Aa	Aa Aa		Aa	a-a a aN
+(,[0.0]'')Aa	Aa a a (0=A)	Aa	Aa Aa		Aa	aN
+Aa{0+-0}Aa	Aa a a a a a a Aa a a a a a Aa	Aa	Aa Aa		Aa Aa	a aN
+('')A	Aa a	Aa	Aa Aa		Aa	a a aN
+Aa(,(A 0),)Aa	Aa a a a a (A)	Aa	Aa Aa		Aa	a a 0a0A A+0A A+0AN
+(0A#'AaAaA',)Aa	Aa a a Aa	Aa	Aa Aa		a	N
+(0A#'AaAa',)A	Aa a a a a a a a a/a a a	Aa	Aa Aa		Aa	a a a a a a a a aN
+A(0+*0+)A	Aa a a a a	Aa	Aa Aa		Aa	N
+Aa()Aa	Aa Aa a a a Aa a	Aa	Aa Aa		Aa/Aa	a a a aN
+(+/|-0)Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a aN
+(0,0)Aa	Aa a Aa a a a-a a	Aa	Aa Aa		Aa	0-a a aN
+Aa(,)Aa	Aa Aa a a Aa (a Aa a a/a a a, a Aa a a/a a a)	Aa	Aa Aa		Aa	a aN
+(0/,0,-)Aa	Aa a a a Aa a a a	Aa	Aa Aa		Aa/Aa	a a a-0 a0N
+A(0,=,)Aa	Aa Aa a a a Aa (a a)	Aa	Aa Aa		Aa	a a a a a a a aN
+(+/0)Aa	Aa a (a a a a)	Aa	Aa Aa		Aa	a(a) aN
+(+/|)Aa	Aa a a a a a a a	Aa	Aa Aa		Aa	a a a 0-a A0-0 0-a a aN
+(,,\)Aa	Aa a a a	Aa	Aa Aa		Aa	a aN
+(+\+/)Aa	Aa a A a a a a a	Aa	Aa Aa		Aa/Aa	a aN
+Aa()Aa	Aa a a a Aa a Aa a a a	Aa	Aa Aa		Aa/Aa	a a a aN
+A()A	Aa () a A a a a A	Aa	Aa Aa		Aa Aa	a a a a aN
+(0*+.)Aa	Aa a a Aa	Aa	Aa Aa		Aa	a a a a a a 0 aN
+(+/0+.0)A	Aa a a a-a a (0 a a)	Aa	Aa Aa		Aa	a a a aN
+A(+/.-)A	Aa a (0) a a a A a a A (0=0A)	Aa	Aa Aa		Aa	a aN
+(.</)Aa	Aa a Aa[a] a a a a a	Aa	Aa Aa		Aa/Aa	0a a a a a a aN
+(./)Aa	Aa a Aa[a] a a a a a	Aa	Aa Aa		Aa/Aa	0a a a a a a aN
+A(0+0.0+0)A	Aa a (0) a a a A a a 0A,0A	Aa	Aa Aa		Aa	a a a a aN
+(.)Aa	Aa a	Aa	Aa Aa		Aa/Aa	a a a a aN
+(0+0.=0 0 0.|)A	Aa a a a Aa a a A (A)	Aa	Aa Aa		Aa	a a0 0a0a a0 0a0a aN
+Aa(+0.0 0.0)A	Aa a (Aa a Aa)	Aa	Aa Aa		Aa	N
+A(0-(0-)0-)A	Aa A	Aa	Aa Aa		Aa	a a a a a a AaN
+Aa((-)0)Aa	Aa Aa: a Aa a Aa a a a a, a a a	Aa	Aa Aa		Aa/Aa	0a 0a a AaAa a a a aN
+Aa((/))A	Aa A a a a a a Aa	Aa	Aa Aa		Aa	a a aN
+(0 0(-@0)0 0 0 0)Aa	Aa a a a Aa (a a) a-a	Aa	Aa Aa		Aa	aN
+(0+' ')Aa	Aa a a Aa	Aa	Aa Aa		Aa	a a a a a-a 0a a aN
+('A'0 0 0 0 0)A	Aa a a a	Aa	Aa Aa		Aa	N
+(()0)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a aN
+(()0)A	Aa a a a	Aa	Aa Aa		Aa	a a a() a a a a aN
+(()0)A	Aa a a a	Aa	Aa Aa		Aa	a a a() a a a a aN
+A(0(0))A	Aa a a a a a a a a A a A	Aa	Aa Aa		Aa Aa	a a a a a a a-a a a a a 0aN
+(\' '.=)Aa	Aa a a a	Aa	Aa Aa		Aa/Aa	a a a a a a a-a a aN
+(\.=' ')Aa	Aa a a a	Aa	Aa Aa		Aa/Aa	a a a a a a a-a a a aN
+(0(=-0|)A)A	Aa a a A (0:a, 0:a, 0:a)	Aa	Aa Aa		Aa Aa	N
+('')A	Aa	Aa	Aa Aa		Aa	aN
+(0+(A,A))A	Aa a a a (a 0 a 0)	Aa	Aa Aa		Aa Aa	a-0 a0 a Aa a0 a-0 a a0 a-0 a 0aN
+({0A},)Aa	Aa a a a a a a a a	Aa	Aa Aa		Aa	a aN
+(0|0A#'AaAaA',,0 0)Aa	Aa a a (Aa:0) a a a Aa Aa	Aa	Aa Aa		Aa	a a 0a aN
+'-'@(=' ')A	Aa a a a a	Aa	Aa Aa		Aa	a a aN
+((~,)' ')Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a aN
+(' '@(0=))A	Aa a a a a a a	Aa	Aa Aa		Aa	a 0a a a a a a a a a aN
+Aa[0]Aa	Aa a Aa a a a a Aa	Aa	Aa Aa		Aa	a a aN
+(|+0||)A	Aa a a a a (a a a 0)	Aa	Aa Aa		Aa	a aN
+(|+0>0||)A	Aa a a a a (a a a 0)	Aa	Aa Aa		Aa	a aN
+(0+0|)A	Aa a a a a (a a 0)	Aa	Aa Aa		Aa	a aN
+(+0|>?0)A	Aa a a a	Aa	Aa Aa		Aa	a a a aN
+(/+/-0)Aa	Aa a a a a a a a a	Aa	Aa Aa		Aa	A()N
+Aa(,0)A	Aa a a A (a a Aa a a a a a a a A)	Aa	Aa Aa		Aa	Aa $ a aN
+(0,0+)Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a a a a a a a a a a-0 a0N
+(*0A0+)Aa	Aa a a a a	Aa	Aa Aa		Aa/Aa	a a aN
+(*0A0,)Aa	Aa a a a Aa a	Aa	Aa Aa		Aa/Aa	a a a a a aN
+()Aa	Aa a a a a a	Aa	Aa Aa		Aa Aa	a aN
+Aa(0)A	Aa A a a a a Aa	Aa	Aa Aa		Aa	a() a a a a a aN
+Aa()Aa	Aa a Aa a a a Aa	Aa	Aa Aa		Aa	a a a a aN
+Aa(0)A	Aa A a a a a Aa	Aa	Aa Aa		Aa	a() a a a a a aN
+(0+\+/)Aa	Aa a A a a a a a	Aa	Aa Aa		Aa/Aa	aN
+(\\)A	Aa a a a a a a 0 a a a	Aa	Aa Aa		Aa/Aa	a a a 0aN
+(+0.0|)A	Aa, a a a a a 0.0 = 0||A	Aa	Aa Aa		Aa	a a a aN
+(.</)Aa	Aa a Aa[a] a a a a a	Aa	Aa Aa		Aa/Aa	0a 0a a a a a a a a aN
+(./)Aa	Aa a Aa[a] a a a a a	Aa	Aa Aa		Aa/Aa	0a a a a a aN
+Aa(0+)Aa	Aa a a a a Aa a a Aa	Aa	Aa Aa		Aa	aN
+(+<0)Aa	Aa Aa a a a?	Aa	Aa Aa		Aa	a a?N
+(+=0)Aa	Aa Aa a a a?	Aa	Aa Aa		Aa	a a?N
+(+>0)Aa	Aa Aa a a a?	Aa	Aa Aa		Aa	a a?N
+(0/)A	Aa a a a a A	Aa	Aa Aa		Aa Aa	a a a a a aN
+0(0+*)Aa	Aa a a a Aa a (a a a Aa a, a a a a a)	Aa	Aa Aa		Aa/Aa	a-a a-0 a0N
+(0+0+/)Aa	Aa a a a a a Aa (a a Aa)	Aa	Aa Aa		Aa Aa	a a a aN
+(A0+0)Aa	Aa a a a a a a a Aa	Aa	Aa Aa		Aa	aN
+Aa((/)0/0,)Aa	Aa a a Aa'a a a Aa	Aa	Aa Aa		Aa	aN
+Aa(,(0)0)Aa	Aa a (a a a ) a a a a Aa a a a a a |Aa	Aa	Aa Aa		Aa	a a a a aN
+((0,0)0)A	Aa a a (a a a)	Aa	Aa Aa		Aa	a a a a a aN
+A(<\@())A	Aa a a a a a A a A	Aa	Aa Aa		Aa	a a a 0a a a-0 a0N
+((.=))A	Aa-a: a a a a a a a a A	Aa	Aa Aa		Aa	a a a a a aN
+('-'@0 0)Aa	Aa (A a) a A-A-A	Aa	Aa Aa		Aa	A-A0:0-0 A-0/A-0 A/A 0-0 A A A 0 A/A-A0.0-0 (A0) A/A 0:0 AN
+((A,A)0+)A	Aa a a a (a 0 a 0)	Aa	Aa Aa		Aa Aa	a-0 a0 a Aa a0 a-0 a a0 a-0 a 0aN
+(0|0A#'AaAaA',)Aa	Aa a a (Aa:0) a Aa:A A A	Aa	Aa Aa		Aa	a aN
+('a','a'/~)Aa	Aa a a	Aa	Aa Aa		Aa Aa	a a a Aa a a-0 a0N
+(0-|)A	Aa a a a a (a a 0)	Aa	Aa Aa		Aa	a aN
+Aa(,)Aa	Aa Aa a Aa-a a (a a-a)	Aa	Aa Aa		Aa	a a aN
+(0,0+)Aa	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a a a a a a a-0 a0N
+0(+)Aa	Aa a a Aa	Aa	Aa Aa		Aa	a aN
+(0-/0,0,0/)Aa	Aa a a a Aa a a a	Aa	Aa Aa		Aa	a a a a a aN
+()A	Aa a a (a, a a)	Aa	Aa Aa		Aa Aa	a aN
+()A	Aa a a (a, a a)	Aa	Aa Aa		Aa Aa	a aN
+(.<)Aa	Aa Aa a a a a a a?	Aa	Aa Aa		Aa/Aa	a a A a a-a a a? aN
+(.)Aa	Aa Aa a a a a a a?	Aa	Aa Aa		Aa/Aa	a a A a a-a a a?N
+(.)Aa	Aa Aa a a a a a a?	Aa	Aa Aa		Aa/Aa	a a A a a-a a a?N
+(.>)Aa	Aa Aa a a a a a a?	Aa	Aa Aa		Aa/Aa	a a A a a-a a a? aN
+(0=.|/)Aa	Aa a a	Aa	Aa Aa		Aa	aN
+(0=.|/)Aa	Aa a	Aa	Aa Aa		Aa	a a aN
+0.0(0.0+)A	Aa a a a (a a)	Aa	Aa Aa		Aa	a a a a aN
+0.0(0.0+)A	Aa a a a 0 a	Aa	Aa Aa		Aa	a a 0N
+(+=0+0)Aa	Aa Aa a a a a?	Aa	Aa Aa		Aa	a a? a-a?N
+(+=0+0)Aa	Aa Aa a a a? (a a a)	Aa	Aa Aa		Aa	a a? a-a?N
+Aa(*@0,)Aa	Aa a a a a a a A a Aa a A a Aa	Aa	Aa Aa		Aa	a a a a=a+a^a a=a^a+a aN
+(+/,(/))A	Aa a a a a a, a a a a a	Aa	Aa Aa		Aa	a a() A() a() a a aN
+((0,0)0)A	Aa a a (a a a)	Aa	Aa Aa		Aa	a a a a a a aN
+((\\=))A	Aa a a a	Aa	Aa Aa		Aa/Aa	a a a a 0aN
+((0 0,)0 0 0)A	Aa a a a 0 a A	Aa	Aa Aa		Aa	a aN
+((~.)0)Aa	Aa a Aa	Aa	Aa Aa		Aa	a aN
+(0-0=' ')Aa	Aa a a Aa	Aa	Aa Aa		Aa	a a-a a a aN
+Aa(|(+/0))A	Aa a a a Aa	Aa	Aa Aa		Aa	N
+((A,A,0A))Aa	Aa a-a A a	Aa	Aa Aa		Aa	aN
+(~'.,:;?!')Aa	Aa a	Aa	Aa Aa		Aa	a a a aN
+Aa{}A	Aa A a a Aa (0: a, 0: a, 0: a)	Aa	Aa Aa		Aa	a a aN
+{-' '=}Aa	Aa a a	Aa	Aa Aa		Aa	a a a a aN
+('A'/(0,0 0))Aa	Aa Aa a (a a, a a)	Aa	Aa Aa		Aa	a a a a a a aN
+' '@{0=\' 0'}A	Aa a a a a	Aa	Aa Aa		Aa	a a a a a a 0a a a a aN
+Aa()A	Aa a a a Aa a a A	Aa	Aa Aa		Aa	a a a aN
+Aa(--)Aa	Aa a A a a A (a a a)	Aa	Aa Aa		Aa	a aN
+Aa(,)Aa	Aa Aa a Aa-a a (a a-a)	Aa	Aa Aa		Aa	a a aN
+(0~0-0-/0,0,~)Aa	Aa a a a a a Aa	Aa	Aa Aa		Aa/Aa	a 0a a aN
+A()Aa	Aa a Aa a a a A	Aa	Aa Aa		Aa Aa	aN
+Aa(,)Aa	Aa Aa a Aa-a a (a a-a)	Aa	Aa Aa		Aa	a a aN
+(+.0 0.=)Aa	Aa a a Aa (0 a 0) a a a a	Aa	Aa Aa		Aa	a a aN
+(0*0)A	Aa a	Aa	Aa Aa		Aa	Aa a a()N
+(0*0*-)0 0Aa	Aa a a a a a A-a (a a a a)	Aa	Aa Aa		Aa	Aa a Aa a() aN
+A((*0-)*!)A	Aa a a a A a a A	Aa	Aa Aa		Aa	N
+A(0+()-)A	Aa a a (): Aa a a A a a a A	Aa	Aa Aa		Aa Aa	a a a a a a a a aN
+(=())A	Aa a: a a a a a a a a (A)	Aa	Aa Aa		Aa	a Aa a a  a a a a Aa-aN
+((0=)0=)A	Aa a a A a a a?	Aa	Aa Aa		Aa	a-a? a-a? a? a?N
+((0)-0)A	Aa a a a (0:a, 0:a, 0:a)	Aa	Aa Aa		Aa	a a aN
+((0)0)A	Aa a a A a?	Aa	Aa Aa		Aa	a-a? a? a?N
+(()0' ')A	Aa a a a-a a a	Aa	Aa Aa		Aa Aa	a a a a a-a a aN
+0(0+<+0|+=)A	Aa a a a a a a A	Aa	Aa Aa		Aa	aN
+Aa(+|-)A	Aa a a a a A a a a Aa	Aa	Aa Aa		Aa	0a a a a a a a aN
+Aa(+|-)A	Aa a a a A a a a Aa	Aa	Aa Aa		Aa	a a a a aN
+Aa(-0+)Aa	Aa a a Aa a a a a a Aa	Aa	Aa Aa		Aa	a aN
+Aa(0 0)A	Aa A[0] A[0] A[0],  a a a Aa (0:a a A[0], 0:a a A[0], )	Aa	Aa		Aa	a a a a a a a a a aN
+Aa(,)Aa	Aa Aa a Aa-a a (a a-a)	Aa	Aa Aa		Aa	a a aN
+Aa(*0*)A	Aa a	Aa	Aa Aa		Aa	a-a a a a Aa a aN
+A((0+)-)A	Aa a a A a a a A, 0 a a a	Aa	Aa Aa		Aa Aa	a a a a a a a a a aN
+((,))Aa	Aa a a	Aa	Aa Aa		Aa	a a-a a a a a a aN
+((,))Aa	Aa a a	Aa	Aa Aa		Aa	a a-a a a a a a aN
+((+\+/)0+)Aa	Aa a (a a a \ a ) a a Aa[a] a a a'a a	Aa	Aa Aa		Aa	a a a aN
+Aa((+.)0,)Aa	Aa a a a a a a a A a Aa a A a Aa	Aa	Aa Aa		Aa	a a a a a=a^aN
+({}0 0+0,)Aa	Aa'a Aa a Aa: a a	Aa	Aa Aa		Aa	a a a a-aN
+A(A{.=+.})A	Aa a A a a a A a a a A	Aa	Aa Aa		Aa	a-a aN
+Aa(,)A	Aa a a A a a a a Aa	Aa	Aa Aa		Aa/Aa	0a a a a aN
+(.0.*0+0)A	Aa a a a A[0] a a A[0] a a A[0]	Aa	Aa Aa		Aa	a a aN
+0.0(*+..-0,)A	Aa a a a a a A	Aa	Aa Aa		Aa/Aa	Aa'a a aN
+(0=0|0,0 0 0)	Aa a a?	Aa	Aa Aa		Aa	a a a'a a a? a? a a?N
+A((0-0-)0-0-)A	Aa A	Aa	Aa Aa		Aa	a a a a a a a a a a    Aa a a Aa aN
+Aa(,-(|)-)Aa	Aa a a Aa a Aa (a a)	Aa	Aa Aa		Aa	a a() a N
+((0+\+/)0+)Aa	Aa a (a a a \ a ) a a Aa[a] a a a'a a	Aa	Aa Aa		Aa	a a a aN
+(-/(/,).=)Aa	Aa a a A (a,a) a a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+(0'.'~)Aa	Aa a a a a a Aa	Aa	Aa Aa		Aa	a a aN
+A((0-)0-(0-)0-)A	Aa A	Aa	Aa Aa		Aa	a a a a a a    AaN
+Aa(0,(/)0()0,)Aa	Aa a, a a a Aa'a	Aa	Aa Aa		Aa	a a a a a a a a aN
+Aa{(+/)}Aa	Aa'a a a a Aa a a Aa	Aa	Aa Aa		Aa	N
+(,[0.0]''\' ')Aa	Aa a-a a a a	Aa	Aa Aa		Aa	a aN
+Aa((0 0)+.(0 0.))A	Aa a a a A a a a Aa	Aa	Aa Aa		Aa	a a aN
+A{a-(a0+)|}A	Aa a a A a a a A	Aa	Aa Aa		Aa Aa	a a a a a a a a aN
+A(0.0+|)A	Aa A a a A (a a 0)	Aa	Aa Aa		Aa	a aN
+A(0.0+|)A	Aa A a a A (a a a 0)	Aa	Aa Aa		Aa	a aN
+A(+.*)Aa	Aa a A'a a a a a a Aa	Aa	Aa Aa		Aa	a_a a_0 a_0 a_0 a a0 a0 a0 (a) (a) (a) (a)N
+((/!-0)!0++/)A	Aa Aa Aa	Aa	Aa Aa		Aa	A() () a() N
+Aa(|0+.(0-0))Aa	Aa a a a a Aa,Aa a	Aa	Aa Aa		Aa	aN
+Aa(0A0(0)-0)Aa	Aa a a Aa a a Aa	Aa	Aa Aa		Aa	N
+{A[0|0+A]}@(A)A	Aa-0	Aa	Aa Aa		Aa	a a a0N
+((,0,)(/,),~)Aa	Aa a a a a a a a a a Aa	Aa	Aa Aa		Aa	a a a a aN
+Aa((,\0)(0,))Aa	Aa a	Aa	Aa Aa		Aa	a aN
+(\(+/)(+\0,))Aa	Aa (Aa[0]0),(Aa[0]0),(Aa[0]0),	Aa	Aa Aa		Aa/Aa	a a a a 0a 0a a a a a a a aN
+({/},)A	Aa a a	Aa	Aa Aa		Aa	aN
+Aa({\0</0,/})Aa	Aa a (<\) a a a a Aa a a Aa (a <\AaAa)	Aa	Aa Aa		Aa/Aa	a a a-a 0aN
+Aa(\{\0/0,/})Aa	Aa a a a Aa a a Aa a a	Aa	Aa Aa		Aa/Aa	a a/aN
+({()0}0)A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a aN
+' '((/)0())Aa	Aa a a a a	Aa	Aa Aa		Aa	a a a a a a a a aN
+(,(0 0+)0)Aa	Aa a a a a Aa (a a)	Aa	Aa Aa		Aa	a a aN
+A(0-(0+).-)A	Aa a: A a a a A	Aa	Aa Aa		Aa	aN
+Aa(*(+.)0,)Aa	Aa a a a a a a a A a Aa a A a Aa	Aa	Aa Aa		Aa	a a a a a=a^a aN
+A({0+},0,)A	Aa a A a a a a-a A	Aa	Aa Aa		Aa	a a a aN
+Aa({~\\0/0,})Aa	Aa a () a a a a Aa a a Aa	Aa	Aa Aa		Aa/Aa	0a a a a aN
+(+\'('=-0,')'=)Aa	Aa a a	Aa	Aa Aa		Aa	a a a a a aN
+({,''}A)Aa	Aa a a Aa a a a	Aa	Aa Aa		Aa	N
+Aa(/+=(+/),)Aa	Aa Aa a Aa a a?	Aa	Aa Aa		Aa	a a?N
+(((+),0))Aa	Aa-a a	Aa	Aa Aa		Aa	a A() A() A() A() a-aN
+((0']  [',)0,)Aa	Aa a a a a Aa	Aa	Aa Aa		Aa	aN
+(0,0</'a'0)Aa	Aa a a Aa a Aa	Aa	Aa Aa		Aa	Aa aN
+Aa({a/a+\0</0,})Aa	Aa a a a Aa a a a a a a 0 a Aa	Aa	Aa Aa		Aa/Aa	a a 0a a a aN
+(0A{0<:0})A	Aa a a A a a A	Aa	Aa Aa		Aa Aa	a A0A a a a a a a a a a aN
+' '(0,(/)0()0,)Aa	Aa a, a, a a a	Aa	Aa Aa		Aa	a a a a a a a a a a a a aN
+((~\)='''')Aa	Aa a (a a) a a	Aa	Aa Aa		Aa	a aN
+('/'@(' '=)0|0)Aa	Aa (A a) a A/A/A	Aa	Aa Aa		Aa	A A 0-0 (A0) A A A 0-0 Aa AN
+('.'@(' '=)0)Aa	Aa (A a) a A.A.A	Aa	Aa Aa		Aa	A A Aa Aa Aa Aa Aa Aa Aa AaN
+A(Aa{()@()})A	Aa Aa: Aa A a A a Aa (0 a A'a a, 0 a Aa'a a)	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a a a a a a a a a a a aN
+(,0+/)Aa	Aa a	Aa	Aa Aa		Aa	N
+Aa(/+=0+(+/),)Aa	Aa Aa a Aa a a?	Aa	Aa Aa		Aa	a a? a? a-a?N
+Aa(((0)0)-(0)0)Aa	Aa (a) a a a	Aa	Aa Aa		Aa	aN
+A({(a/)@{a}a a~@0A}0)A	Aa a a a a a a a a A	Aa	Aa Aa		Aa Aa	a a a a() a a a() a aN
+''''{,,/0+=}Aa	Aa a a a	Aa	Aa Aa		Aa	a 0 aN
+0 0{(,),.()}Aa	Aa a: Aa a a Aa a Aa	Aa	Aa Aa		Aa/Aa	a a-0 a0N
+Aa(0*-0)Aa	Aa'a a a Aa	Aa	Aa Aa		Aa	N
+(((+),*))Aa	Aa-a a	Aa	Aa Aa		Aa	a A() A() A() A() a-a aN
+A((0)(0))A	Aa a A a a a A	Aa	Aa Aa		Aa	a a a a aN
+(((*),0))Aa	Aa-a a	Aa	Aa Aa		Aa	a A() A() A() A() a-aN
+({''/0+},/)Aa	Aa (a a, a a a)	Aa	Aa Aa		Aa	N
+A a{( )  ( )}(0) A	Aa a	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+(0 0+)Aa	Aa a a-a Aa	Aa	Aa Aa		Aa	aN
+((+.*0)-0*+)Aa	Aa a	Aa	Aa Aa		Aa	 a ^0 a^0 Aa(A) aN
+(0*(0*)0/0*)Aa	Aa-a Aa a	Aa	Aa Aa		Aa/Aa	a a a a a a a a a-0 a0N
+(/=(A,A~'A')0+0|0)Aa	Aa Aa a a Aa a a a? (0=Aa)	Aa	Aa Aa		Aa	a AN
+Aa{a[/(+\)[a]]}A	Aa (/) a a a a a A a a Aa	Aa	Aa Aa		Aa	a a a a a a a a aN
+Aa{a[/(+\)[a]]}A	Aa (/) a a a a a A a a Aa	Aa	Aa Aa		Aa	a a a a a a a a a aN
+(0*(+.*0)-0*+)Aa	Aa a a	Aa	Aa Aa		Aa	a  a AN
+((-0)(),)Aa	A a a, a a Aa	Aa	Aa Aa		Aa	N
+{' +'[0+0.=/,]}Aa	Aa a a a a (a a a a Aa)	Aa	Aa Aa		Aa	a a a aN
+(-\0(,)0/0,,0)Aa	Aa a a a a a 0a a Aa	Aa	Aa Aa		Aa/Aa	a a a a a 0a aN
+(((+.*0)-0*+)0+)Aa	Aa a	Aa	Aa Aa		Aa	 a ^0 a^0 a Aa(A) aN
+A((0-0|0|0+)-(0=)0-0.=0 0 0.|)A	Aa a a a a A a a A	Aa	Aa Aa		Aa	a a0 0a0a a0 0a0a aN
+'*/'(\(<\)(<\))A	Aa a /*a*/	Aa	Aa Aa		Aa	a *//*N
+(0-0 0*(0)-(/0@0))Aa	Aa a a a Aa+Aa+Aa=0	Aa	Aa Aa		Aa	a a(a)=a+a+a=0 a(a)=a^0+a+a=0N
+(0*((+.*0)-0*+)0+)Aa	Aa a a	Aa	Aa Aa		Aa	a  a A aN
+{(/)/(/=)/}{()}A	Aa(a): Aa a a a a a	Aa	Aa Aa		Aa	a a aN
+Aa({/0<}0+{(-)}!!)Aa	Aa a a (Aa,Aa) a	Aa	Aa Aa		Aa	a a a a a a a a aN
+(,(/)(<\,(=)=/))Aa	Aa a a a	Aa	Aa Aa		Aa	N
+a.a a	Aa a Aa-a a	Aa	Aa		Aa	Aa a a a AN
+AaAaAaAa a.a AaAa	Aa a a A a	Aa	Aa		Aa	N
+a a.a a	-a a a a a 	Aa	Aa		Aa	aN
+a a.a a	Aa a  a a 	Aa	Aa		Aa	N
+a a.a a	Aa  a a  a	Aa	Aa		Aa	aN
+a.a a	A 0/0 a a a	Aa	Aa		Aa Aa	a a AaAaAa 0-aAaAa 0aAaAa a a-0 a0N
+a a.a a	Aa a a	Aa	Aa		Aa	Aa-Aa a A-a a AaAaN
+a.a a	Aa A a a a	Aa	Aa		Aa	a a a-a a aN
+a a.a a	Aa a a	Aa	Aa		Aa	Aa AaN
+a.a0 a	Aa'a a	Aa	Aa		Aa	a Aa'a AaN
+a.a a	A a, a a	Aa	Aa		Aa	a aN
+a.a a	Aa a a a a a	Aa	Aa		Aa	a a a a aN
+a0a.a0 a	Aa a 0-a a a A 0	Aa	Aa		Aa Aa	0-a 0aN
+a a a.a a	Aa a a , a a a 	Aa	Aa		Aa	a a a-a a a a a aN
+a a.a a	Aa a a  a a 	Aa	Aa		Aa	a a a-a a a a a aN
+a a.a a	Aa-a a a a 	Aa	Aa		Aa	a a aN
+a a.a a	Aa a a a  a a 	Aa	Aa		Aa	a aN
+a a.a a	-a a a a 	Aa	Aa		Aa	a a a a aN
+a.a0 a	AaAa'a A0 a	Aa	Aa		Aa	N
+a a.a a	-a a a 	Aa	Aa		Aa	a Aa'a a Aa aN
+a.a a	Aa a a 	Aa	Aa		Aa	a aN
+a a.a a	Aa a a	Aa	Aa		Aa	a a a a a a a aN
+a.a a	Aa a a a	Aa	Aa		Aa	Aa a a a a a 0aN
+a.a a	Aa Aa'a Aa a Aa	Aa	Aa		Aa/Aa	a a a a Aa AaAa AaAN
+a.a a	Aa a A a	Aa	Aa		Aa	aA-a a-a aAa aN
+a.a a	A a a a a 	Aa	Aa		Aa	a a a aN
+a.a a	Aa-a	Aa	Aa		Aa	aN
+a.a a	Aa-a	Aa	Aa		Aa	a a a aN
+a.a a	Aa	Aa	Aa		Aa	aAa aN
+a.a a	Aa a a	Aa	Aa		Aa	a a a aN
+a.a a	Aa a a	Aa	Aa		Aa	a a a a a aN
+a.a a	Aa a a a	Aa	Aa		Aa	A a a a a a )aN
+a.a a	Aa [A] a a	Aa	Aa		Aa	a a aN
+a.a0a a	Aa a a A-0 a 	Aa	Aa		Aa Aa	a a Aa a a a aN
+a a.a a	Aa a a a  a a a 	Aa	Aa		Aa	a a aN
+a.a a	Aa a a a 	Aa	Aa		Aa	a a-a aN
+a.a a	Aa a a a a	Aa	Aa		Aa	a a a aN
+a.a a	Aa a a a	Aa	Aa		Aa	a a a-a a aN
+a.a a	Aa a a a a a a	Aa	Aa		Aa	a a a-a a a aN
+a.a a	Aa a a a a a a a a a	Aa	Aa		Aa	a a a-a a a-a a aN
+a.a a	Aa a a a(a)	Aa	Aa		Aa Aa	a aN
+a.a A	Aa A-Aa Aa	Aa	Aa		Aa	a a a a AaAa AaN
+a a.a a	Aa 'a'  a a a 	Aa	Aa		Aa Aa	aN
+a.a a	Aa a/a Aa a	Aa	Aa		Aa Aa	AaN
+a.a0 a	Aa0 a a a a a a A	Aa	Aa		Aa	Aa0aN
+aA a.a A	Aa a	Aa	Aa		Aa	a aN
+a.a a	Aa-a a a	Aa	Aa		Aa	a aN
+a a.a a	Aa a- a	Aa	Aa		Aa	a-a a a a aN
+a a.a a	Aa a-a a a A	Aa	Aa		Aa	AaAaAaN
+a.a a	Aa a/a	Aa	Aa		Aa Aa	a aN
+a.a a	Aa a a a 	Aa	Aa		Aa	aN
+a a.a a	Aa a a a	Aa	Aa		Aa Aa	a a a aN
+a a.a a	Aa a a	Aa	Aa		Aa	N
+a a.a a	-a a a a a 	Aa	Aa		Aa	aN
+a.a a	Aa-a a a(a) 	Aa	Aa		Aa	a a a a a a a a a a a aN
+a.a a	Aa a a 	Aa	Aa		Aa	a a a(a) a a a aN
+a a.a a a	Aa  a a-a  a	Aa	Aa		Aa	a a a-a a a a a aN
+a a.a a a	Aa  a a a-a a 	Aa	Aa		Aa	a a a-a a a a a aN
+a.a a	A a a a a	Aa	Aa		Aa	a a a-a aN
+a.a a	Aa a a a a a a	Aa	Aa		Aa	a aN
+aA a.a A	Aa a	Aa	Aa		Aa	AaN
+a a.a a	Aa   	Aa	Aa		Aa Aa	a a()N
+a.a a	Aa a a 	Aa	Aa		Aa	aN
+a.a a	Aa-a Aa	Aa	Aa		Aa	a a a a aN
+a.a a	Aa a Aa	Aa	Aa		Aa	aN
+a.a a	Aa Aa Aa	Aa	Aa		Aa	a a a a a a a a a a a a a aN
+a.a a	Aa a a a	Aa	Aa		Aa	a aN
+a a.a a	 a a a a 	Aa	Aa		Aa	aN
+a.a a	Aa a a	Aa	Aa		Aa	a aN
+a.a a	Aa a	Aa	Aa		Aa	a a A'0 A0 0N
+a.a a	Aa a a a	Aa	Aa		Aa	Aa Aa aN
+a.a a	Aa - a a 0	Aa	Aa		Aa	a a Aa,Aa,Aa Aa,Aa,Aa AaAaAa AaAaAa AaAaAa a'a aN
+a a.a a	Aa Aa Aa	Aa	Aa		Aa	a a aN
+a a.a a	Aa a a a	Aa	Aa		Aa	aN
+a a.a a	Aa a a  a a 	Aa	Aa		Aa Aa	a a a a aN
+a.a a	Aa a a	Aa	Aa		Aa	a aN
+a a.a a	Aa a a (A) a	Aa	Aa		Aa	a Aa a(a) a a a a aN
+a a.a a	Aa' a	Aa	Aa		Aa	AaN
+a a.a a	Aa  a a 	Aa	Aa		Aa Aa	a AN
+a a.a a	Aa (0)-a a a 	Aa	Aa		Aa	aN
+a a.a a	-a a a a a 	Aa	Aa		Aa	a a a a a a aN
+a a.a a	Aa A-a a	Aa	Aa		Aa	A-Aa a a a Aa AaN
+a.a a	Aa Aa a a a 	Aa	Aa		Aa Aa	a aN
+a.a a	Aa a a a 	Aa	Aa		Aa	a a aN
+a.a a	Aa a a a a 	Aa	Aa		Aa Aa	a a aN
+a.a a	Aa a a a a 	Aa	Aa		Aa	a aN
+a.a a	Aa-a a	Aa	Aa		Aa	Aa-a a AaN
+a a.a a	Aa-a a a a a  a a 	Aa	Aa		Aa	0a a a-a a aN
+a a.a a	Aa-a a a: a  a a 	Aa	Aa		Aa	a-a a a a aN
+a a.a a	Aa a a a a  a 	Aa	Aa		Aa	a aN
+a a.a a	Aa Aa Aa a a a 	Aa	Aa		Aa	a a aN
+a.Aa a	Aa a Aa a-a a	Aa	Aa		Aa	Aa aN
+a a.a a	Aa  a a a ?	Aa	Aa		Aa	a a? a? a-a? a? a a-a a-a a-a aN
+a.a a	Aa Aa a a 	Aa	Aa		Aa	a AaAa a a aN
+a a.a a	Aa a-a a a A	Aa	Aa		Aa	AaAaAa a a aN
+A{}A	Aa: A a A a a (a a a)	Aa	Aa	Aa	Aa	a a a a a a a a aN
+AaA	Aa: a Aa a a A a a A	Aa	Aa Aa	Aa	Aa	a a a ?:N
+a.a ?0 0	Aa a a a a	Aa	Aa		Aa	a aN
+a0 a.a 	a a a a	Aa	Aa Aa		Aa	a AaN
+a0 a.a 	a a a 	Aa	Aa Aa		Aa	a AaN
+a0 a.a 	Aa  a a-a?	Aa	Aa Aa		Aa	a a Aa a? a? aN
+a0 a.a 	Aa  a a?	Aa	Aa Aa		Aa	a a AaN
+a0 a.a 	a+a/a a a a a a a a a, a a,a	Aa	Aa Aa		Aa	a AaN
+a0 a.a 	a a a a a 	Aa	Aa Aa		Aa	a AaN
+a0 a.a 	a a a a 	Aa	Aa Aa		Aa	a AaN
+a.a 	-a a	Aa	Aa Aa		Aa	a AaN
+a0 a.a 	a a a a 	Aa	Aa Aa		Aa	a AaN
+a a.a (a a)	Aa a  a a 	Aa	Aa		Aa	N
+a a.a (a a)	Aa a  a a 	Aa	Aa		Aa	a a a aN
+a(a a) a.a a	Aa a	Aa	Aa		Aa	a aN
+a{a} a.a a	Aa a a a a	Aa	Aa		Aa	a a a aN
+a a.a (a a)	Aa a a  a a 	Aa	Aa		Aa	a a-a a aN
+a(a.a) a	Aa a a a a	Aa	Aa		Aa	Aa a-a aN
+a{A A} a.a a	Aa Aa Aa Aa Aa	Aa	Aa		Aa	A a a a a a N
+a.a (a a a)	Aa a a a' a	Aa	Aa		Aa	a a aN
+a{a a} a.a a	Aa a a a a	Aa	Aa		Aa	aN
+a{a} a.a a	Aa a a	Aa	Aa		Aa Aa	aN
+a.a (a a a)	Aa a/a	Aa	Aa		Aa	a a a aN
+a{a} a.a a	Aa/a a	Aa	Aa		Aa	A A a a-a a aN
+a (a.a) a	-a a a a 	Aa	Aa		Aa	a a a Aa a a-0 a0N
+a{a} a.a_a a	Aa-Aa a	Aa	Aa		Aa	Aa Aa a AaAaN
+a{a} a.a a	Aa a a a	Aa	Aa		Aa Aa	a aN
+a{a} a.a a	Aa a-a a  a	Aa	Aa		Aa	a a aN
+a{a} a.a a	Aa -a a a a	Aa	Aa		Aa	a aN
+a{a} a.a a	Aa a	Aa	Aa		Aa	a aN
+a{a} a.a a	Aa a	Aa	Aa		Aa	a a aN
+a{a} a.a a	Aa a a a	Aa	Aa		Aa	a aN
+a{a} a.a a	Aa-a-a / a	Aa	Aa		Aa	aN
+a a.a (a a)	Aa a a/a  a a a 	Aa	Aa		Aa	a a aN
+a.a ''	Aa a a-a A-a	Aa	Aa		Aa	a a A AN
+a{a} a.a a	Aa a	Aa	Aa		Aa	a a a a Aa a a a a a aN
+a{a} a.a a	Aa Aa Aa	Aa	Aa		Aa	a a a a aN
+a{a} a.a a	Aa Aa Aa	Aa	Aa		Aa	a a a a a aN
+a{a} a.a a	Aa Aa Aa	Aa	Aa		Aa	a a a a a aN
+a{a} a.a a	Aa Aa Aa	Aa	Aa		Aa	a a a a a a aN
+a{a} a.a a	Aa Aa Aa	Aa	Aa		Aa	a a a a a aN
+a{a} a.a a	Aa aAa Aa	Aa	Aa		Aa	a a a a aN
+a.a (a a)	Aa a AaAa a a	Aa	Aa		Aa Aa	aN
+{a}a a.a0a a	Aa a  a A-0 a 	Aa	Aa		Aa Aa	a a Aa a a a aN
+(a a)a.a a	AaAa a a a a	Aa	Aa		Aa Aa	N
+{a}a.a a	Aa a/a a	Aa	Aa		Aa Aa	aN
+{a0} a.a a	Aa a a a a a a	Aa	Aa		Aa	aN
+A{}A	Aa: A a A a a a a a (A A)	Aa	Aa Aa	Aa	Aa	a a a a a a a a a aN
+A{a0} a.a A	Aa a a a a a 	Aa	Aa		Aa	Aa a-a A a aN
+a{a0} a.a a	Aa-Aa a	Aa	Aa		Aa	AaAa a aN
+a{a0} a.a a	Aa a a Aa a	Aa	Aa		Aa	a a a Aa'a Aa Aa a a a aN
+a{a0} a.a a	Aa -a a	Aa	Aa		Aa	aN
+a{a0} a.a a	Aa a (a a) a	Aa	Aa		Aa	a a aN
+a{a0} a.a a	Aa/a A a	Aa	Aa		Aa	a a a0a aAN
+a{a0} a.a a	Aa a A a a	Aa	Aa		Aa	a a a aN
+a{a a a  0} a.a a	Aa a a a a 	Aa	Aa		Aa	a a-a a a a a aN
+a{a0} a.a a	Aa a a a	Aa	Aa		Aa	a a aN
+a{a0} a.aA a	Aa Aa, Aa Aa, Aa Aa	Aa	Aa		Aa	a a a Aa-Aa-Aa AaAaAaN
+a{a0} a.aA a	AaAa Aa	Aa	Aa		Aa	a aN
+a{a0} a.aA a	Aa a	Aa	Aa		Aa	a aN
+a{a0} a.aA a	Aa a a a	Aa	Aa		Aa	a aN
+a{a0} a.aA a	Aa a a a a a	Aa	Aa		Aa	a a a a a a-0 a0N
+a{a0} a.aA a	Aa a	Aa	Aa		Aa	a AaN
+a{a0} a.aA a	Aa aAa a	Aa	Aa		Aa	a aN
+a{a0} a.aA a	Aa-Aa Aa (A a)	Aa	Aa		Aa	a a-a aN
+a{a0} a.aA a	Aa-Aa a	Aa	Aa		Aa	a AaAaN
+a{a0} a.aA a	Aa a a a	Aa	Aa		Aa	a a aN
+a{a0} a.aA a	Aa a	Aa	Aa		Aa	aN
+a{a0} a.a a	Aa a	Aa	Aa		Aa	a a a a a a aN
+a{a a0} a.a a	Aa a/a a	Aa	Aa		Aa	a a aN
+a{a0} a.a a	A a a a a	Aa	Aa		Aa Aa	AaAaAa Aa a 0 aN
+a{a0} a.a a	Aa a a A a	Aa	Aa		Aa Aa	AaAaAa Aa a aN
+a{a0} a.a a	Aa a a a 	Aa	Aa		Aa	a aN
+a{a0 0 0 0 0 0 0} a.a a	Aa a a 	Aa	Aa		Aa	a a aN
+a{a0} a.a a	'a a	Aa	Aa		Aa	a aN
+a{a0} a.a a	Aa a a	Aa	Aa		Aa Aa	a a()N
+a{a0} a.a a	Aa a a a a-a	Aa	Aa		Aa	a aN
+a{a0} a.a0 a	Aa-a a	Aa	Aa		Aa	a aN
+a{a0} a.a a	Aa a a	Aa	Aa		Aa	a aN
+a{a0} a.a a	Aa a a a a Aa	Aa	Aa		Aa	a Aa A a a aN
+a{a} a.a a	Aa a a-a a	Aa	Aa		Aa Aa	a A a-a a aN
+a{a} a.a a	Aa a a	Aa	Aa		Aa	a a a A a a aN
+a{a0} a.a a	Aa a/a a a	Aa	Aa		Aa Aa	a aN
+a{a0} a a.a a	Aa-Aa a a a 	Aa	Aa		Aa	a a Aa-Aa a A AaAaN
+{A+}A	Aa a a a a a a a a A=0	Aa	Aa Aa		Aa Aa	N
+a a.a a a 	Aa a a	Aa	Aa		Aa	a aN
+{:A  A}Aa	Aa: a Aa a a a a A a a a a A	Aa	Aa Aa	Aa	Aa	a a a ?:N
+Aa{}Aa	Aa-a a a a a (a a a)	Aa	Aa Aa		Aa	a aN
+a.a A[?0]	Aa a a a a	Aa	Aa		Aa	a a AN
+a + a_a  a.AaAa (a)	Aa a a a a	Aa	Aa		Aa	Aa aN
+a{aA} a.a a	Aa a a a	Aa	Aa		Aa	a a a aN
+a{aA} a.a a	Aa a a a	Aa	Aa		Aa	a a-a a aN
+a{aA} a.a a	a-a A	Aa	Aa		Aa	a aAN
+a{aA} a.a a	Aa-a a	Aa	Aa		Aa	aN
+a{aA} a.a a	Aa a a(a) 	Aa	Aa		Aa	a-a a aN
+a{aA} a.a a	Aa a a a  a	Aa	Aa		Aa	a a a aN
+a{aA} a.a a	Aa a a a a 	Aa	Aa		Aa	a a aN
+a{aA} a.a a	Aa a a a 	Aa	Aa		Aa	a Aa aAaN
+{+A-0}A	Aa a a a a a a a a A=0	Aa	Aa Aa		Aa Aa	N
+{-A-}A	Aa a a a a a a a a A=0	Aa	Aa Aa		Aa Aa	N
+{+~A}A	Aa a a a a a a a a A=0	Aa	Aa Aa		Aa Aa	N
+{,}Aa	Aa a a a a a Aa	Aa	Aa Aa		Aa	a aN
+A{a0} a.A A	Aa a: Aa'a Aa A	Aa	Aa		Aa/Aa	a AaA a a A-Aa a AaN
+{.##}A	Aa a a a a a A	Aa	Aa Aa		Aa	a a a aN
+a{a a} a.a (a a a)	Aa a a a a	Aa	Aa		Aa	a a aN
+a{a} a.a (a a)	Aa a a	Aa	Aa		Aa	a aN
+{a''} a.a a	Aa a a a a	Aa	Aa		Aa Aa	a a a a a aN
+{a}{a} a.a a	Aa a a	Aa	Aa		Aa	a aN
+{a}{a} a.a a	Aa	Aa	Aa		Aa	a a a 0-a Aa 0a aN
+{0/}A	Aa a a a a a a	Aa	Aa Aa		Aa	a a a a a a-a a-a a a a a aN
+Aa{+}Aa	Aa a	Aa	Aa Aa		Aa	a aN
+Aa{-}Aa	Aa a	Aa	Aa Aa		Aa	a aN
+Aa{0+}A	Aa A a a a a Aa	Aa	Aa Aa		Aa	a a a aN
+Aa{}A	Aa A a a Aa	Aa	Aa Aa		Aa	aN
+A{</}A	Aa A a a a a a a A?	Aa	Aa Aa		Aa	a a a a a   aN
+A{>/}A	Aa A a a a A?	Aa	Aa Aa		Aa	a a a a a    a aN
+A{</}A	Aa A a a a a a a A?	Aa	Aa Aa		Aa	a a a a   aN
+A{>/}A	Aa A a a a A?	Aa	Aa Aa		Aa	a a a a a    aN
+Aa{[0+]}A	Aa a-a a Aa a Aa a A	Aa	Aa Aa		Aa	a a a-0 a0N
+a{a0} a.a (a a)	Aa'a Aa Aa Aa	Aa	Aa		Aa	a a'a a a a a aN
+a{a0} (a.a) a	Aa a a a 	Aa	Aa		Aa	a a aN
+{a}{a} a.a a	Aa-a a	Aa	Aa		A	Aa A-Aa a a Aa a AaN
+Aa{}A	Aa a a a A a a Aa a a a	Aa	Aa Aa		Aa	a a 0a a a a a a a a a a a a a a a a aN
+a{A0A} a.a a	Aa a	Aa	Aa		Aa	a a a aN
+{-/0 0}Aa	Aa a a-a a	Aa	Aa Aa		Aa	a() 0-a 0a aN
+{0=A,}Aa	Aa Aa a a?	Aa	Aa Aa		Aa	a? a a?N
+{0=A,}Aa	Aa Aa a a?	Aa	Aa Aa		Aa	a? a a?N
+{/0 0}Aa	Aa a a Aa[0] a, Aa[0] a, Aa[0] a, 	Aa	Aa Aa		Aa/Aa	0a 0a a a a a a aN
+Aa{}A	Aa a a A a a Aa a a a a A	Aa	Aa Aa		Aa	a a a a a a aN
+a {a'*'} a.a a	Aa a a	Aa	Aa		Aa	aN
+a{a'*'} a.a a	Aa a '*'a	Aa	Aa		Aa	a-a a a a a a a aN
+a{a0 {a0}} a.a a	Aa a a a a	Aa	Aa		Aa	a a Aa a-a a a aN
+a{a0 {a0}} a.a a	Aa a  a a a	Aa	Aa		Aa Aa	a a Aa aN
+A{A0}A	Aa a a a a (a a)	Aa	Aa Aa		Aa	a N
+Aa{0@ 0}Aa	Aa a a a Aa a a a (a,a) a Aa	Aa	Aa Aa		Aa	a a a a aN
+a{a''} a.a a	Aa a a a a	Aa	Aa		Aa	a a a-a a aN
+Aa{0@{0}}A	Aa a Aa a a A	Aa	Aa Aa		Aa/Aa	a a a aN
+{=.}A	Aa A a a a?	Aa	Aa Aa		Aa	a a? a a aN
+{0,}Aa	Aa a a a a Aa (a a)	Aa	Aa Aa		Aa/Aa	a a-0 a0N
+{0}Aa	Aa a a a a Aa	Aa	Aa Aa		Aa	a-0 a0 aN
+{0 0 0A,}Aa	Aa Aa a a?	Aa	Aa Aa		Aa	a a? a? a? a?N
+{0::0}A	Aa a a	Aa	Aa Aa		Aa Aa	a a aN
+Aa{~0}A	Aa a a a a a A a Aa	Aa	Aa Aa		Aa/Aa	a a a a a aN
+{/0,0}Aa	Aa a a a a a a	Aa	Aa Aa		Aa	aN
+Aa{-// 0/0 }A	Aa a a a a a	Aa	Aa Aa		Aa	a a aN
+{0|}A	Aa a a a A	Aa	Aa Aa		Aa	a a a aN
+A{+/\=}A	Aa a a a a a a a	Aa	Aa Aa		Aa	a a a a a aN
+A{+/\}A	Aa a a a a a a a	Aa	Aa Aa		Aa	a a a a a aN
+Aa{~0}A	Aa a a a a a A a Aa	Aa	Aa Aa		Aa/Aa	a a a a a aN
+a{a0 {aA}} a.a a	Aa-a a	Aa	Aa		Aa	a aN
+Aa{()}Aa	Aa: A a a a a a a a a a a a Aa, a a a a a a a a a a a Aa a a a a a Aa	Aa		Aa	Aa Aa	a a a a a a a a 0aN
+{()}A	Aa: A a a a a	Aa	Aa Aa	Aa	Aa	a a a a a() a a a a aN
+{()}A	Aa: A a a a a	Aa	Aa Aa	Aa	Aa	a a a a a() a a a a aN
+{(A).A }Aa	Aa a Aa a a a a a a a a a a a.a	Aa	Aa Aa		Aa	a a a a a a .a aN
+Aa{,''}A	Aa a A a a Aa	Aa	Aa Aa		Aa	a a-a a-a a aN
+a{a a'' ''} a.a a	Aa a a a a	Aa	Aa		Aa	a a 0aN
+{a}{a''} a.a0 a	Aa a(a) a a a	Aa	Aa		Aa Aa	A0(a) a(A0) aN
+{a}{a0} a.a (a a)	Aa a a a-a	Aa	Aa		Aa Aa	a a AaN
+{a}{a'a'} a.a a	Aa a a: a a => a a	Aa	Aa		Aa	a a a A aN
+{a''} a.a (a a)	Aa a	Aa	Aa		Aa	a a-a aN
+{0.0 0.0A,}Aa	Aa Aa a a/a?	Aa	Aa Aa		Aa	a a a? a?N
+{0.0 0.0A,}Aa	Aa Aa a a/a?	Aa	Aa Aa		Aa	a a? a? a? a? a? a?N
+{0.0 0.0A,}Aa	Aa Aa a?	Aa	Aa Aa		Aa	a a a? a? a? a? a?N
+{0+A,A}Aa	Aa a a	Aa	Aa Aa		Aa	a0 a-0  a0a a()N
+A{+/\=}A	Aa a a a a a a a	Aa	Aa Aa		Aa	a a a a aN
+A{+/\}A	Aa a a a a a a a	Aa	Aa Aa		Aa	a a a a aN
+Aa{~0</[]}A	Aa A Aa Aa a a Aa?	Aa	Aa Aa		Aa	a a? a? a a a aN
+Aa{~0/[]}A	Aa A Aa-a a a Aa?	Aa	Aa Aa		Aa	a a? a? a a a aN
+Aa{~0/[]}A	Aa A Aa-a a a Aa?	Aa	Aa Aa		Aa	a a? a? a a Aa? a aN
+Aa{~0>/[]}A	Aa A Aa Aa a a Aa?	Aa	Aa Aa		Aa	a a? a? a a Aa? a aN
+a{aA {aA}} a.a a	Aa a a a a a	Aa	Aa		Aa	a a a-a aN
+Aa{/}A	Aa Aa a a-a a a a Aa (+/Aa  A)	Aa	Aa Aa		Aa	a a a a aN
+A{0=A:}Aa	Aa a a A a Aa a a a	Aa	Aa Aa		Aa	a a aN
+Aa{0}A	Aa A a a Aa a a a a a a a	Aa	Aa Aa		Aa	a a a a aN
+{/~'  '}Aa	Aa a a	Aa	Aa Aa		Aa	a aN
+Aa{A 0'A'0}Aa	Aa Aa a a a a a a Aa?	Aa	Aa Aa		Aa	a a? a? a? a aN
+{(A).A}Aa	Aa a a a a	Aa	Aa Aa		Aa	a a a aN
+{a}{aA} a.a (a a)	Aa a a	Aa	Aa		Aa	aN
+{0.0 0.0A,}Aa	Aa Aa a a?	Aa	Aa Aa		Aa	a a?N
+{0.0 0.0A,}Aa	Aa Aa a a?	Aa	Aa Aa		Aa	a a?N
+{0,/0}Aa	Aa a a a a a a Aa	Aa	Aa Aa		Aa	aN
+{\0 0}A	Aa a a	Aa	Aa Aa		Aa	a a a aN
+Aa{+\}A	Aa () a a a A a a Aa	Aa	Aa Aa		Aa	N
+A{.##=.##}A	Aa A a A a a?	Aa	Aa Aa		Aa	a a? aN
+Aa{0=|}A	Aa a Aa'a a a a a A	Aa	Aa Aa		Aa	a a aN
+Aa{0|}A	Aa a Aa'a a a A	Aa	Aa Aa		Aa	a a aN
+A{/}Aa	Aa a a-a a A a a a a a A	Aa	Aa Aa		Aa	a a aN
+{0 0 0(,.)0}Aa	Aa a a Aa	Aa	Aa Aa		Aa	a a a aN
+A{-}Aa	Aa a a A a a a a Aa	Aa	Aa Aa		Aa	a a a a a a aN
+A{}Aa	Aa a a A a a a a Aa	Aa	Aa Aa		Aa	a a a a a a aN
+{/' '}Aa	Aa a a	Aa	Aa Aa		Aa	a-a a a a a a a aN
+{/' '}Aa	Aa a a	Aa	Aa Aa		Aa	a-a a a a a a a aN
+{@(0,)}A	Aa a a a a a	Aa	Aa Aa		Aa	a a a a a a a a 0a a a aN
+Aa{A()}A	Aa Aa a a a A a a a a	Aa	Aa Aa		Aa	a a aN
+{/\' '}Aa	Aa a a	Aa	Aa Aa		Aa	a a a a a aN
+{/\'0'}Aa	Aa a a	Aa	Aa Aa		Aa	a 0a a a a a a aN
+{/' '.}Aa	Aa a a	Aa	Aa Aa		Aa	a a a a aN
+{' '.}Aa	Aa a a	Aa	Aa Aa		Aa	a a a a a aN
+{(A'Aa').Aa}A	Aa a Aa a	Aa	Aa Aa		Aa	a a aN
+Aa{0-/0,0-+\}Aa	A a Aa a a Aa	Aa	Aa Aa		Aa	a-a-a-a aN
+{,[0]0/}A	Aa (a  a a a a a a a)	Aa	Aa Aa		Aa	a a a Aa a a aN
+{a=a|+a}Aa	Aa a a?	Aa	Aa Aa		Aa	a a aN
+Aa{a0.0+a0*}A	Aa A a Aa a a (Aa: AaA)	Aa	Aa Aa		Aa	a a a a aN
+A{~}A	Aa a a A a a a a A	Aa	Aa Aa		Aa	a a a a aN
+Aa{++\}A	Aa a a a (0) a a a A a a Aa	Aa	Aa Aa		Aa	a-a a-a a a a 0aN
+A{[[;];]}Aa	Aa a Aa a a a(a) A	Aa	Aa Aa		Aa	a() a() a a a aN
+a{a()*0} a.a a	Aa a a Aa a 	Aa	Aa		Aa	a a AaAa aN
+{/0/0,' '}Aa	Aa a a a a	Aa	Aa Aa		Aa	a a a a a aN
+a{a0 {a0 {aA}}} a.a a	Aa ]a	Aa	Aa		Aa	a a AN
+Aa{0  ,}Aa	Aa a a Aa a a a Aa	Aa	Aa Aa Aa, Aa Aa		Aa	a aN
+{' '.=:  }A	Aa a a A a a a a	Aa	Aa Aa		Aa	a aN
+{0A'AaAa'A'Aa'}	Aa Aa a a Aa	Aa	Aa Aa		Aa	a a a .aN
+{0A'AaAa'A'Aa'}Aa	Aa Aa a a Aa	Aa	Aa Aa		Aa	a a a .aN
+{(\' ')/}Aa	Aa: Aa a a a a a	Aa	Aa Aa	Aa	Aa	a a a a a a-a a a a a aN
+Aa{A'%''A'0}Aa	a: Aa a Aa a a a Aa a a a a	Aa	Aa Aa		Aa	aN
+{,.+/0+0}Aa	Aa a a a a a 0*Aa a	Aa	Aa Aa		Aa	a()N
+Aa{a[0|+a0A]}A	Aa'a a a a A (Aa:a, -Aa:a)	Aa	Aa Aa		Aa	a a a a a a aN
+Aa{}Aa	Aa Aa a a a a Aa	Aa	Aa Aa		Aa Aa	aN
+{()+\0,}Aa	Aa a a a a 0a	Aa	Aa Aa		Aa	a-a-a-a aN
+Aa{+.*0+}Aa	Aa a a a a Aa a a Aa	Aa	Aa Aa		Aa	N
+{/0/0,' '}Aa	Aa a a a a	Aa	Aa Aa		Aa	a a a a aN
+{+/\' '=}A	Aa a	Aa	Aa Aa		Aa	a a-aN
+Aa{0-0(0)+}A	Aa a (+/) a a A a a Aa	Aa	Aa Aa		Aa	a a a-aN
+{/\' '.}Aa	Aa a a a	Aa	Aa Aa		Aa	a a a a a a aN
+{\.' '}Aa	Aa a a a	Aa	Aa Aa		Aa	a a a a a a aN
+{[+.' ';]}Aa	Aa a a a Aa a a a a	Aa	Aa Aa		Aa	aN
+Aa{()}A	Aa Aa a a a A a a a a	Aa	Aa Aa		Aa	a a a aN
+{0/0,\=''''}Aa	Aa a a a a a a	Aa	Aa Aa		Aa	aN
+{0/0,\=''''}Aa	Aa a a a a a a	Aa	Aa Aa		Aa	aN
+Aa{(-)0}A	Aa A a a a a A a a Aa	Aa	Aa Aa		Aa	a a a aN
+A{()>}A	Aa () a a a a a a	Aa	Aa Aa		Aa	a a a-a a-a a a a aN
+{0~/0,}A	Aa: a a a a a	Aa	Aa Aa		Aa	a aN
+a{a(,a)A-0} a.a a	Aa Aa a a-a a 	Aa	Aa		Aa	a a Aa-Aa a a AaAa a a a a aN
+Aa{/~}A	Aa a Aa a a A	Aa	Aa Aa		Aa	a a a aN
+Aa{0\}A	Aa a a a A a a a 0 a Aa	Aa	Aa Aa		Aa	a aN
+Aa{+0-/\0,+\-}Aa	Aa a a a Aa a a Aa	Aa	Aa Aa		Aa	a a a a a aN
+{(A,A)[0+0]}Aa	Aa a a	Aa	Aa Aa		Aa	a0 a-0  a0a a()N
+A{a+.-a/}Aa	Aa a a a a a Aa a a A (a a a a)	Aa	Aa Aa		Aa	a a a a a aN
+Aa{0/=+\=}Aa	Aa Aa'a a a Aa (a a a Aa[0])	Aa	Aa Aa		Aa	N
+Aa{0/=+\=}Aa	Aa a a Aa a Aa (a a a a a a Aa)	Aa	Aa Aa		Aa	a a a a a a a 0aN
+Aa{()}Aa	Aa a a Aa a Aa a (a a)	Aa	Aa Aa		Aa	a a a? a? a?N
+Aa{()0+}A	Aa a a a a A a a a Aa	Aa	Aa Aa		Aa	a a a aN
+Aa{(+/[])}A	Aa (a a) a a a A a a Aa	Aa	Aa Aa		Aa	a() A() a() a a a aN
+A{(0++\' '=)[]}Aa	Aa a a a a Aa a a A a a	Aa	Aa Aa		Aa Aa	aN
+{({0})}A	Aa-a a a	Aa	Aa Aa		Aa	a a a a aN
+{0(A)+}A	Aa Aa (a, a)	Aa	Aa Aa		Aa Aa	aN
+Aa{+/\0,0+}Aa	Aa a Aa a a a Aa a a Aa	Aa	Aa Aa		Aa	N
+Aa{a0a}Aa	Aa a a (\) a a a a  a a 	Aa	Aa Aa		Aa/Aa	a 0a a a a aN
+{0':'@0+0}Aa	Aa (A a) a a:a:a	Aa	Aa Aa		Aa	a 0-a aN
+Aa{0-0(0/0)+}Aa	Aa a a Aa a a a a a Aa	Aa	Aa Aa		Aa	a a a a aN
+Aa{0-0(+\)+}A	Aa a (+/) a a A, a a Aa	Aa	Aa Aa		Aa	a a a-aN
+{/\' '.}Aa	Aa a a a	Aa	Aa Aa		Aa	a-a a a a a a a a a a aN
+Aa{a[(+\)[a]]}A	Aa a () a a a a A a a Aa	Aa	Aa Aa		Aa Aa	a-a a-a a a a-aN
+Aa{a[(+\)[a]]}A	Aa a () a a a a A a a Aa	Aa	Aa Aa		Aa Aa	a-a a-a a a a-aN
+{0/  0@0}Aa	Aa a a  a a a a a a a	Aa	Aa		Aa/Aa	a 0 aN
+{a0  /{a0a+}}Aa	Aa a a a a a	Aa	Aa Aa		Aa	a a a a-a a-a a-a a a a a'a a aN
+A{0(-0)+0-/}Aa	Aa a a Aa a a a a A	Aa	Aa Aa		Aa	aN
+Aa{(0+)+?0--/}Aa	Aa-a a a a a a a Aa[0]Aa[0] (a, a a)	Aa	Aa Aa		Aa Aa	a aN
+Aa{(-)+\}A	Aa Aa a a a a Aa	Aa	Aa Aa		Aa	a a a a aN
+{.((,)A0)}A	Aa a-a a a a A	Aa	Aa Aa		Aa Aa	a a a a a a aN
+A{(-)(0),}A	Aa a a A a a a a a a A	Aa	Aa Aa		Aa	a a a a a aN
+A{(0)@()}A	Aa a a A a a A a a a	Aa	Aa Aa		Aa	a a 0a a a a a a a a a a a a a aN
+A{~()}A	Aa (~) a a a a a a	Aa	Aa Aa		Aa	a a a a a a a-a a-a a a a a aN
+A{(A)(A)}A	Aa A a A a a a a?	Aa	Aa Aa		Aa	a a? a?N
+A{/()<}A	Aa () a a a a a a	Aa	Aa Aa		Aa	a a a-a a-a a a a aN
+Aa{A0*+.  A,A0}Aa	Aa a a a a a a a a Aa a a Aa	Aa	Aa Aa		Aa	a aN
+{-+/\Aa.=' '}Aa	Aa a a a	Aa	Aa Aa		Aa	a-a a a a a a a a a a aN
+Aa{a+\a\0@0}Aa	Aa a Aa a a Aa	Aa	Aa Aa		Aa	aN
+A{a=a+0<0}A	Aa a a a a A a a a a a a a a a 0 a A	Aa	Aa Aa		Aa/Aa	a a a a a a a 0aN
+{--(0,)}A	Aa a a a a a a A	Aa	Aa Aa		Aa	a a a aN
+{(,)/0+a0+/a}Aa	Aa a a Aa a a a a	Aa	Aa Aa		Aa	a a a aN
+Aa{+.()0 0}Aa	Aa	Aa	Aa Aa		Aa	aN
+Aa{0 0(0+).+,0*}Aa	Aa a a a a a-a Aa a a a a Aa	Aa	Aa Aa		Aa Aa	a a a a 0a a a a a aN
+A{(0)@(~)}A	Aa a a A a a a A a a a	Aa	Aa Aa		Aa	a a 0a a a a a a a a a a a a a aN
+A{,''' '.=}Aa	Aa a a Aa a a a A	Aa	Aa Aa		Aa	aN
+{{(0)}}A	Aa A a a-a a a	Aa	Aa Aa		Aa	a a a a aN
+{(A.A.Aa'AaAa'('A')).Aa.Aa}Aa	Aa a a A Aa	Aa	Aa Aa		Aa	a a a a:// a:// a aN
+{-/+//[0](0 0 0 0 0 0 0) }Aa	Aa a a-a a	Aa	Aa Aa		Aa	a() 0-a 0a aN
+A{,[0/]}A	Aa a a a a a a a a	Aa	Aa Aa		Aa	a a aN
+Aa{.=[0]}Aa	Aa a a Aa a a Aa	Aa	Aa Aa		Aa	aN
+Aa{+.(*!)0+}Aa	Aa a a a Aa, a Aa	Aa	Aa Aa		Aa	N
+Aa{+.()0 0+}Aa	Aa-a	Aa	Aa Aa		Aa	a a a-aN
+{+.()0 0+}Aa	Aa-a	Aa	Aa Aa		Aa	a a a-a a-aN
+Aa{@(0+)0+}A	Aa a-a a A a a Aa	Aa	Aa Aa		Aa	a a a a a a a-a a a a a a-a a a 0a-a 0a-aN
+A{( )}A	Aa A a A a	Aa	Aa Aa		Aa	a a a a a a a a a aN
+{(+/\' ')}Aa	Aa: A a a a a a a a a a a a Aa (a a a a a 0) a a a a a	Aa		Aa	Aa	a a a a a a aN
+Aa{[(0+);]}Aa	Aa a a Aa a a a Aa (a)	Aa	Aa Aa		Aa	a aN
+{/(\)=''''}Aa	Aa a (a a) a a	Aa	Aa Aa		Aa	aN
+{-0+/\' '=}Aa	Aa a a a a	Aa	Aa Aa		Aa	a aN
+Aa{+\-\0-/0,/+\0,}Aa	Aa a (+\) a a a Aa a a Aa	Aa	Aa Aa		Aa	+ a-aN
+Aa{\\0/0,/\0,}A	Aa a (\) a a a A a a Aa	Aa	Aa Aa		Aa/Aa	a-a a a-aN
+A{,[0+0/]}A	Aa a a a a a a a a	Aa	Aa Aa		Aa	a a aN
+{/0,0()' '.}Aa	Aa a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+{0,0().' '}Aa	Aa a a a	Aa	Aa Aa		Aa	a a a a a a a aN
+Aa{0+.*(*0)+0}Aa	Aa a a a a a a Aa a a Aa (a a)	Aa	Aa Aa		Aa	a a aN
+A{(-)}Aa	Aa a a A a a a a a a Aa	Aa	Aa Aa		Aa	a a a a a a a a a aN
+{,0(()*)0}Aa	Aa a a a a a Aa a a	Aa	Aa Aa		Aa Aa	a-a a a a aN
+Aa{+(0),a(0-)a0+}A	Aa Aa a a a a a A	Aa	Aa Aa		Aa	a a a a aN
+Aa{()0()}Aa	Aa a a () a a a a Aa a a Aa (a Aa[0]Aa)	Aa	Aa Aa		Aa/Aa	a a a-a a a aN
+Aa{()0()}Aa	Aa a a () a a a a Aa a a Aa (a Aa[0]Aa)	Aa	Aa Aa		Aa/Aa	a a a-a a aN
+Aa{+\()+\0,}A	Aa () a a a A a a Aa	Aa	Aa Aa		Aa	N
+Aa{0+.(0*0,).|0*}A	Aa a a (a a Aa) a a a A	Aa	Aa Aa		Aa	a a aN
+{,0(A,A)[0+0 0+'A-0'A ]}Aa	Aa a a a a a a	Aa	Aa Aa		Aa Aa	a() a() a() a0N
+A{(0-/),}A	Aa a a A a a a A	Aa	Aa Aa		Aa	N
+{/(\\)' '}Aa	Aa a a a a	Aa	Aa Aa		Aa	a a a a a a aN
+Aa{+(0-).,0}Aa	Aa a a a a a Aa a Aa	Aa	Aa Aa		Aa	a aN
+Aa{(a)a0<0(a)a~}Aa	Aa a a (\) a a a a Aa a a Aa	Aa	Aa Aa		Aa/Aa	a a 0aN
+A{(A)}A	Aa a a () a a	Aa	Aa Aa		Aa Aa	a a a a a A aN
+A{(A)}A	Aa a a () a a	Aa	Aa Aa		Aa	a a a a a A aN
+Aa{(0)()0,}Aa	Aa a Aa a a a a a Aa, a a a a a a	Aa	Aa Aa		Aa	a a a a a-a a a a aN
+{' '[0+(\)\0*]}Aa	Aa a a a Aa	Aa	Aa Aa		Aa	AaN
+Aa{0  0A-()0A}Aa	Aa a a Aa (a a a Aa a)	Aa	Aa Aa Aa, Aa Aa		Aa	a a aN
+{a0@(0+a[0]-0)0/a0 0+/,}Aa	Aa a a Aa a a a a	Aa	Aa Aa		Aa	a a a aN
+A{+(0.0*0?0)0?0}A	Aa a a a a A a a a A	Aa	Aa		Aa	Aa aN
+A{(0 0)[]-(=0)0-0.=0 0 0.|}A	Aa a a a a A a a A	Aa	Aa Aa		Aa	a a aN
+Aa{@(<0)(/)/~0}A	Aa () A a a Aa, a 0 a a a a a	Aa	Aa Aa		Aa	a a a a a aN
+Aa{(()++/)+\0+0,\0}Aa	Aa a (a a a \ a ) a a Aa[a] a a a'a a (a a a Aa)	Aa	Aa Aa		Aa	a a a aN
+Aa{(+/Aa,Aa)+\0+0,\(+/Aa)+\Aa}Aa	Aa (Aa[0]0),(Aa[0]0),(Aa[0]0),	Aa	Aa Aa		Aa/Aa	a a a a 0a 0a a a a a a a aN
+{(+.0*0</,0)(\0,0 0)['A']}Aa	Aa Aa a	Aa	Aa Aa		Aa	a a a a a a aN
+Aa{+/((/)-/).0+}Aa	Aa a a Aa a Aa a a a a	Aa	Aa Aa		Aa	a a a a a a aN
+Aa{((a)0 0 0,)()a0,}Aa	Aa a a Aa a a a a a Aa	Aa	Aa Aa		Aa	a aN
+Aa{~(()+)()+}A	Aa a a a a A a a a Aa	Aa	Aa Aa		Aa	a a a aN
+Aa{a(+\()+\0,)a}A	Aa a () a a a a A a a Aa (A  +/Aa)	Aa	Aa Aa		Aa Aa	a-a a-a a a a-aN
+Aa{a(+\()+\0,)a}A	Aa a () a a a a A a a Aa (A  +/Aa)	Aa	Aa Aa		Aa Aa	a-a a-a a a a-aN
+{'-- ::'@(0+0)(,0+0)0}Aa	Aa a a (A a) a A-A-A a:a:a	Aa	Aa Aa		Aa	a A0:0-0N
+Aa{:0  (0a)0<|+/a(0)-}Aa	Aa Aa a a a Aa (a a a)?	Aa	Aa Aa		Aa	a aN
+Aa{0++\0+((+/)+\0,)\-0,+}Aa	Aa (Aa[0]+Aa[0]),(Aa[0]+Aa[0]),(Aa[0]+Aa[0]), (Aa  Aa)	Aa	Aa Aa		Aa/Aa	a aN
+{+//[;a0;]0 0 0[;0a;]}A	Aa a a a a a A (A  (a  0  a))	Aa	Aa Aa		Aa	N
+Aa{  {(),''}/,A}Aa	Aa (a a Aa) a a a-a a Aa	Aa	Aa Aa Aa, Aa Aa		Aa Aa	a a a a a aN
+{a[a[(,(a))[a,]]]}A	Aa a a a A a a a (Aa ()0)	Aa	Aa Aa		Aa	a aN
+Aa{0()(0 0 0 0 0.0)+.0*(-),-/+>0 0}A	Aa a-a A a a a  a Aa[0 0]	Aa	Aa Aa		Aa	a aN
+A{()~(A)}A	Aa a (~) a a	Aa	Aa Aa		Aa	a a a a a a A aN
+Aa{a(0*+.)-+  (a)+.(a)}Aa	Aa Aa a a	Aa	Aa Aa		Aa	a() a() aN
+Aa{((\(=)+0,0))/(),0}Aa	Aa a a a a	Aa	Aa Aa		Aa	aN
+{'+'@(0 0)0()/'||',}Aa	A a a a	Aa	Aa Aa		Aa	a a a aN
+{()(,(+/a).>0+0)\(,a' ')/,}A	Aa a a a a a a a (Aa: (~,)' '0)	Aa	Aa Aa		Aa	a a a a aN
+{0(0(('a' 'a'),|)0),':'@0+0}Aa	Aa (A a) a A:a:a	Aa	Aa Aa		Aa	a a/a 0-a aN
+{((0,).=+~a)+.(-).*a0+/a0}Aa	Aa a a Aa	Aa	Aa Aa		Aa	aN
+{{@(0 0)}/'',{}/'',}Aa	Aa a a a	Aa	Aa Aa		Aa	a a a aN
+Aa{((~(a)'/'=)/a),(0a),a+/\','}Aa	Aa Aa a Aa ('/' a a a ',' a a)	Aa	Aa Aa		Aa	a a a a aN
+{(/a)()(,a)\(,a\('')\='''')/,}Aa	Aa a a a a a a (A)	Aa	Aa Aa		Aa	a a a a a a a aN
+A(Aa{(a[]@a),[]a[]@a(a)a})A	Aa a-a a A a A a a Aa (a a a)	Aa	Aa Aa		Aa	a a aN
+A a A	Aa Aa: (a A) a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a aAaA a a-a a-a a aN
+a a.a A a A a A  a	Aa'a a a a a	Aa		Aa Aa	Aa Aa	a a a-a aN
+a@{A}A	Aa: Aa a a a A a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a aN
+a{a} A _a A a_ A a	Aa a a a	Aa		Aa Aa	Aa Aa	a a-a aN
+a(a a.a) a	Aa a 'a'	Aa		Aa Aa	Aa	a Aa-Aa a AaAaN
+a(a a.a) a	Aa a a	Aa		Aa Aa	Aa Aa	a a aN
+a (a a.a) a	Aa a a	Aa		Aa Aa	Aa	a a aN
+a(a a.a) a	Aa a	Aa		Aa Aa	Aa	a a a-0 a0N
+a (a a.a) a	Aa a a a a-a	Aa		Aa Aa	Aa	a aN
+a (a a.a) a	Aa a a	Aa		Aa Aa	Aa Aa	a a aN
+a (a a.a) a	Aa (a) a a a	Aa		Aa Aa	Aa Aa	a a a aN
+a (a a.a a) a	Aa: a-a, a: a a	Aa		Aa Aa	Aa Aa	a a a A-Aa AaN
+a (a a.a a) a	Aa a-a a a	Aa		Aa Aa	Aa Aa	a a a A-Aa Aa aN
+a (a a.a) a	Aa a	Aa		Aa Aa	Aa	a a a a a a aN
+a (a a.a) a	Aa a a	Aa		Aa Aa	Aa/Aa	a a aN
+a (a a.a) a	Aa a	Aa		Aa Aa	Aa Aa	a a-a a a-a a aN
+a(a a.a a) a	Aa	Aa		Aa Aa	Aa	a a AN
+a(a a.a a) a	Aa a	Aa		Aa Aa	Aa/Aa	a a a && aN
+a(a a.a a) a	Aa a	Aa		Aa Aa	Aa Aa	a a a && aN
+a(a a.a) a	Aa-a: a  a a a a a 	Aa		Aa Aa	Aa	a aN
+a(a a.a) a	Aa a a a a a	Aa		Aa Aa	Aa Aa	a aN
+a(a a.a) a	Aa a a (a)	Aa		Aa Aa	Aa Aa	a a a-a a a N
+a(a a.a) a	Aa a	Aa		Aa Aa	Aa Aa	N
+a(a a.a a) a	Aa a a	Aa		Aa Aa	Aa Aa	aN
+a(a a.a a) a	Aa a a	Aa		Aa Aa	Aa Aa	aN
+a(a a.a) a	Aa a-a a a a	Aa		Aa Aa	Aa Aa	a-a a-a a a a aN
+a(a a.a a a a) a	Aa:a:a	Aa		Aa Aa	Aa Aa	a Aa a a-a aN
+a{a} A a._a A a_ A a	Aa a a a	Aa		Aa Aa	Aa Aa	a a-a aN
+a{a} A a.a A a A a	Aa a a a a a a	Aa		Aa Aa	Aa Aa	a a-a aN
+a(a a.a) a	Aa a a	Aa		Aa Aa	Aa Aa	a aN
+a (a a.a) a	Aa/a	Aa		Aa Aa	Aa	AaAaAaN
+{a}(a a.Aa a)a	Aa a a a a	Aa		Aa Aa	Aa Aa	a a a aN
+a{a} (a a.a) a	Aa a a a	Aa		Aa Aa	Aa Aa	a a a a-a a-a a a aN
+a{a} (a a.a) a	-a a a  a 	Aa		Aa Aa	Aa	Aa a a aN
+a{a} (a a.a) a	Aa a a a	Aa		Aa Aa	Aa	a aN
+a{a} (a a.a a) a	Aa a a	Aa		Aa Aa	Aa Aa	a a aN
+a(a a.a) {a}	Aa a a a a a	Aa		Aa Aa	Aa Aa	a-a aN
+a{a} (a a.a) a	Aa a	Aa		Aa Aa	Aa Aa	a-a a a AaN
+a{a} (a a.a) a	Aa a	Aa		Aa Aa	Aa	a aN
+a{a} (a a.a a) a	Aa a	Aa		Aa Aa	Aa	a a aN
+a{a} (a a.a) a	Aa a a a	Aa		Aa Aa	Aa Aa	a aN
+a{a} (a a.a a) a	Aa a a a	Aa		Aa Aa	Aa	a a aN
+a{a} (a a.a) a	Aa Aa Aa Aa	Aa		Aa Aa	Aa	a a a a a-0 a0N
+a{a} (a a.a) a	Aa a	Aa		Aa Aa	Aa	a aN
+a{a) (a a.a) a	Aa-a a	Aa		Aa Aa	Aa	a-a a a aN
+a{a)(a a.a) a	Aa-Aa, Aa (A) a	Aa		Aa Aa	Aa	a a aN
+a{a} (a a.a) a	Aa a Aa-Aa-Aa	Aa		Aa Aa	Aa Aa	aN
+a{a} (a a.Aa a) a	Aa a	Aa		Aa Aa	Aa	a AaA N
+a( a.a) a	Aa a a a a a	Aa		Aa Aa	Aa a	aN
+a{a} (a a.a) a	Aa a a	Aa		Aa Aa	Aa	a a aN
+a{a} (a a.a) a	Aa Aa Aa	Aa		Aa Aa	Aa	a Aa A AaA0N
+a{a}(a a.A)a	Aa a	Aa		Aa Aa	Aa	AaN
+{a0}(a a.a) a	Aa a a	Aa		Aa Aa	Aa	a a a Aa a aN
+a(A'') a.AaAa	Aa a/a a	Aa		Aa Aa	Aa Aa	aN
+a{a0}(a a.a) a	Aa a a a	Aa		Aa Aa	Aa	a a a a a-a aN
+{/,}A	Aa a a a a a a	Aa	Aa Aa		Aa Aa	a a a a a a a-a a aN
+a{}A	Aa a a a a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	N
+a{\}A	Aa a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a a-a a a aN
+a{+0 }Aa	Aa a a a a a a Aa	Aa	Aa Aa	Aa Aa	Aa	aN
+a{/ }Aa	Aa a a a a a Aa a a a a a	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+A a{  }A	Aa a a a a A a A (a a Aa a)	Aa	Aa Aa	Aa Aa	Aa/Aa	a a a a a a-0 a0N
+A a{  }A	Aa a a a a A a A (a a Aa a)	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a 0a a a-0 a0N
+a ( a.a ) a	Aa a a a 	Aa		Aa Aa	Aa Aa	aN
+a a a  A a.a A a A  a	Aa a	Aa		Aa Aa	Aa	a a a-a a aN
+a a a A a.a A a A a	Aa a a a a	Aa		Aa Aa	Aa Aa	a a a a-a a aN
+a{a} ( a.a a) a	Aa: Aa a	Aa		Aa Aa	Aa Aa	a a a a a a aN
+{a}{a} (a a.a) a	Aa a a	Aa		Aa Aa	Aa	a a aN
+a{a0+A} (a a.a) a	Aa a a-a a	Aa		Aa Aa	Aa	a Aa-Aa a AaAa aN
+a{} (a a.a a) a	Aa-a @	Aa		Aa Aa	Aa Aa	a a a AaA aN
+A a{  }A	Aa a a a a Aa a A (a a Aa a)	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a-0 a0N
+A a{~  }A	Aa a a a a a A a A (a a Aa a)	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a 0a a a-0 a0N
+{a0''} (a a.a) a	Aa-a-a a	Aa		Aa Aa	Aa Aa	a a-a,a a a,aN
+a{a} {''} a.a A a A a A  a	Aa a a	Aa		Aa Aa	Aa Aa	a a a-a a aN
+A a{  }a A	Aa a: a a a A a A, a a, (a A) a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a N
+a{0/0}Aa	Aa-a a a a a Aa	Aa	Aa Aa	Aa Aa	Aa/Aa	a aN
+A a{~  }A	Aa a a a a a A a A (a a Aa a)	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a a a-0 a0N
+A(Aa{})A	Aa a A a A a a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+A(A{*0*})A	Aa a (a A=0) a a (a A=0)	Aa	Aa Aa	Aa Aa	Aa	a-a a aN
+Aa(A{})A	Aa a a Aa a a a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a aN
+(Aa{}Aa)A	Aa A a a AaAa	Aa	Aa Aa	Aa Aa	Aa	a a a N
+a{a} {''} a.a A a A a  a	Aa a a	Aa		Aa Aa	Aa	a a a a-a a aN
+Aa a{:    }a A	Aa: a Aa a a a a A a a a a A0	Aa	Aa Aa	Aa Aa	Aa Aa	a a a ?:N
+{(  )}	Aa Aa A	Aa	Aa Aa	Aa Aa	Aa/Aa	 a a a a a AaN
+{(  )}	Aa Aa A	Aa	Aa Aa	Aa Aa	Aa/Aa	 a a a a a Aa N
+{(  )}	Aa Aa A	Aa	Aa Aa	Aa Aa	Aa/Aa	 a a a Aa a a a a AaN
+{(  )}	Aa Aa A	Aa	Aa Aa	Aa Aa	Aa/Aa	 a'a a'a a a a Aa N
+{(  )}	Aa Aa Aa	Aa	Aa Aa	Aa Aa	Aa/Aa	 a a a a a a   AaN
+{(  )}	Aa Aa Aa	Aa	Aa Aa	Aa Aa	Aa/Aa	> a  a a AaN
+{(  )}	Aa Aa Aa Aa	Aa	Aa Aa	Aa Aa	Aa/Aa	 a   a a Aa aN
+{(  )}	Aa Aa Aa Aa	Aa	Aa Aa	Aa Aa	Aa/Aa	<  AaN
+Aa a{,/\}A	Aa a: a a\ a a a a a a Aa	Aa	Aa Aa	Aa Aa	Aa Aa	a a a-a a-a a a a a-a aN
+A a{     }a A	Aa: a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a aAaAN
+Aa(Aa{=+\})Aa	Aa Aa'a a a Aa (a a a Aa)	Aa	Aa Aa	Aa Aa	Aa	N
+(Aa{+0+}Aa)Aa	Aa a a: Aa a a a Aa a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a() a aN
+{(  )}	Aa Aa A	Aa	Aa Aa	Aa Aa	Aa/Aa	= a a a a a a a    Aa a a Aa aN
+{(  )}	Aa Aa A	Aa	Aa Aa	Aa Aa	Aa/Aa	 a a a    AaN
+A(Aa{})A	Aa a a Aa'a A a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a aN
+(Aa{0,}Aa)Aa	Aa-a-a a (a Aa) a Aa a Aa a a a	Aa	Aa Aa	Aa Aa	Aa Aa	N
+A(Aa{()})A	Aa A a A a a a Aa	Aa	Aa Aa	Aa Aa	Aa	a aN
+(Aa{@()}Aa)A	Aa a a A a Aa a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a a a aN
+A a{  ( )  }a A	Aa Aa: (a A) a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a aAaA a a-a a-a a aN
+A a{( )( )}a A	Aa: a (a) a a a a a (a)	Aa	Aa Aa	Aa Aa	Aa Aa	a N
+Aa(Aa{.*0,})Aa	Aa-a a a a a-a Aa, a-a Aa	Aa	Aa Aa		Aa	a a aN
+a{()}A	Aa: Aa a a a a a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a a a aN
+Aa(Aa{\,.>0+})Aa	Aa a a a Aa (a Aa) a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a-aN
+A a{  ( )}a A	Aa Aa a A, a A a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+a{  ( )}a A	Aa a a A, a A a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+A(A{()+~})A	Aa a a a A a A a a a A	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a a aN
+Aa(Aa{\,.>0+})Aa	Aa a a a Aa (a Aa) a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a-aN
+(Aa{+0+}Aa)Aa	Aa-a a a a a Aa a a Aa a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a() a aN
+A(A{(0+)})A	Aa a a a A a a a a a A	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+A(a{  A    }Aa)A	Aa a a a Aa	Aa	Aa	Aa Aa	Aa Aa	a aN
+Aa a{+.()0 0}Aa	Aa a	Aa	Aa Aa	Aa Aa	Aa	a aN
+Aa(Aa{.*0+})Aa	Aa a a a Aa=a(Aa) a Aa	Aa	Aa Aa	Aa Aa	Aa	aN
+A(a{[](A)a[]}a)A	Aa a a a a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a aN
+Aa(Aa{()+.})Aa	Aa-a a a Aa Aa a a Aa a a	Aa	Aa Aa	Aa Aa	Aa	a a a aN
+A(a{  ()}Aa)A	Aa: a/a a Aa	Aa	Aa Aa Aa, Aa Aa	Aa Aa	Aa Aa	a a aN
+Aa a{  ()/[]}A	Aa (/) a a a a Aa (a: a), a a	Aa	Aa Aa Aa, Aa Aa	Aa Aa	Aa Aa	a a a a a a a a-a aN
+A(a{[]([])}a)A	Aa a a a a A	Aa	Aa Aa	Aa Aa	Aa Aa	a a aN
+(A{((),),}Aa)A	Aa A a a a Aa a A (Aa)=A	Aa	Aa Aa	Aa Aa	Aa	aN
+A a{  0( )( )}a A	Aa: a (a) a a a a a (a), a a a	Aa	Aa	Aa Aa	Aa Aa	a a a a N
+Aa(Aa{(,),})A	Aa-a a a a a a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a aN
+Aa(Aa{(,),.()})Aa	Aa a a a a Aa a Aa a a Aa a	Aa	Aa Aa	Aa Aa	Aa Aa	aN
+A a{{ }  ( )  ( )}a A	Aa: (a A) a (a A)	Aa	Aa Aa	Aa Aa	Aa Aa	a a a (aA)a(aA) (aA)aA (aA)a(aA) (aA)aA aN
+(Aa{()@()}Aa)A	Aa a a A a a Aa a a a a Aa	Aa	Aa Aa	Aa Aa	Aa	a a a a a a aN
+Aa a{a+.()-(a-/-)0.0-}Aa	Aa a a a a a a a Aa[0]Aa[0] a Aa a	Aa	Aa Aa	Aa Aa	Aa	a a a  aN
+A a{+/,(.0 0)(0-).(0-)}A	Aa a a a Aa a a	Aa	Aa Aa	Aa Aa	Aa	a a aN
+A(A{+(0)0,(0-).(0-)})A	Aa/a a A (0-0)	Aa	Aa Aa	Aa Aa	Aa	Aa a a a a a a a aN
+(Aa{(*0 0)()()+,|-}Aa)Aa	Aa a a a a Aa a a a a a Aa	Aa	Aa Aa		Aa	aN
+Aa(Aa{((0+)(),)}A)A	Aa Aa A'a a A a a Aa	Aa	Aa Aa	Aa Aa	Aa	N
+(Aa{(()++/)+\0+\}Aa)A	Aa a a a Aa[a] a A[Aa[a]] (a a a)	Aa	Aa Aa	Aa Aa	Aa	a aN
+A a{{  }  a  (()a)( )( )  a}a A	Aa: a a a (a) a a (a) a a	Aa	Aa	Aa Aa	Aa Aa	a a a a N
+a{' '[0+(.=0+/+0+/-/)0.0+ ]}Aa	Aa a a a a a a Aa	Aa	Aa Aa	Aa Aa	Aa	a aN
+(Aa{(()++/)+\0+0,\}Aa)A	Aa a a a Aa[a] a A[Aa[a]] (a a a)	Aa	Aa Aa	Aa Aa	Aa	a aN
+aAa	Aa Aa	Aa	Aa		Aa	a a aN
+aAa	Aa Aa	Aa	Aa		Aa	a aN
+	Aa a a	Aa	Aa		Aa	a a a a a a aN
+0	a (0 a)	Aa	Aa		Aa/Aa	Aa'a Aa'a Aa 0.0  N
+]a	Aa a a 'a'	Aa-a				a a a a a aN
+a.a	Aa Aa	Aa	Aa		Aa	a aN
+a.a	Aa Aa	Aa			Aa	a a a aN
+	a-a-a a a	Aa			Aa	0 aN
+0Aa	Aa a Aa	A-a	Aa		Aa Aa	a a a a aN
+0Aa	Aa Aa Aa	A-a	Aa		Aa Aa	a a a a aN
+0	Aa Aa Aa	A-a	Aa		Aa	a a aN
+0Aa	Aa Aa (A) a a	A-a	Aa		Aa Aa	a a a a a aN
+0A	Aa Aa (A)	A-a	Aa		Aa Aa	a a aN
+0Aa	Aa Aa	A-a	Aa		Aa Aa	a a a a a aN
+0Aa	Aa Aa Aa (A)	A-a	Aa		Aa	a aN
+0	Aa Aa Aa	A-a	Aa		Aa Aa	a a a a a aN
+0A	Aa Aa Aa	A-a	Aa		Aa Aa	a a a a a aN
+0Aa	Aa .A Aa	A-a	Aa		Aa Aa	a a aN
+0Aa	Aa .A Aa	A-a	Aa		Aa Aa	aN
+0	Aa Aa Aa	A-a	Aa		Aa	a aN
+0	Aa a Aa	A-a	Aa		Aa	a aN
+0Aa	Aa Aa Aa Aa ('AaAa'/'AaAa')	A-a	Aa		Aa	a a a a a aN
+0	Aa Aa a a-Aa .A Aa	A-a	Aa		Aa	aN
+0	Aa .AaAa	A-a	Aa		Aa	aN
+0Aa	Aa Aa Aa Aa	A-a	Aa		Aa	a a a a a a a a a aN
+0Aa	Aa Aa Aa	A-a	Aa		Aa	a aN
+0	Aa a a .A a	A-a	Aa		Aa	aN
+0Aa	Aa a .A a a a	A-a	Aa		Aa	aN
+0Aa	Aa Aa a Aa	A-a	Aa		Aa	a a a a a aN
+0Aa	Aa Aa Aa Aa .A	A-a	Aa		Aa	aN
+0Aa	Aa Aa	A-a	Aa		Aa	)a aN
+0Aa	Aa Aa Aa Aa	A-a	Aa		Aa	a aN
+0	Aa a a A	A-a	Aa		Aa	a aN
+0Aa	Aa A Aa	A-a	Aa		Aa	a aN
+0	Aa Aa Aa	A-a	Aa		Aa	a a a aN
+0Aa	Aa Aa	A-a	Aa		Aa	a a a aN
+0	Aa Aa Aa	A-a	Aa		Aa	a a a aN
+0	Aa Aa	A-a	Aa		Aa	A A A A A aN
+0Aa	Aa Aa	A-a	Aa		Aa	a a a a a a a aN
+0	Aa Aa Aa	A-a	Aa		Aa	a a a a aN
+0	Aa Aa Aa Aa	A-a	Aa		Aa	a a a a aN
+0Aa	Aa Aa Aa Aa Aa	A-a	Aa		Aa	a a a a a a aN
+0Aa	Aa Aa Aa Aa	A-a	Aa		Aa	a a a aN
+0A	Aa a a A a A a	A-a	Aa Aa		Aa	a a a a a a a a aN
+0Aa	Aa Aa	A-a	Aa		Aa	a a a a a a aN
+0	Aa Aa	A-a	Aa		Aa	a aN
+0Aa	Aa Aa Aa	A-a	Aa		Aa	 aN
+0A	Aa Aa (a/a a)	A-a	Aa		Aa Aa	a a a a a a aN
+0	Aa Aa	A-a	Aa		Aa	a .a .a .a .a a++ a a a aN
+	Aa Aa	Aa			Aa	a a a a a aN
+:Aa	:Aa a  a  :AaAa a:Aa  a  :AaAa	Aa	Aa	Aa	Aa	a a a N
+:Aa Aa	Aa a a a a	Aa	Aa	Aa	Aa	a a a aN
+:Aa Aa	Aa a a a a	Aa	Aa	Aa	Aa	a a a aN
+:Aa Aa	Aa a a a a a (a) a a a a a a a a a	Aa	Aa	Aa	Aa	a a a a aN
+:Aa Aa	Aa a a a (a) a a a a a a a a a a	Aa	Aa	Aa	Aa	a a a a AaN
+:Aa Aa	Aa a a (a) a a a a a a a	Aa	Aa	Aa	Aa	a a a aN
+:Aa Aa	Aa a a (a) a a a a a a a a a	Aa	Aa	Aa	Aa	a a a a aN
+:Aa AaAa	Aa a :Aa Aa a :Aa Aa.Aa.Aa.AaAaAa	Aa	Aa	Aa	Aa	a a a a .AN
+:Aa	Aa a a a a a :Aa/:Aa/:Aa a	Aa	Aa	Aa	Aa	a a aN
+:Aa	:Aa a :Aa:AaAa a  a  :AaAa	Aa	Aa	Aa	Aa	a a a N
+:AaAa A	Aa a a a a A	Aa	Aa	Aa	Aa	a N
+:Aa	:Aa a  a  :Aa  a  :AaAa	Aa	Aa	Aa	Aa	a a a a a aN
+:Aa	Aa a :Aa/:Aa/:Aa a	Aa	Aa	Aa	Aa	a aN
+:Aa	:Aa  a  :Aa a  :AaAa a:AaAa a	Aa	Aa	Aa	Aa	a a N
+:Aa	:Aa  a  :AaAa	Aa	Aa	Aa	Aa	a a N
+:Aa	Aa (a a a a a)	Aa	Aa	Aa	Aa	0 aN
+:Aa	:Aa a  :Aa a:AaAa a  a  :Aa  a  :AaAa	Aa	Aa	Aa	Aa	a a aN
+:Aa	:Aa a  a  :Aa a:AaAa a  a  :Aa  a  :AaAa	Aa	Aa	Aa	Aa	a a a a aN
+:Aa	:Aa a  a  :AaAa a:AaAa a  a  :AaAa	Aa	Aa	Aa	Aa	a a a N
+:Aa	:Aa a  a  :AaAa a:AaAa a  a  :Aa a	Aa	Aa	Aa	Aa	a a a N
+:Aa	:Aa a  a  :AaAa	Aa	Aa	Aa	Aa	a a aN
+a:A	Aa/Aa Aa (a a)	Aa			Aa	a aN
+#	Aa a a a a	Aa			Aa	a a a aN
+'	Aa a	Aa	Aa		Aa	a a a aN
+	Aa a (a a a a)	Aa			Aa	a a a a a aN
+)A a	Aa a (a a a a Aa, a a A)	Aa-a			Aa Aa	a a a aN
+)A	Aa a a	Aa-a			Aa Aa	a a a a a a a a a a a a aN
+)A	Aa a a a A a a a	Aa-a			Aa Aa	a a a a )a aN
+)A a	Aa a a a a a a	Aa-a			Aa Aa	a a a a a a a aN
+)A	Aa a a a (a a :Aa)	Aa-a			Aa Aa	a a a a a aN
+)A	Aa a a	Aa-a			Aa Aa	a a a a )aN
+)A	Aa a a a a a a/a a a a	Aa-a			Aa Aa	)a a aN
+)A a	Aa a (a a a a Aa, a a A)	Aa-a			Aa Aa	a a a a a a a a aN
+)a	a a a 'a'	Aa-a				a a a a aN
+0=A	Aa: Aa A a Aa Aa?	Aa		Aa	Aa Aa	a a a a a a?N
+0=A	Aa: Aa A a Aa Aa-a?	Aa		Aa	Aa Aa	a a a a a a? a?N
+A	Aa: Aa a a A a a a	Aa		Aa	Aa Aa	a a a a a a a aN
+A	Aa: Aa a a A a a 0-a a	Aa		Aa	Aa Aa	a a a a a a aN
+*A	Aa: Aa'a a (a a A a a a a 0A0.0)	Aa		Aa	Aa	a a a aN
+/	Aa a (a a a a)	Aa			Aa	a a a a a -   a - a a aN
+/	Aa a (a a a a)	Aa			Aa	a a a a a    a  a a a aN
+A	Aa: Aa a a a a a a A	Aa		Aa	Aa	a a a a a-a a a a-a a aN
+Aa/Aa	Aa: Aa a a Aa a a a 0a a Aa	Aa		Aa	Aa Aa	a a a a a a aN
+0A	Aa: Aa A a?	Aa		Aa	Aa Aa	a a a a aN
+A a[a]A	a a A a A a a a	Aa	Aa Aa	Aa Aa	Aa Aa	a a aN
+a[a]A	a a A a a/a a	Aa	Aa Aa	Aa Aa	Aa Aa	a aN
+]A.Aa	Aa a .A a a a a a	Aa-a	Aa	A	Aa a	a a a a Aa Aa a a ]Aa aN
+]A.Aa	Aa a a a a	Aa-a	Aa	A	Aa a	a a a a a Aa Aa a a ]AaN
+]A.AaAa	Aa a a a a a, a, a Aa a	Aa-a	Aa	A	Aa a	a a a a Aa Aa a a ]AaAaN
+]A.AaAa	Aa a a a a Aa a, a a a (.a, .a a .a a)	Aa-a	Aa	A	Aa a	a a a a Aa Aa a a ]AaAaN
+]A.Aa	Aa a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a Aa Aa a a ]Aa aN
+]A.AaAa	Aa a a a AaAa a	Aa-a	Aa	A	Aa a	a a a a a Aa Aa a a ]AaAaN
+]A.Aa	Aa a a-a a-a a a a/a/a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.AaAa	Aa a/a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaAaN
+]A.Aa	Aa (a, a, a) a a a a a/a/a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.Aa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.AaAa	Aa a a a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaAaN
+]A.AaAa	Aa a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a a a ]AaAaN
+]A.AaAa	Aa a(a) a a a a a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaAa aN
+]A.Aa	Aa a a a AaAa a a (.a)	Aa-a	Aa	A	Aa a	a a a a a a ]AaN
+]A.Aa	Aa (a a a) a a a_* a a a, a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.Aa	Aa a-a-a a	Aa-a	Aa	A	Aa a	a a a a a a ]AaN
+]A.Aa	Aa a a a a a a a a a/a/a	Aa-a	Aa	A	Aa a	a a a a a a ]AaN
+]A.Aa	Aa a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.Aa	Aa a a-a a, a a a a/a, a a a a-a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.Aa	Aa a-a a, a, a a a a	Aa-a	Aa	A	Aa a	a a a a a ]Aa aN
+]A.Aa	Aa a a a a a a (a a a), a-a-a a	Aa-a	Aa	A	Aa a	a a a a ]Aa a 0aN
+]A.AaAa	Aa a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a a ]AaAa a a aN
+]A.A	Aa (a, a, a) a a a	Aa-a	Aa	A	Aa a	a a a a ]AN
+]A.Aa	Aa a a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a a a a a/a{-a} a a a a	Aa-a	Aa	A	Aa a	a a a ]AaN
+]A.Aa	Aa a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a a a a a a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]Aa aN
+]A.Aa	Aa a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a a (a a 0) a a	Aa-a	Aa	A	Aa a	a a a ]AaN
+]A.AaAa	Aa a a a a a a a a-a a a-a	Aa-a	Aa	A	Aa a	a a a ]AaAaN
+]A.AaAaA	Aa a a a a (a a a) a A a (a a 0 a)	Aa-a	Aa	A	Aa a	a a a a ]AaAaA aN
+]A.Aa	Aa a a a a a a a a/a a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]Aa aN
+]A.Aa	Aa a a a a a (a a a a a); a a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]AaN
+]A.Aa	Aa a a a a a a a/a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]Aa a aN
+]A.Aa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]AaN
+]A.AaAa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]AaAaN
+]A.Aa	Aa a a a a a (a a a a a a)	Aa-a	Aa	A	Aa a	a a a-a a ]AaN
+]A.Aa	Aa a a a a a (a a a a a); a a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]AaN
+]A.Aa	Aa a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]Aa a aN
+]A.AaAaAa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]AaAaAa a aN
+]A.AaAaAa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a-a a ]AaAaAa a aN
+]A.Aa	Aa a a-a a	Aa-a	Aa	A	Aa a	a a a (a a//a.a/a/a/a) ]Aa aN
+]A.Aa	Aa a a-a a	Aa-a	Aa	A	Aa a	a a a (a a//a.a/a/a/a) ]AaN
+]A.Aa	Aa a a a a a, a a a	Aa-a	Aa	A	Aa a	a a a a a a a a ]Aa a a a aN
+]A.Aa	Aa a a a a a, a a a	Aa-a	Aa	A	Aa a	a a a a a a a a ]Aa a a a aN
+]A.Aa	Aa a a a a a a-a a a a	Aa-a	Aa	A	Aa a	a a a a a a a a ]Aa a a a a aN
+]A.Aa	Aa a a a a a a a a-a a a a	Aa-a	Aa	A	Aa a	a a a a a a a a ]Aa a a a a aN
+]A.Aa	Aa a a a a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a a ]Aa a aN
+]A.Aa	Aa a a a a a a (a a a a a Aa) a a A a a a	Aa-a	Aa	A	Aa a	a a a a a a a a ]Aa a a a aN
+]A.A	Aa A a A	Aa-a	Aa	A	Aa a	a a a a a a a a ]A a aN
+]A.Aa	Aa a a a a a a (a a a a a Aa) a a A a a a a a a	Aa-a	Aa	A	Aa a	a a a a a a a ]Aa a a a aN
+]A.Aa	Aa a	Aa-a	Aa	A	Aa a	a a a a a a a a ]Aa a a aN
+]A.Aa	Aa, a, a a a a a a a a a a a Aa a	Aa-a	Aa	A	Aa a	a a a a a a a ]Aa a a a a a a a a aN
+]A.Aa	Aa a a (a a A)	Aa-a	Aa	A	Aa a	a a a a a a a ]AaN
+]A.AaAa	Aa a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a a a ]AaAaN
+]A.AaAa	Aa a a a a a(a)	Aa-a	Aa	A	Aa a	a a a a a a a ]AaAaN
+]A.Aa	Aa a a a a a a a a	Aa-a	Aa	A	Aa a	a a a ]AaN
+]A.Aa	Aa A a a a a a a a a a A a a a a a a a	Aa-a	Aa	A	Aa a	a a a ]Aa a a a a aN
+]A.Aa	Aa a a a a Aa a	Aa-a	Aa	A	Aa a	a a a ]Aa a aN
+]A.Aa	Aa a (a: .a a) a a a a a a	Aa-a	Aa	A	Aa a	a a a ]Aa aN
+]A.Aa	Aa a a a a a	Aa-a	Aa	A	Aa a	a a a ]Aa a aN
+]A.Aa	Aa a Aa a a a a a	Aa-a	Aa	A	Aa a	a a a ]Aa a aN
+]A.AaAa	Aa a a a a a a a a a A	Aa-a	Aa	A	Aa a	a a a ]AaAa a a aN
+]A.Aa	Aa a a a a a a (a: a a a a Aa)	Aa-a	Aa	A	Aa a	a a a ]Aa a aN
+]A.Aa	Aa a a a a a a a a	Aa-a	Aa	A	Aa a	a a a ]AaN
+]A.Aa	Aa a a a a a a a a	Aa-a	Aa	A	Aa a	a a a ]AaN
+]A.Aa	Aa a a a a a a a a a (a a a a)	Aa-a	Aa	A	Aa a	a a a ]Aa a aN
+]A.Aa	Aa a a	Aa-a	Aa	A	Aa a	Aa a a ]AaN
+]A.Aa	Aa a a a	Aa-a	Aa	A	Aa a	Aa a a ]AaN
+]A.Aa	Aa a	Aa-a	Aa	A	Aa a	Aa a a ]AaN
+]A.Aa	Aa a a a a a	Aa-a	Aa	A	Aa a	Aa a a ]AaN
+]A.Aa	Aa a a a a a a a A a	Aa-a	Aa	A	Aa a	Aa a a ]AaN
+]A.Aa	Aa a a a A, A, A, A, .A a/a a	Aa-a	Aa	A	Aa a	Aa a a ]AaN
+]A.Aa	Aa a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a A a a ]AaN
+]A.Aa	Aa a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a A a a ]AaN
+]A.Aa	Aa a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a a a a (a a a A)	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a'a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.Aa	Aa Aa a a.a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.Aa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.Aa	Aa a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.AaAa	Aa a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaAa aN
+]A.Aa	Aa a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]Aa aN
+]A.Aa	Aa a a a	Aa-a	Aa	A	Aa a	a a a a a ]Aa a aN
+]A.Aa	Aa a a	Aa-a	Aa	A	Aa a	a a a a ]AaN
+]A.Aa	Aa (a a) a a a, a a a a	Aa-a	Aa	A	Aa a	a a a a a ]Aa a a aN
+]A.AaAa	Aa a a a a a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaAaN
+]A.AaAa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a a ]AaAa aN
+]A.Aa	Aa (a, a, a) a a a a	Aa-a	Aa	A	Aa a	a a a a a ]Aa a aN
+]A.AaAa	Aa a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaAa aN
+]A.Aa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaN
+]A.AaAa	Aa a a a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaAa a a aN
+]A.AaAa	Aa a a a a	Aa-a	Aa	A	Aa a	a a a a a ]AaAa aN
+0 0 0 0	Aa a	Aa	Aa		Aa	N
+0 0 0	Aa a	Aa	Aa		Aa	N
+0 0	Aa a	Aa	Aa		Aa	N
+0 0 0 0 0 0 0 0 0 0,	Aa a	Aa			Aa	aN
+A.a	Aa a a a a a a	Aa	Aa	Aa	Aa Aa	a a :aN
+aA	Aa a a	Aa			Aa	a aN
+a	Aa a a a a a a (a a a a)	Aa	Aa		Aa	a a aN
+A	Aa a a	Aa			Aa Aa	a a a A a a aN
+a	Aa a a (a a) a a a	Aa	Aa		Aa	a aN
+a	Aa a a a a a a a a (a a a a)	Aa	Aa		Aa	a a a aN
+a	Aa a a a a a a a a	Aa			Aa	a a a a a a a a a a aN
+a	Aa a a a a a a a	Aa	Aa		Aa	a a a aN
+:Aa Aa *	Aa a a a a a: a a a a a a a a a a a a	Aa	Aa	Aa	Aa	a a a aN
+:Aa Aa :Aa a	Aa a a a a a a a a a a a a a 'a' a a	Aa	Aa	Aa	Aa	a a a aN
+0::a a	Aa a a (a 0)				Aa Aa	a a a a a aN
+0::A A	Aa a a a a a a a a a				Aa Aa	a a a a a a a aN
+0::A A	A a a a a				Aa Aa	a a aN
+0::a a	Aa a a (a 0)			Aa	Aa Aa	a a a a aN
+0::A A	Aa a a a A a a a a a a			Aa	Aa Aa	a a a a a a aN
+0::A A	Aa a a a a			Aa	Aa Aa	a a aN
+0::A	Aa a a a a			Aa	Aa Aa	a a aN
+0::A A	A a  a a a a 			Aa	Aa Aa	a a a a-a-aN
+0::A A	A a a a a a a (a a a a A a a a a)			Aa	Aa Aa	a a a a-a-aN
+0::A	Aa a a a A a a a a a  a A			Aa	Aa Aa	a a a a a aN
+0::A	Aa a a A a			Aa	Aa Aa	a a aN
+0::A	Aa a a a a a a a a, a a a a a a a a a			Aa	Aa Aa	a a aN
+0::A A	Aa a a a a a a a/a/a a a a a a				Aa Aa	a a aN
+0::A A	Aa A a a a a a a a a a A				Aa Aa	a a aN
+0::A A	Aa a a a a a a a a a a a a a a a a				Aa Aa	a a aN
+0::A A A	Aa a a a a a a a a a a a, a a a a				Aa Aa	a a aN
+0::A A A	Aa a a a, a a a a a a, a A/A a a-a a				Aa Aa	a a aN
+0::A A	A a a a a a a a a a				Aa Aa	a a a a aN
+0::A A A	Aa a a a a a a a-a a				Aa Aa	a a aN
+0::A A	Aa a a a a a a a a a a				Aa Aa	a a aN
+0::A A A	Aa a a, a a, a a, a A/A a a				Aa Aa	a a aN
+0::A A	Aa a a  a a A				Aa Aa	a a a a aN
+0::A A	Aa a a a a a a a, a a a a a a a a				Aa Aa	a a aN
+0::A A A	Aa a a a a a a a a a, a a a a a a a a a a a				Aa Aa	a a aN
+0::A A A	Aa/a a a a a/a  a A a a a a				Aa Aa	a a aN
+0::A A A A	Aa a a  a a a a a a a a a Aa				Aa Aa	a a a aN
+0::A A	Aa a a a a a A a a a A				Aa Aa	a a a a a a a a a a aN
+0::A A A A A	Aa a a a a a a a a				Aa Aa	a a a a a aN
+0::A A A A A	Aa a a a a a a A a a a a				Aa Aa	a a aN
+0::A A A A A	Aa a a a a a a a a				Aa Aa	a a a a a a aN
+0::A A A A	Aa a a a a				Aa Aa	a a a aN
+0::A A A	Aa a a a a a a a a a a a A a  a A				Aa Aa	a a aN
+0::A A	Aa a a a a/a, a a a a a a a				Aa Aa	a a a a a aN
+0::A A	Aa a a a a a a a a a a, a a a a a				Aa Aa	a a a aN
+0::A A A A	Aa a a a a a 0 a a a A				Aa Aa	a a a a aN
+0::A A A A A	Aa a a a a a a a a A a a a a a				Aa Aa	a a aN
+0::A A A	Aa a a a a a A a a a a				Aa Aa	a a a aN
+0::A A A	Aa a a a A				Aa Aa	a a aN
+0::A A A A	Aa a a a a a A a a-a a a a a a a a a a a a				Aa Aa	a a a a aN
+0::A A A A	Aa a a a a a A a a-a a a a a a a a a a a a				Aa Aa	a a a a aN
+0::A A	Aa a a a a, a a a a a a a a				Aa Aa	a a aN
+0::A A A	A a a a a A a A a a a a a a a, a a a a a AaAa a a a Aa Aa				Aa Aa	a a aN
+0::A A A A	A a a a a A a A a a a a a a a				Aa Aa	a a a a a aN
+0::A A A A	A a a a a A a A a a a a; a.a. a a a a a a				Aa Aa	a a aN
+0::A A	Aa-a a a a a a a A				Aa Aa	a a aN
+0::A A A A	Aa a a a a a a a A a a a a a a a				Aa Aa	a a aN
+0::A A A	Aa a a a a a a a A a a-a				Aa Aa	a a aN
+0::A A	Aa a a a a a a a a a a a a, A, a a a a a a				Aa Aa	a a aN
+0::A A A	Aa a a a a a a (a) a a a a a a a a a				Aa Aa	a a a aN
+0::A A	Aa a a a a a a a a A, a a a a a a, a A A				Aa Aa	a aN
+0::A	A Aa .A a a a a				Aa Aa	a a aN
+0::A A	Aa a a a a a a Aa a a Aa Aa (A) a a a a				Aa Aa	a a a a a a a a a a aN
+0::A A	Aa a a  a a a(a), a a a a a Aa				Aa Aa	a a a aN
+a::A	Aa/Aa Aa Aa (a a a a)	Aa			Aa	a a a aN
+Aa0	Aa Aa: Aa a a a a a a Aa		Aa		Aa	a :AaAaN
+A	Aa a	Aa			Aa	a aN
+##	Aa a a a a a a a	Aa			Aa	a a a a a a a a aN
+A (A A)	Aa: (A),(A),(A)	Aa			Aa	a a a a aN
+A(A a a)A	Aa: A a A a A	Aa	Aa Aa	Aa	Aa	a a a a a a Aa 0a 0-aN
+A(a a a)A	Aa: (A a A)a(A a A)	Aa	Aa Aa	Aa	Aa	a a a a a a a 0a 0-aN
+A(a a)A	Aa: a A a A	Aa	Aa Aa	Aa	Aa	a a a a a a 0a 0-aN
+A(a a a)A	Aa a a a a a a	Aa	Aa Aa	Aa Aa	Aa	a [0] a aN
+A(a a)A	Aa a a a a a a	Aa	Aa Aa	Aa Aa	Aa	a [0] a aN
+a(A A A)	Aa/Aa a a a a (a a a a a a a a)	Aa			Aa	a [0] a a a a aN
+(A a a)A	Aa: A a a A	Aa	Aa Aa	Aa	Aa	a a a a a a Aa 0a 0-aN
+{A}a A	Aa Aa Aa/Aa Aa	Aa			Aa	a a a a a a a aN
+(a a a)A	Aa: (a A)a(a A)	Aa	Aa Aa	Aa	Aa	a a a a a a a 0a 0-aN
+(a a)A	Aa: a a A	Aa	Aa Aa	Aa	Aa	a a a a a a 0a 0-aN
+(a a a)A	Aa a a a a a a	Aa	Aa Aa	Aa Aa	Aa	a [0] a aN
+(a a)A	Aa a a a a a a	Aa	Aa Aa	Aa Aa	Aa	a [0] a aN
+0=A	Aa: Aa A a Aa?	Aa		Aa	Aa Aa	a a a a aN
+0=,A	Aa: Aa A a Aa Aa?	Aa		Aa	Aa Aa	a a a a a a?N
+0=A	Aa: Aa A a a a a a?	Aa		Aa	Aa Aa	a a a a a a? a? 0aN
+,A	Aa: Aa a a a a a a A	Aa		Aa	Aa	a a a a a a-a a a-a a aN
+Aa	Aa: Aa a a Aa a a a a a a A (a a Aa[A])	Aa		Aa	Aa	a a a a a a aN
+Aa/Aa	Aa: Aa a a Aa a a a 0a a Aa	Aa		Aa	Aa Aa	a a a a a a a aN
+~0A	Aa: Aa A a-a?	Aa		Aa	Aa Aa	a a a a a a? a?N
+;A;A;A	Aa/Aa a a a a a A, A, A (a a a)	Aa			Aa	a a a a a a a a a 0aN
+a;A;A;A	Aa/Aa a a a a a A, A, A	Aa			Aa	a a a a a a a a a a [0]N
+Aa	Aa: A a a a a a a a a a a a a a a a Aa  a a a a a a a a a a a Aa, a a a a a a a a a a, a a a	Aa		Aa	Aa	a a a a a a a a 0a a a()N
+0.0+A	Aa: Aa a a a	Aa		Aa	Aa	a a a aN
+...	Aa a a a a	Aa-a			Aa	aN
+0::A A A - A A	Aa a a a a A a a a a a				Aa Aa	a a aN
+0::A-A A	Aa a a a a a a a a A				Aa Aa	a a aN
+0::A A/A A	Aa a a a A a a a a a a a a a.a. a a a a a				Aa Aa	a a aN
+0::A A/A A	Aa a a a a a a A a a				Aa Aa	a a a aN
+A[Aa Aa ]	Aa (a-a)	Aa	Aa Aa		Aa	a a aN
+Aa(0)Aa	Aa Aa Aa-a (AaAa)	A-a	Aa Aa		Aa Aa	a a a a a a aN
+A(0)A	Aa Aa Aa a Aa Aa	A-a	Aa		Aa	a a a aN
+Aa(0)Aa	Aa/Aa Aa a Aa Aa	A-a	Aa		Aa Aa	a0 a a a a a a aN
+Aa(0)A	Aa Aa	A-a	Aa		Aa Aa	a a aN
+Aa(0)Aa	Aa Aa Aa	A-a	Aa		Aa	a a aN
+Aa(0)A	Aa/Aa Aa	A-a	Aa		Aa Aa	aN
+Aa(0)Aa	A Aa Aa	A-a	Aa		Aa Aa	a a aN
+Aa(0)Aa	Aa () Aa Aa	A-a	Aa Aa		Aa Aa	a a a a a a a a a a aN
+(A A A)a	Aa/Aa a a a (a)	Aa			Aa	a [0] a a a a aN
+{A}a A	Aa Aa/Aa a	Aa			Aa	a a a a aN
+:Aa a {AaAa}	Aa a a a a a a .A	Aa	Aa	Aa	Aa	a a a a aN
+)A {a}	Aa a a a a A	Aa-a		Aa Aa	Aa Aa	a a a a a a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 a a aN
+)A {a}	Aa a a a a a	Aa-a			Aa Aa	AN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 0.0 a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 a a aN
+)A a {a}	Aa (a) a a a a a a a	Aa-a		Aa Aa	Aa Aa	a a a a a a a a )a a a aN
+)A {a}	Aa a a	Aa-a			Aa Aa	a a a # a aN
+)A {a}	Aa a a a a	Aa-a			Aa Aa	a a a aN
+)A {a} a	Aa Aa a a a a a a	Aa-a			Aa Aa	a a a a a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 0.0 0.0 0.0 a a aN
+)A {a}	Aa a a a A a a a	Aa-a			Aa Aa	a a aN
+)A {a}	Aa a a a a a	Aa-a		Aa Aa	Aa Aa	a a a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 0.0 0.0 0.0 0.0 0.0 a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 0.0 0.0 0.0 0.0 0.0 a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 0.0 0.0 a a aN
+)A a {a}	Aa )A a a a a a a	Aa-a		Aa Aa	Aa Aa	a a a a a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 a a aN
+)A {a}	Aa a a a a a a/a a a a	Aa-a			Aa Aa	)a a aN
+)A {a}	Aa a a, a a a a a	Aa-a			Aa Aa	a a aN
+)A {a}	Aa a a a a a a a a	Aa-a			Aa Aa	a a a a a aN
+)A {a}	Aa a a a a, a a a {a}	Aa-a			Aa Aa	a a a 0.0 0.0 0.0 0.0 a a aN
+)A {a}	Aa a a a a a a a a	Aa-a			Aa Aa	a a a aN
+0+0*0	Aa a (a a)	Aa	Aa		Aa	a    0.0 0.0N
++/\A	Aa: Aa a a a 0a a a a a A	Aa		Aa	Aa/Aa	a a a a a a a a aN
+0-0=A	Aa a a a a (a a)	Aa			Aa	a a a A0 aN
+0|0A	Aa a a (A)	Aa			Aa	AaN
+(A+A)A	Aa: A+A	Aa			Aa	a a aN
+0=A''	Aa a Aa A Aa?	Aa			Aa	aN
+0=A''	Aa a Aa A Aa?	Aa			Aa	aN
+{a}A.A Aa	Aa a a Aa a a a (a a 'a')	Aa	Aa Aa Aa, Aa Aa		Aa Aa	a a aN
+(0 0Aa)Aa	Aa a a a a	Aa			Aa	a a a a a a a a a a a a aN
+:Aa Aa {AaAa.AaAa}	Aa a a 'AaAa' a a a a a a 'AaAa'	Aa	Aa	Aa	Aa	a a a aN
+#A'Aa'	Aa a a	Aa			Aa	a-a a a aN
+a{}	Aa a Aa	Aa	Aa Aa		Aa	a a a a a a a aN
+a{}	Aa a Aa	Aa	Aa Aa		Aa	a a a a a a a aN
+{_  }	Aa Aa/Aa a	Aa			Aa	a a a a aN
+!A	Aa a a (a)	Aa			Aa	a'a a Aa Aa 0 A0A A A0A0 aAaA a Aa a a Aa Aa Aa, a Aa, a Aa aN
+A[A;A;]	Aa (a)	Aa	Aa Aa		Aa	a a aN
+\' '=A	Aa: A Aa a a a a a a a a a a A	Aa		Aa	Aa	a a a a a a a a a a a-0 a0N
+(,a)A	Aa a: Aa a a, a a	Aa			Aa	a a a a a a a a a a a a aN
+Aa''	Aa Aa (a a a a a a Aa)	Aa			Aa	aN
+0A#'AaAaAaAa'	Aa a a a a Aa a a a	Aa			Aa	a a a aN
+0A#'AaAaA'	Aa a A a (a a a)	Aa			Aa	Aa Aa a aAa0 0aN
+0=A''	Aa Aa (a/a a)			Aa Aa	Aa	a a a a a 0N
+{Aa}(0)Aa	Aa Aa Aa Aa	A-a	Aa		Aa Aa	a aN
+{Aa}(0)A	Aa Aa	A-a	Aa		Aa	a aN
+{Aa}(0)A	Aa Aa	A-a	Aa		Aa Aa	a a a a a aN
+{A}(0)Aa	Aa A Aa Aa	A-a	Aa		Aa	aN
+{Aa}(0)Aa	Aa AaAa	A-a	Aa		Aa	a a a a aN
+{Aa}(0)Aa	AaAaAa	A-a	Aa		Aa	a a a a aN
+{Aa}(0)Aa	Aa Aa Aa a A-a Aa a a Aa	A-a	Aa		Aa	a a a a a aN
+{a}A'Aa'	Aa a A a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a	A Aa			Aa	AaAa AaAa Aa a a a aN
+{a}A'AaAa'	Aa a a a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa-a a a	A Aa			Aa	AaAa AaAa Aa a aN
+{a}A'Aa'	Aa-a a	A Aa			Aa	AaAa AaAa Aa a aN
+{a}A'Aa'	Aa a Aa Aa	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a .A Aa	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a .A Aa.	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a A a a a Aa Aa	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa Aa, Aa a Aa	A Aa			Aa Aa	AaAa AaAa Aa a aN
+{a}A'Aa'	Aa a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a Aa A AaAa	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a AaA a a a Aa A	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a a .A a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a a a a a.	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a a a	A Aa			Aa & Aa	AaAa AaAa Aa a a a aN
+{a}A'Aa'	Aa a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a Aa a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a a (a)	A Aa			Aa & Aa	AaAa AaAa Aa a aN
+{a}A'Aa'	Aa a a a a a a	A Aa			Aa & Aa	AaAa AaAa Aa a aN
+{a}A'AaAa'	Aa a a a a a a	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a AaAa	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	A a a AaAa a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAaAa'	Aa a a/a a a a a a-a Aa	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa-a Aa	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a a a a a	A Aa			Aa & Aa	AaAa AaAa Aa a aN
+{a}A'Aa'	A a a a Aa a a a	A Aa			Aa Aa	AaAa AaAa Aa a aN
+{a}A'Aa'	Aa A a	A Aa			Aa	AaAa AaAa Aa a a A a a A A aN
+{a}A'Aa'	Aa a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a a	A Aa			Aa & Aa	AaAa AaAa Aa a a aN
+{a}A'Aa'	Aa a a a	A Aa			Aa & Aa	AaAa AaAa Aa a a aN
+{a}A'Aa'	Aa (a) a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a A Aa Aa	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a A Aa a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa A a a a a A Aa a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a-a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa AaAa	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a-a a	A Aa			Aa & Aa	AaAa AaAa Aa a aN
+{a}A'A'	Aa a a a A (a a a)	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a	A Aa			Aa	AaAa AaAa Aa a aN
+{a}A'Aa'	Aa a a	A Aa			Aa	AaAa AaAa Aa a a aN
+{a}A'Aa'	Aa a a a a	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	A a a a a a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a A a a a a Aa	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAaAa'	Aa a a a a a a a Aa Aa Aa	A Aa			Aa	AaAa AaAa a a aN
+{a}A'Aa'	Aa a a a A/A a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a AaAa	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa AaAa (a)	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'Aa'	Aa a a a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a-a a a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a a	A Aa			Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa Aa a a	A Aa			Aa Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	A a a a a a/a	A Aa			Aa & Aa	AaAa AaAa Aa aN
+{a}A'AaAa'	Aa a a a a a	A Aa			Aa & Aa	AaAa AaAa Aa a a aN
+{a}A'AaAa'	Aa a	A Aa			Aa	AaAa AaAa Aa aN
++=0	Aa a (a a a)	Aa	Aa		Aa	a    0.0 0.0N
+~' 'Aa	Aa: A a a a a a a a a a a a Aa (a a a a a 0) a a a a a	Aa		Aa	Aa	a a a a a aN
+a{ }	Aa a Aa a a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+a{ }	Aa a Aa a a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+a{ }	Aa a Aa a a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+a{ }	Aa a Aa a a a	Aa	Aa Aa	Aa Aa	Aa	a a a a a a a aN
+*	Aa a a (a)	Aa			Aa	a'a a Aa Aa 0 A0A A A0A0 aAaA a Aa a a Aa Aa Aa, a Aa, a Aa a aN
++/\' '=A	Aa: Aa a a a a a a a a a A	Aa		Aa	Aa	a a a a a a aN
+:Aa Aa a0{,a0,a0,}	Aa a a a a: a a a a a a a a a	Aa	Aa	Aa	Aa	a a a aN
+(A'Aa').Aa	Aa a a Aa a	Aa			Aa	a a a aN
+)A {a} {-a=a}	Aa (a a /a a a<0 a a) a a (a  a)	Aa-a			Aa Aa	a a a 0aN
+)A{a} {-a=a}	Aa (a a /a a a<0 a a) a a (a a a) a a a	Aa-a			Aa Aa	a a a a a 0aN
+'Aa? '	Aa a a a a a	Aa			Aa	aN
+:Aa <a><a><a0a a0a>,	Aa a a a a a a a a a a a a	Aa	Aa	Aa	Aa	a a a a .A a aN
+(0/)A'AaAa'	Aa a a a a a	Aa			Aa	aN
+'-0'~#A'Aa'	Aa Aa Aa	Aa			Aa	A a aN
+{(A).A }'a'	Aa a a a a a a a a a a a a a a.a	Aa			Aa	a a a a a a a.a aN
+({.A'a'}A).a	Aa a a a a a a a a a a a	Aa			Aa	a.aN
+0,0'''0,0'''	Aa a a a	Aa			Aa	aN
+|-*+!~,?0	Aa a a (a)	Aa			Aa	a'a a Aa Aa 0 A0A A A0A0 aAaA a Aa a a Aa Aa Aa, a Aa, a Aa AaAN

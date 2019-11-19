@@ -1,0 +1,63 @@
+.a .a { a-a: #a }N
+.a  { a: #a; }N
+.a .a { a: #0; a-a: a } /* Aa */N
+.a .a { a: #a0; a-a: #a0a0a0 } /* Aa */N
+.a .a { a-a: a } /* Aa */N
+.a .a { a-a: a } /* Aa */N
+.a .a { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0; a-a: a } /* Aa.AaAa */N
+.a .a0 { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0; a-a: a; a-a: a } /* Aa.Aa */N
+.a .a { a: #0; a-a: #a } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0; a-a: #a } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a: #a } /* Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0; a-a: a } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa */N
+.a .a { a-a: a } /* Aa.Aa */N
+.a .a { a: #a } /* Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a0 { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a0 { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #a0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa */N
+.a .a { a: #0 } /* Aa.Aa.Aa.Aa */

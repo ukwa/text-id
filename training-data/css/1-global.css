@@ -1,0 +1,36 @@
+a {N
+	a: 0;N
+	a-a: Aa, -a-a, AaAaAaAa, Aa A, Aa, Aa, Aa, Aa Aa, Aa Aa, Aa Aa, a-a;N
+	a-a: 0a;N
+	a-a: 0.0;N
+	a: #0;N
+}N
+N
+a0, a0, a0, a0, a0, a0 {N
+	a: 0 0 0.0a 0;N
+	a-a: 0;N
+	a-a: 0.0;N
+}N
+N
+a0 {N
+	a-a: 0a;N
+}N
+N
+a {N
+	a: a;N
+}N
+N
+a {N
+	a-a: a, a, a;N
+	a-a: a(0a - 0a);N
+	a: #0;N
+	a-a: #a0a0a0;N
+	a: 0.0a 0.0a;N
+	a-a: 0a;N
+}N
+N
+@a (a-a: 0a) {N
+	a {N
+		a-a: 0a;N
+	}N
+}

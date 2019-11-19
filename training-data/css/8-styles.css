@@ -1,0 +1,20 @@
+a, a{N
+    a-a: a;N
+}N
+N
+.a {N
+    a: 0a;N
+    a-a: 0a;N
+}N
+N
+#AaAa {N
+    a: 0a;N
+    a: 0a;N
+}N
+N
+@a a a a (a-a: 0a) {N
+    #AaAa {N
+        a: 0a;N
+        a: 0a;N
+    }N
+} 

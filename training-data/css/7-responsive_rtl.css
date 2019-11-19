@@ -1,0 +1,84 @@
+/* A */N
+N
+@a (a-a: 0a) {N
+    [a="a"] .aA {N
+        a-a: 0;N
+    }N
+N
+    [a="a"] #a-a {N
+        a-a: a;N
+    }N
+N
+    [a="a"] #a .a a {N
+        a-a: 0a;N
+        a-a: 0;N
+    }N
+N
+    [a="a"] #a .a a {N
+        a-a: 0;N
+        a-a: 0a;N
+    }N
+N
+    [a="a"] .a-a .a .a,N
+    [a="a"] .a-a .a .a,N
+    [a="a"] .a #a,N
+    [a="a"] .a a.a,N
+    [a="a"] .a .a {N
+        a-a: 0;N
+        a-a: 0a;N
+    }N
+N
+    [a="a"] .a-a a.a a.a,N
+    [a="a"] .a-a a.a-a a,N
+    [a="a"] .a-a .a a.a-a a a {N
+        a: 0a 0a 0a 0a;N
+        a-a: a(0% - 0a) 0a;N
+    }N
+N
+    [a="a"] .a-a-a-a + .a {N
+        a-a: 0;N
+        a-a: 0a;N
+    }N
+N
+    [a="a"] .a .a-a a {N
+        a-a: 0;N
+        a-a: 0a;N
+    }N
+N
+    [a="a"] .a-a a {N
+        a: a;N
+    }N
+N
+    [a="a"] .a-a a + a {N
+        a-a: 0;N
+        a-a: 0a;N
+    }N
+N
+    [a="a"] .a .a a a a {N
+        a-a: 0;N
+        a-a: 0a;N
+    }N
+}N
+N
+/* A */N
+N
+@a (a-a: 0a) {N
+    [a="a"] .a-a .a .a,N
+    [a="a"] .a-a .a .a,N
+    [a="a"] .a #a,N
+    [a="a"] .a a.a,N
+    [a="a"] .a .a {N
+        a-a: 0;N
+    }N
+N
+    [a="a"] .a .a-a,N
+    [a="a"] .a .a-a,N
+    [a="a"] .a .a {N
+        a-a: 0;N
+        a-a: 0a;N
+    }N
+N
+    [a="a"] .a a {N
+        a-a: 0;N
+    }N
+}N

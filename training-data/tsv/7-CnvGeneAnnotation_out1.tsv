@@ -1,0 +1,45 @@
+##A=A_A_AN
+##AaA a: a0.0.0N
+##Aa a a: 0-0-0 0:0:0N
+##a-a a: 0N
+##a a a: AN
+##a a a: 0N
+##a a a a a: 0N
+##a a a a a: AN
+##a a a: 0.0N
+#a	a	a	A_a	a	a_a_a	a_A	a_A	a	a	a a_a_a	a a_0a_a	a_a	a_a_a_a	a_a	a_a	a	a_aN
+a0	0	0	0	0	0	0.0	0.0	A0	0.0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]		0 [A_A=a A=0 A="Aa" A="Aa a"]			N
+a0	0	0	0	0	0	0.0	0.0	A	0.0	0	0.0 (0.0)	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]	A [A=Aa a a a a a A=]	0 [A_A=a A=0 A="Aa" A="Aa a"]	A0 [A=A A=A A=a A="Aa a a a a a a & a" A="~0 a a. a a & 0 a" A=0],A0 [A=A A=A A=a A="Aa a" A="0.0 a a. a. 0-0" A=0]	0_[A=A_A=Aa_a,a,0,a_a-_a_a_a,0,Aa_a]	N
+a0	0	0	0	0	0	0.0	0.0	A	0.0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]	A [A=Aa a a a a a A=]	0 [A_A=a A=0 A="Aa" A="Aa a"]	A0 [A=A A=A A=a A="Aa a a a a a a & a" A="~0 a a. a a & 0 a" A=0],A0 [A=A A=A A=a A="Aa a" A="0.0 a a. a. 0-0" A=0]	0_[A=A_A=Aa_a,a,0,a_a-_a_a_a,0,Aa_a]	N
+a0	0	0	0	0	0	0.0	0.0	A0	0.0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]		0 [A_A=a A=0 A="Aa" A="Aa a"]			N
+a0	0	0	0	0	0	0.0	0.0	A0A0	0.0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]	A0A0 [A=Aa a a a a a A=]	0 [A_A=a A=0 A="Aa" A="Aa a"]	A0 [A=A0A0 A=A A=a A="Aa, a-a" A="0.0 a +A0 +A0A +A0A0" A=0],A0 [A=A0A0 A=A A=a A="Aa-Aa a-a" A="0 a a. 0-0" A=0],A0 [A=A0A0 A=A A=a A="Aa-Aa a, a a" A="0 a a 0-0" A=0],A0 [A=A0A0 A=A A=a A="Aa a a a a" A="a.0_0a" A=0A0 [A=A0A0 A=A A=a A="Aa" A="0 a, a.0_0" A=0]	0_[A=A0A0_A=Aa-Aa_a,a_a,0,0,Aa_a/Aa_a_a_a_a,a_0,a_a_a_a,0,Aa_a]	N
+a0	0	0	0	0	0	0.0	0.0	A0A	0.0	0	0.0 (0.0)	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]		0 [A_A=a A=0 A="Aa" A="Aa a"]			N
+a0	0	0	0	0	0	0.0	0.0	A0	0.0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]		0 [A_A=a A=0 A="Aa" A="Aa a"]			N
+a0	0	0	0	0	0	0.0	0.0	A0A0	0.0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]		0 [A_A=a A=0 A="Aa" A="Aa a"]			N
+a0	0	0	0	0	0	0.0	0.0	A0	0.0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]		0 [A_A=a A=0 A="Aa" A="Aa a"]			N
+a0	0	0	0	0	0	0.0	0.0	A0	0	0	0.0	0a0 a a [A=Aa a A=a://a.a.a.a/a/0]		0 [A_A=a A=0 A="Aa" A="Aa a"]			N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0A0	0	0	0.0						A0A0 (a_a=0.0 a=a)N
+a0	0	0	0	0	0	0	0	A0A0	0	0	0.0						A0A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0A0	0	0	0.0						A0A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0A0	0	0	0.0						A0A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=a/a a=a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=a/a a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=a/a a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=a/a a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=a/a a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N
+a0	0	0	0	0	0	0	0	A0	0	0	0.0						A0 (a_a=0.0 a=a/a)N

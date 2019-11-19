@@ -1,0 +1,13 @@
+a {N
+  a: 0;N
+  a-a: -a-a, AaAaAaAa, "Aa A", "Aa", "Aa",N
+    "Aa", "Aa", "Aa Aa", "Aa Aa", "Aa Aa",N
+    a-a;N
+  -a-a-a: a;N
+  -a-a-a-a: a;N
+}N
+N
+a {N
+  a-a: a-a-a, Aa, Aa, Aa, "Aa Aa",N
+    a;N
+}N

@@ -1,0 +1,257 @@
+* {N
+  a: 0;N
+  a: 0;N
+  a: 0;N
+}N
+N
+a {N
+  a: 0a 0a;N
+  a: 0a "Aa Aa", "Aa Aa", "Aa";N
+  a: #A0A0 -a-a(a, 0% 0%, 0% 0%, a(#a), a(#A0A0));N
+  a: #A0A0 -a-a-a(a, #a, #A0A0);N
+  a-a: a-a;N
+  a: #0;N
+  -a-a-a: a;N
+}N
+a0, a0, a0 {N
+  a-a: 0a;N
+  a: #0;N
+}N
+a0 a, a0 a {N
+  a: 0 0a;N
+  a-a: a;N
+}N
+a0 {N
+  a-a: 0a;N
+}N
+a0 {N
+  a-a: 0a;N
+}N
+a0 {N
+  a: 0a 0 0a 0;N
+  a-a: 0a;N
+  a-a: 0a a #a;N
+  a-a: 0a;N
+}N
+a a {N
+  a-a: a;N
+}N
+a a:a {N
+  a: a;N
+  a: #0a0a0a;N
+}N
+a a .a {N
+  a-a: 0a;N
+  a-a: a;N
+}N
+a a .a {N
+  a-a: 0a;N
+  a-a: a;N
+}N
+a a:a-a .a {N
+  a-a: 0;N
+}N
+a {N
+  a-a: 0.0;N
+}N
+a {N
+  a: #0;N
+  a-a: a;N
+}N
+a:a {N
+  a: #0;N
+}N
+#a {N
+  a-a: 0a;N
+}N
+.a a0 {N
+  a-a: 0a;N
+  a-a: 0a;N
+}N
+a#a {N
+  a: 0%;N
+  a: 0%;N
+  a: a;N
+}N
+a#a a {N
+  a: a;N
+  a: 0%;N
+  a-a: 0a;N
+  a: 0a;N
+}N
+a#a a a {N
+  a: a;N
+  a: 0a;N
+  a: 0a a a;N
+  -a-a-a: 0a;N
+  -a-a-a: 0a;N
+  a-a: 0a;N
+  a: a;N
+  a-a: a;N
+}N
+a#a a a:a,N
+a#a a a:a {N
+  a: a(0,0,0,0.0);N
+  a: 0a a #a;N
+}N
+a#a a a.a {N
+  -a-a: a .0a a-a-a;N
+  a: #a0a;N
+  a-a: #A0A0;N
+}N
+#a {N
+  a: a;N
+  a: a;N
+  a: 0a;N
+  a: 0a;N
+  a: 0a;N
+  -a-a: a a 0.0a, a a 0.0a;N
+  -a-a: a a 0.0a, a a 0.0a;N
+  -a-a-a: 0a;N
+  -a-a-a: 0a;N
+  -a-a-a: a 0a 0a 0a a(0, 0, 0, 0.0), a 0a 0a 0a a(0, 0, 0, 0.0), 0a 0a 0a a(0, 0, 0, 0.0);N
+  -a-a-a: a 0a 0a 0a a(0, 0, 0, 0.0), a 0a 0a 0a a(0, 0, 0, 0.0), 0a 0a 0a a(0, 0, 0, 0.0);N
+  -a-a-a: a;N
+  a-a: a;N
+  a: 0a "Aa Aa", Aa, a-a;N
+  a: 0a 0a;N
+  a: a;N
+  a: a;N
+  a-a: 0;N
+  a: a;N
+  a: 0.0;N
+  a: #0;N
+}N
+#a:a {N
+  a: 0a;N
+  a: 0.0; N
+}N
+N
+/*a*/N
+#a a {N
+  a: a-a;N
+  a: a;N
+  a-a: a;N
+  a-a: 0a;N
+}N
+#a .a {N
+  a-a: a-a;N
+}N
+#a .a .a {N
+  a-a: 0a;N
+}N
+N
+/*a*/N
+.a-a .a {N
+  a: 0%;N
+  a-a: 0a 0a;N
+}N
+.a-a .a,N
+.a-a .a {N
+  a: a;N
+}N
+N
+/*a*/N
+a#a.a-a a {N
+  a: a;N
+  a: a;N
+  a: 0%;N
+}N
+a#a.a-a a.a {N
+  a: 0a;N
+  a: #0;N
+  a: #a;N
+  a-a: a;N
+}N
+.a-a .a {N
+  a-a: 0a;N
+}N
+.a-a .a {N
+  a: 0%;N
+  a-a: 0a 0a;N
+}N
+.a-a .a {N
+  a: 0%;N
+}N
+.a-a .a {N
+  a: 0%;N
+}N
+.a-a .a,N
+.a-a .a {N
+  a-a: a;N
+  a: a;N
+}N
+N
+/*a*/N
+@a (a-a: 0a) {N
+  a {N
+    a-a: 0a;N
+    a-a: 0a;N
+    a: 0;N
+  }N
+  #a {N
+    a: a;N
+    a: 0%;N
+    a-a: 0a;N
+    a-a: 0.0a;N
+    a-a: 0a;N
+    a: 0;N
+    a-a: 0;N
+    a: 0a 0;N
+    a: 0;N
+  }N
+  #a:a {N
+    a: 0%;N
+    a: 0;N
+    a: 0;N
+  }N
+  .a a0 {N
+    a-a: 0a;N
+    a-a: 0.0a;N
+    a: #a;N
+    a: #0;N
+    a: 0a 0a;N
+    a: 0;N
+  }N
+  a#a {N
+    a-a: 0a a #a;N
+  }N
+  a#a a {N
+    a: a;N
+    a: a !a;N
+    a: a;N
+    a-a: 0a a #a;N
+    a-a: 0a;N
+    a-a: 0.0a;N
+    a-a: 0;N
+    a: 0;N
+  }N
+  a#a a:a-a(a) {N
+    a: #a0a0a0;N
+  }N
+  a#a a a {N
+    a: a;N
+    a: 0;N
+    a-a: 0;N
+    a: 0a 0a;N
+  }N
+  a#a a a:a,N
+  a#a a a:a {N
+    a: 0;N
+  }N
+  #a .a,N
+  #a .a,N
+  #a .a {N
+    a: a !a;N
+  }N
+  #a .a {N
+    a: a;N
+    a: a-a;N
+    a: 0%;N
+    a-a: 0;N
+    a-a: 0 0%;N
+  }N
+  #a .a .a {N
+    a-a: 0a;N
+  }N
+}N
