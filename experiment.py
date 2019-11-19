@@ -1,31 +1,10 @@
 import pandas as pd
-from os import listdir
-from os.path import isfile, join, isdir
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import make_pipeline
 from sklearn.metrics import confusion_matrix
 from sklearn.svm import SVC
-from preproc import obliviate, fmt_dirs
-
-def load_fmt_files( source_path ):
-    data = []
-    target = []
-    names = []
-    for i, j in enumerate(fmt_dirs):
-        files_path = join(source_path, j)
-        fmt_files = [f for f in listdir(files_path) if isfile(join(files_path, f))]
-        for filename in fmt_files:
-            fmt_file = join(files_path, filename)
-            with open(fmt_file, 'r') as fin:
-                content = fin.read()
-                if len(content) > 32:
-                    content = obliviate(content)
-                    data.append(content)
-                    target.append(i)
-                    names.append(fmt_file)
-
-    return data, target, names
+from preproc import obliviate, fmt_dirs, load_fmt_files
 
 print(fmt_dirs)
 training_path = 'training-data'

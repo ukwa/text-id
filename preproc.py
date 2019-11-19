@@ -1,4 +1,6 @@
 import re
+from os import listdir
+from os.path import isfile, join, isdir
 from sklearn.feature_extraction.text import strip_accents_unicode
 
 fmt_dirs = ['c', 'h', 'cpp', 'js', 'java', 'css', 'tsv', 'csv', 'py', 'f90']
@@ -39,3 +41,21 @@ def unrepeat(text):
     return text
 
 
+def load_fmt_files( source_path ):
+    data = []
+    target = []
+    names = []
+    for i, j in enumerate(fmt_dirs):
+        files_path = join(source_path, j)
+        fmt_files = [f for f in listdir(files_path) if isfile(join(files_path, f))]
+        for filename in fmt_files:
+            fmt_file = join(files_path, filename)
+            with open(fmt_file, 'r') as fin:
+                content = fin.read()
+                if len(content) > 32:
+                    content = obliviate(content)
+                    data.append(content)
+                    target.append(i)
+                    names.append(fmt_file)
+
+    return data, target, names
